@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
+// Trigger Vercel redeployment
 import Papa from 'papaparse';
 import FilterBar from './components/FilterBar';
 import LegendPanel from './components/LegendPanel';
