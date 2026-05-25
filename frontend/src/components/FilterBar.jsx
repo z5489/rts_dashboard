@@ -71,6 +71,29 @@ export default function FilterBar({
       {isOpen && (
         <div className="p-6 border-t border-slate-800/60 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 bg-slate-950/40">
           
+          {/* Ticker Search Filter */}
+          <div className="flex flex-col gap-2">
+            <span className="text-sm font-semibold text-slate-400">Search Tickers</span>
+            <div className="relative">
+              <input
+                type="text"
+                placeholder="e.g. AAPL, TSLA (comma/space sep)"
+                value={filters.tickerQuery || ''}
+                onChange={(e) => setFilters({ ...filters, tickerQuery: e.target.value })}
+                className="w-full px-3 py-2 bg-slate-900 border border-slate-800 rounded-lg text-sm text-slate-300 placeholder-slate-600 focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500 outline-none"
+              />
+              {filters.tickerQuery && (
+                <button
+                  onClick={() => setFilters({ ...filters, tickerQuery: '' })}
+                  className="absolute right-2.5 top-2.5 text-slate-500 hover:text-slate-300 transition-colors"
+                  type="button"
+                >
+                  <X className="w-4 h-4" />
+                </button>
+              )}
+            </div>
+          </div>
+
           {/* RTS Grade Filter */}
           <div className="flex flex-col gap-2">
             <span className="text-sm font-semibold text-slate-400">RTS Grade</span>

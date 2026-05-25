@@ -26,7 +26,8 @@ const DEFAULT_FILTERS = {
   minPrice: 0,
   minATR: 0,
   minVolume: 0,
-  stages: []
+  stages: [],
+  tickerQuery: ''
 };
 
 export default function App() {
@@ -235,6 +236,7 @@ export default function App() {
     if (filters.minATR > 0) count++;
     if (filters.minVolume > 0) count++;
     if (filters.stages.length > 0) count++;
+    if (filters.tickerQuery && filters.tickerQuery.trim() !== '') count++;
     return count;
   };
 
@@ -253,6 +255,16 @@ export default function App() {
 
   // Filter Data
   const filteredData = data.filter(stock => {
+    if (filters.tickerQuery && filters.tickerQuery.trim() !== '') {
+      const tokens = filters.tickerQuery
+        .split(/[\s,]+/)
+        .map(t => t.trim().toUpperCase())
+        .filter(Boolean);
+      if (tokens.length > 0) {
+        const matches = tokens.some(t => stock.ticker && stock.ticker.toUpperCase().includes(t));
+        if (!matches) return false;
+      }
+    }
     if (filters.grades.length > 0 && !filters.grades.includes(stock.rts_grade)) return false;
     if (filters.colors.length > 0 && !filters.colors.includes(stock.colour_band)) return false;
     if (stock.atr_extension < filters.minExtension || stock.atr_extension > filters.maxExtension) return false;
