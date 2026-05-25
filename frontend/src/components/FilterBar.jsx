@@ -6,6 +6,7 @@ export default function FilterBar({
   setFilters,
   sectors,
   industries,
+  exchanges = [],
   onReset,
   activeFilterCount,
   isOpen,
@@ -24,6 +25,7 @@ export default function FilterBar({
 
   const [sectorDropdownOpen, setSectorDropdownOpen] = useState(false);
   const [industryDropdownOpen, setIndustryDropdownOpen] = useState(false);
+  const [exchangeDropdownOpen, setExchangeDropdownOpen] = useState(false);
 
   // Toggle multi-select items in array
   const toggleFilterItem = (field, value) => {
@@ -207,6 +209,7 @@ export default function FilterBar({
               onClick={() => {
                 setSectorDropdownOpen(!sectorDropdownOpen);
                 setIndustryDropdownOpen(false);
+                setExchangeDropdownOpen(false);
               }}
               className="flex items-center justify-between px-3 py-2 bg-slate-900 border border-slate-800 rounded-lg text-sm text-slate-300 hover:border-slate-700 transition-colors w-full text-left"
             >
@@ -252,6 +255,7 @@ export default function FilterBar({
               onClick={() => {
                 setIndustryDropdownOpen(!industryDropdownOpen);
                 setSectorDropdownOpen(false);
+                setExchangeDropdownOpen(false);
               }}
               className="flex items-center justify-between px-3 py-2 bg-slate-900 border border-slate-800 rounded-lg text-sm text-slate-300 hover:border-slate-700 transition-colors w-full text-left"
             >
@@ -290,6 +294,54 @@ export default function FilterBar({
                     </label>
                   ))
                 )}
+              </div>
+            )}
+          </div>
+
+          {/* Exchange Selector */}
+          <div className="flex flex-col gap-2 relative">
+            <span className="text-sm font-semibold text-slate-400">Exchange</span>
+            <button
+              onClick={() => {
+                setExchangeDropdownOpen(!exchangeDropdownOpen);
+                setSectorDropdownOpen(false);
+                setIndustryDropdownOpen(false);
+              }}
+              className="flex items-center justify-between px-3 py-2 bg-slate-900 border border-slate-800 rounded-lg text-sm text-slate-300 hover:border-slate-700 transition-colors w-full text-left"
+              type="button"
+            >
+              <span>
+                {filters.exchanges && filters.exchanges.length === 0
+                  ? 'All Exchanges'
+                  : `${filters.exchanges ? filters.exchanges.length : 0} Selected`}
+              </span>
+              <ChevronDown className="w-4 h-4 text-slate-400" />
+            </button>
+            {exchangeDropdownOpen && (
+              <div className="absolute top-[70px] left-0 right-0 bg-slate-900 border border-slate-800 rounded-lg shadow-xl z-35 max-h-60 overflow-y-auto p-2">
+                <div className="flex items-center justify-between border-b border-slate-800 pb-1.5 mb-1.5 px-2">
+                  <span className="text-xs font-semibold text-indigo-400">Select Exchanges</span>
+                  {filters.exchanges && filters.exchanges.length > 0 && (
+                    <button 
+                      onClick={() => setFilters({ ...filters, exchanges: [] })}
+                      className="text-[10px] text-slate-500 hover:text-slate-300"
+                      type="button"
+                    >
+                      Clear
+                    </button>
+                  )}
+                </div>
+                {exchanges.map(exch => (
+                  <label key={exch} className="flex items-center gap-2 px-2 py-1.5 hover:bg-slate-800/60 rounded cursor-pointer text-xs text-slate-300">
+                    <input
+                      type="checkbox"
+                      checked={filters.exchanges && filters.exchanges.includes(exch)}
+                      onChange={() => toggleFilterItem('exchanges', exch)}
+                      className="rounded border-slate-800 text-indigo-600 bg-slate-950 focus:ring-indigo-500"
+                    />
+                    {exch}
+                  </label>
+                ))}
               </div>
             )}
           </div>

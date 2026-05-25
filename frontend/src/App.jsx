@@ -24,6 +24,7 @@ const DEFAULT_FILTERS = {
   maxExtension: 20,
   sectors: [],
   industries: [],
+  exchanges: [],
   minPrice: 0,
   minATR: 0,
   minVolume: 0,
@@ -107,6 +108,7 @@ export default function App() {
   // Sector and Industry lists
   const [allSectors, setAllSectors] = useState([]);
   const [allIndustries, setAllIndustries] = useState([]);
+  const [allExchanges, setAllExchanges] = useState([]);
 
   // Fetch available dates on mount
   useEffect(() => {
@@ -183,6 +185,10 @@ export default function App() {
           const sectors = sortedUnique(parsed.map(s => s.sector));
           setAllSectors(sectors);
           
+          // Compute unique exchanges
+          const exchanges = sortedUnique(parsed.map(s => s.exchange));
+          setAllExchanges(exchanges);
+          
           setLoading(false);
         },
         error: (err) => {
@@ -233,6 +239,7 @@ export default function App() {
     if (filters.maxExtension !== DEFAULT_FILTERS.maxExtension) count++;
     if (filters.sectors.length > 0) count++;
     if (filters.industries.length > 0) count++;
+    if (filters.exchanges && filters.exchanges.length > 0) count++;
     if (filters.minPrice > 0) count++;
     if (filters.minATR > 0) count++;
     if (filters.minVolume > 0) count++;
@@ -271,6 +278,7 @@ export default function App() {
     if (stock.atr_extension < filters.minExtension || stock.atr_extension > filters.maxExtension) return false;
     if (filters.sectors.length > 0 && !filters.sectors.includes(stock.sector)) return false;
     if (filters.industries.length > 0 && !filters.industries.includes(stock.industry)) return false;
+    if (filters.exchanges && filters.exchanges.length > 0 && !filters.exchanges.includes(stock.exchange)) return false;
     if (stock.close < filters.minPrice) return false;
     if (stock.atr14 < filters.minATR) return false;
     if (stock.avg_volume_50d < filters.minVolume) return false;
@@ -440,6 +448,7 @@ export default function App() {
               setFilters={setFilters}
               sectors={allSectors}
               industries={allIndustries}
+              exchanges={allExchanges}
               onReset={handleResetFilters}
               activeFilterCount={activeFilterCount}
               isOpen={filterPanelOpen}
