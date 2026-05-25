@@ -8,7 +8,7 @@ export default defineConfig({
   plugins: [
     react(),
     {
-      name: 'serve-data-folder',
+      name: 'data-folder-handler',
       configureServer(server) {
         server.middlewares.use((req, res, next) => {
           if (req.url.startsWith('/data/')) {
@@ -24,6 +24,14 @@ export default defineConfig({
           }
           next();
         });
+      },
+      closeBundle() {
+        const src = path.resolve(__dirname, '../data');
+        const dest = path.resolve(__dirname, 'dist/data');
+        if (fs.existsSync(src)) {
+          fs.cpSync(src, dest, { recursive: true });
+          console.log(`Copied ${src} to ${dest}`);
+        }
       }
     }
   ],
