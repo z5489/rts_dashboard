@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useMemo, useRef, useEffect } from 'react';
 import { ChevronUp, ChevronDown, Eye, EyeOff } from 'lucide-react';
 import StockDetail from './StockDetail';
 
@@ -10,6 +10,42 @@ export default function TableView({
   setExpandedStock,
   colorMap
 }) {
+  const [insightsOpen, setInsightsOpen] = useState(false);
+  const insightsRef = useRef(null);
+
+  // Click outside listener for insights dropdown
+  useEffect(() => {
+    function handleClickOutside(event) {
+      if (insightsRef.current && !insightsRef.current.contains(event.target)) {
+        setInsightsOpen(false);
+      }
+    }
+    document.addEventListener("mousedown", handleClickOutside);
+    return () => document.removeEventListener("mousedown", handleClickOutside);
+  }, []);
+
+  // Compute sector/industry distribution dynamically based on data
+  const distribution = useMemo(() => {
+    const sectors = {};
+    const industries = {};
+    data.forEach(stock => {
+      const s = stock.sector || 'Unknown';
+      const ind = stock.industry || 'Unknown';
+      sectors[s] = (sectors[s] || 0) + 1;
+      industries[ind] = (industries[ind] || 0) + 1;
+    });
+
+    const sortedSectors = Object.entries(sectors)
+      .map(([name, count]) => ({ name, count }))
+      .sort((a, b) => b.count - a.count);
+
+    const sortedIndustries = Object.entries(industries)
+      .map(([name, count]) => ({ name, count }))
+      .sort((a, b) => b.count - a.count);
+
+    return { sectors: sortedSectors, industries: sortedIndustries };
+  }, [data]);
+
   // Columns definitions: key, label, alwaysVisible
   const columnsList = [
     { key: 'ticker', label: 'Ticker', alwaysVisible: true },
@@ -79,9 +115,84 @@ export default function TableView({
     <div className="w-full bg-slate-900/40 border border-slate-800 rounded-xl overflow-hidden shadow-xl backdrop-blur-md">
       {/* Table Toolbar */}
       <div className="p-4 border-b border-slate-800/60 flex flex-wrap justify-between items-center bg-slate-900/60 gap-4">
-        <span className="text-xs font-semibold text-slate-400">
-          Showing {data.length} Stocks
-        </span>
+        <div className="flex items-center flex-wrap gap-4">
+          <span className="text-xs font-semibold text-slate-400">
+            Showing <span className="text-white font-bold">{data.length}</span> Stocks
+          </span>
+
+          {data.length > 0 && (
+            <>
+              {/* Inline Top 2 Sectors Summary */}
+              <div className="hidden md:flex items-center gap-1.5 text-[11px] text-slate-500 border-l border-slate-800 pl-4">
+                <span className="font-semibold uppercase tracking-wider text-[10px] text-slate-500">Top Sectors:</span>
+                {distribution.sectors.slice(0, 2).map(sec => (
+                  <span key={sec.name} className="bg-slate-800/60 border border-slate-700/30 text-indigo-300 px-2 py-0.5 rounded-md font-bold font-mono">
+                    {sec.name} ({sec.count})
+                  </span>
+                ))}
+                {distribution.sectors.length > 2 && (
+                  <span className="text-[10px] text-slate-500 font-semibold italic">
+                    +{distribution.sectors.length - 2} more
+                  </span>
+                )}
+              </div>
+
+              {/* Insights Dropdown */}
+              <div className="relative" ref={insightsRef}>
+                <button
+                  onClick={() => setInsightsOpen(!insightsOpen)}
+                  className="px-2.5 py-1 text-[10px] font-extrabold bg-indigo-600/10 hover:bg-indigo-600/20 border border-indigo-500/20 text-indigo-400 hover:text-indigo-300 rounded-lg transition-all flex items-center gap-1 shadow-md shadow-indigo-900/10"
+                  type="button"
+                >
+                  <span>Detailed Insights</span>
+                  <ChevronDown className={`w-3.5 h-3.5 transition-transform duration-200 ${insightsOpen ? 'rotate-180' : ''}`} />
+                </button>
+
+                {insightsOpen && (
+                  <div className="absolute left-0 mt-2 w-80 md:w-96 bg-slate-900 border border-slate-800 rounded-xl shadow-2xl z-40 p-4 backdrop-blur-md">
+                    <div className="flex justify-between items-center border-b border-slate-800 pb-2 mb-3">
+                      <span className="text-xs font-bold text-white uppercase tracking-wider">Sector & Industry Distribution</span>
+                      <span className="text-[10px] font-mono text-slate-400">{data.length} stocks shown</span>
+                    </div>
+
+                    <div className="grid grid-cols-2 gap-4 max-h-[300px] overflow-y-auto pr-1">
+                      {/* Sectors Column */}
+                      <div className="flex flex-col gap-2">
+                        <span className="text-[10px] font-black text-indigo-400 uppercase tracking-wider block border-b border-slate-800/40 pb-1">Sectors</span>
+                        <div className="flex flex-col gap-1.5">
+                          {distribution.sectors.map(sec => (
+                            <div key={sec.name} className="flex justify-between items-center text-[11px] gap-2">
+                              <span className="text-slate-300 truncate" title={sec.name}>{sec.name}</span>
+                              <span className="text-indigo-400 font-bold font-mono bg-indigo-500/15 px-1.5 py-0.2 rounded-md border border-indigo-500/10">{sec.count}</span>
+                            </div>
+                          ))}
+                        </div>
+                      </div>
+
+                      {/* Industries Column */}
+                      <div className="flex flex-col gap-2">
+                        <span className="text-[10px] font-black text-emerald-400 uppercase tracking-wider block border-b border-slate-800/40 pb-1">Top Industries</span>
+                        <div className="flex flex-col gap-1.5">
+                          {distribution.industries.slice(0, 10).map(ind => (
+                            <div key={ind.name} className="flex justify-between items-center text-[11px] gap-2">
+                              <span className="text-slate-300 truncate" title={ind.name}>{ind.name}</span>
+                              <span className="text-emerald-400 font-bold font-mono bg-emerald-500/15 px-1.5 py-0.2 rounded-md border border-emerald-500/10">{ind.count}</span>
+                            </div>
+                          ))}
+                          {distribution.industries.length > 10 && (
+                            <span className="text-[9px] text-slate-500 italic font-semibold mt-1">
+                              +{distribution.industries.length - 10} more
+                            </span>
+                          )}
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                )}
+              </div>
+            </>
+          )}
+        </div>
         
         {/* Column Visibility Selector */}
         <div className="relative">
