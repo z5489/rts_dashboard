@@ -4,7 +4,7 @@ import FilterBar from './components/FilterBar';
 import LegendPanel from './components/LegendPanel';
 import TableView from './components/TableView';
 import CardView from './components/CardView';
-import { LayoutGrid, Table, Calendar, AlertCircle, RefreshCw } from 'lucide-react';
+import { LayoutGrid, Table, Calendar, AlertCircle, RefreshCw, TrendingUp } from 'lucide-react';
 
 const COLOR_MAP = {
   green: { name: 'Green', font: '#4ade80', accent: '#22c55e', badgeBg: 'rgba(34, 197, 94, 0.15)' },
