@@ -1,10 +1,10 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import Papa from 'papaparse';
 import FilterBar from './components/FilterBar';
 import LegendPanel from './components/LegendPanel';
 import TableView from './components/TableView';
 import CardView from './components/CardView';
-import { LayoutGrid, Table, Calendar, AlertCircle, RefreshCw, TrendingUp } from 'lucide-react';
+import { LayoutGrid, Table, Calendar, AlertCircle, RefreshCw, TrendingUp, Download, ChevronDown } from 'lucide-react';
 
 const COLOR_MAP = {
   green: { name: 'Green', font: '#4ade80', accent: '#22c55e', badgeBg: 'rgba(34, 197, 94, 0.15)' },
@@ -46,6 +46,61 @@ export default function App() {
   // Sorting settings
   const [sortConfig, setSortConfig] = useState({ key: 'rts_grade_rank', direction: 'asc' });
   const [expandedStock, setExpandedStock] = useState(null);
+  const [exportDropdownOpen, setExportDropdownOpen] = useState(false);
+  const exportRef = useRef(null);
+
+  // Click outside listener for export dropdown
+  useEffect(() => {
+    function handleClickOutside(event) {
+      if (exportRef.current && !exportRef.current.contains(event.target)) {
+        setExportDropdownOpen(false);
+      }
+    }
+    document.addEventListener("mousedown", handleClickOutside);
+    return () => document.removeEventListener("mousedown", handleClickOutside);
+  }, []);
+
+  const exportToCSV = (exportType) => {
+    if (!sortedData || sortedData.length === 0) return;
+
+    let csvContent = "";
+    let filename = "";
+
+    if (exportType === 'full') {
+      const headers = Object.keys(sortedData[0]);
+      csvContent += headers.join(",") + "\n";
+      
+      sortedData.forEach(row => {
+        const values = headers.map(header => {
+          const val = row[header];
+          if (typeof val === 'string' && (val.includes(',') || val.includes('"') || val.includes('\n'))) {
+            return `"${val.replace(/"/g, '""')}"`;
+          }
+          return val !== undefined && val !== null ? val : '';
+        });
+        csvContent += values.join(",") + "\n";
+      });
+      filename = `rts_export_full_${selectedDate || 'data'}.csv`;
+    } else if (exportType === 'tickers') {
+      csvContent += "ticker\n";
+      sortedData.forEach(row => {
+        if (row.ticker) {
+          csvContent += `${row.ticker}\n`;
+        }
+      });
+      filename = `rts_export_tickers_${selectedDate || 'data'}.csv`;
+    }
+
+    const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement("a");
+    link.setAttribute("href", url);
+    link.setAttribute("download", filename);
+    link.style.visibility = 'hidden';
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  };
 
   // Sector and Industry lists
   const [allSectors, setAllSectors] = useState([]);
@@ -274,6 +329,40 @@ export default function App() {
                 </select>
               </div>
             )}
+
+            {/* Export Dropdown */}
+            <div className="relative" ref={exportRef}>
+              <button
+                onClick={() => setExportDropdownOpen(!exportDropdownOpen)}
+                className="flex items-center gap-2 px-3 py-1.5 bg-slate-900 border border-slate-800 rounded-xl hover:border-slate-700 text-slate-300 hover:text-slate-100 transition-all font-semibold text-xs shadow-inner"
+              >
+                <Download className="w-4 h-4 text-indigo-400" />
+                <span>Export</span>
+                <ChevronDown className={`w-3.5 h-3.5 text-slate-400 transition-transform ${exportDropdownOpen ? 'rotate-180' : ''}`} />
+              </button>
+              {exportDropdownOpen && (
+                <div className="absolute right-0 mt-2 w-44 bg-slate-900 border border-slate-800 rounded-xl shadow-xl z-50 p-1.5">
+                  <button
+                    onClick={() => {
+                      exportToCSV('full');
+                      setExportDropdownOpen(false);
+                    }}
+                    className="w-full text-left px-3 py-2 rounded-lg text-xs font-semibold text-slate-300 hover:bg-indigo-600 hover:text-white transition-colors"
+                  >
+                    Full CSV
+                  </button>
+                  <button
+                    onClick={() => {
+                      exportToCSV('tickers');
+                      setExportDropdownOpen(false);
+                    }}
+                    className="w-full text-left px-3 py-2 rounded-lg text-xs font-semibold text-slate-300 hover:bg-indigo-600 hover:text-white transition-colors mt-1"
+                  >
+                    Only Ticker
+                  </button>
+                </div>
+              )}
+            </div>
 
             {/* View Mode Toggle */}
             <div className="flex items-center bg-slate-900 border border-slate-800 rounded-xl p-1 gap-1 shadow-inner">
