@@ -1,0 +1,892 @@
+ticker,name,sector,industry,exchange,close,avg_volume_50d,market_cap,atr14,sma50,sma200,atr_extension,rs_3m,rs_6m,rs_12m,rs_score,rs_percentile,trend_strength,stage,52w_high,52w_low,pct_from_52w_high,rts_composite,rts_grade,rts_grade_rank,colour_band,run_date
+KYOCF,Kyocera Corporation,Industrials,Conglomerates,PNK,25.0,514,32935145472,0.7063,17.74,14.92,10.275,31.43,75.69,56.45,56.93,0.0,76.25,2,25.56,10.42,-2.19,0.0,,8,,20260606
+KYOCY,Kyocera Corporation,Industrials,Conglomerates,PNK,22.25,77955,32395010048,0.9785,18.07,15.38,4.2739,25.27,54.66,63.0,50.65,0.0,90.0,2,24.99,10.58,-10.96,0.0,,8,,20260606
+AMADF,"Amadeus IT Group, S.A.",Technology,Information Technology Services,PNK,63.5,8557,27391760384,2.6296,59.25,69.15,1.6145,-10.3,-21.46,-50.42,-30.25,0.0,72.0,3,87.61,53.99,-27.52,0.0,,8,,20260606
+WNGRF,George Weston Limited,Consumer Defensive,Grocery Stores,PNK,71.99,487,27143368704,0.4282,70.41,68.12,3.6829,-6.36,-7.06,-20.21,-12.15,0.0,55.0,2,192.53,60.17,-62.61,0.0,,8,,20260606
+RYAOF,Ryanair Holdings plc,Industrials,Airlines,PNK,25.3,187,31515543552,0.1141,30.37,31.44,-44.4769,-44.85,-24.18,-35.65,-33.93,0.0,0.0,4,38.0,25.3,-33.42,0.0,,8,,20260606
+ES,Eversource Energy,Utilities,Utilities - Regulated Electric,NYSE,70.6,2448195,26551248896,1.4575,68.24,67.75,1.6212,-14.02,2.2,-11.0,-7.13,0.0,65.0,2,76.41,61.53,-7.6,0.0,,8,,20260606
+BRDCY,Bridgestone Corporation,Consumer Cyclical,Auto Parts,PNK,10.7,383004,26862915584,0.2753,10.51,11.16,0.6858,-13.08,-20.46,-22.92,-19.6,0.0,50.75,3,12.55,9.79,-14.74,0.0,,8,,20260606
+MDB,"MongoDB, Inc.",Technology,Software - Infrastructure,NASDAQ,350.74,2076066,28210694144,25.3388,284.35,328.6,2.62,19.69,-22.06,50.42,17.37,0.0,87.5,3,444.72,196.0,-21.13,0.0,,8,,20260606
+XYL,Xylem Inc.,Industrials,Specialty Industrial Machinery,NYSE,109.94,2175655,26132023296,2.4953,116.32,132.45,-2.5559,-20.37,-29.86,-37.31,-30.46,0.0,8.75,4,154.27,105.29,-28.74,0.0,,8,,20260606
+VEEV,Veeva Systems Inc.,Healthcare,Health Information Services,NYSE,172.61,3007957,28169728000,8.4243,166.3,223.53,0.7487,-21.7,-36.94,-64.31,-44.08,0.0,37.5,3,310.5,148.05,-44.41,0.0,,8,,20260606
+SMCAY,SMC Corporation,Industrials,Specialty Industrial Machinery,PNK,20.42,314242,25785991168,0.9366,22.12,19.26,-1.8187,-17.45,2.17,-22.39,-12.56,0.0,61.25,3,27.77,14.31,-26.47,0.0,,8,,20260606
+AMADY,"Amadeus IT Group, S.A.",Technology,Information Technology Services,PNK,62.71,229068,27050981376,1.7374,59.49,69.06,1.8533,-10.65,-23.99,-52.6,-32.1,0.0,72.0,3,85.89,54.75,-26.99,0.0,,8,,20260606
+ALMMF,Aluminum Corporation of China Limited,Basic Materials,Aluminum,PNK,1.33,5826,22816112640,0.0741,1.49,1.41,-2.1632,-27.78,-17.39,107.44,29.94,0.0,14.5,4,2.18,0.56,-38.99,0.0,,8,,20260606
+MGDDF,Compagnie Générale des Établissements Michelin Société en commandite par actions,Unknown,Unknown,PNK,37.34,828,6663621747,0.6787,35.56,34.61,2.6226,-17.5,9.35,-24.11,-10.75,0.0,78.75,2,42.53,29.6,-12.2,0.0,,8,,20260606
+CINF,Cincinnati Financial Corporation,Financial Services,Insurance - Property & Casualty,NASDAQ,165.29,738349,25568169984,3.1612,162.67,160.23,0.8294,-9.46,-5.82,-12.28,-9.31,0.0,92.5,2,174.27,143.37,-5.15,0.0,,8,,20260606
+SNMRF,Snam S.p.A.,Utilities,Utilities - Regulated Gas,PNK,7.47,503,25515167744,0.126,7.66,6.74,-1.5066,-3.04,-5.12,15.29,3.57,0.0,63.25,3,8.12,5.4,-7.91,0.0,,8,,20260606
+DOW,Dow Inc.,Basic Materials,Chemicals,NYSE,33.97,14161471,24483588096,1.3412,37.86,28.64,-2.9032,-6.88,37.68,1.22,11.95,0.0,58.75,3,42.74,20.4,-20.52,0.0,,8,,20260606
+RYLPF,Koninklijke Philips N.V.,Healthcare,Medical Devices,PNK,26.06,1006,25333755904,0.3417,27.1,28.04,-3.0292,-28.59,-15.44,-12.17,-17.42,0.0,24.0,4,33.0,22.28,-21.02,0.0,,8,,20260606
+FTAI,FTAI Aviation Ltd.,Industrials,Aerospace & Defense,NASDAQ,234.05,1425141,24009545728,15.8288,248.12,215.6,-0.889,-19.79,28.88,66.85,31.9,0.0,33.75,3,323.51,108.47,-27.65,0.0,,8,,20260606
+FTAIM,FTAI Aviation Ltd.,Industrials,Aerospace & Defense,NASDAQ,26.74,4626,0,0.2475,26.42,25.74,1.2861,-7.3,-3.49,-15.88,-9.4,0.0,81.25,2,27.49,26.06,-2.73,0.0,,8,,20260606
+FTAIN,FTAI Aviation Ltd.,Industrials,Aerospace & Defense,NASDAQ,24.97,15357,0,0.0355,24.85,24.44,3.4979,-8.83,-6.26,-17.75,-11.5,0.0,93.75,2,25.89,24.8,-3.55,0.0,,8,,20260606
+PHG,Koninklijke Philips N.V.,Healthcare,Medical Devices,NYSE,26.11,1146041,25378467840,0.5605,26.37,27.08,-0.4597,-16.22,-11.71,-7.14,-11.01,0.0,35.25,4,33.44,21.95,-21.92,0.0,,8,,20260606
+AVB,"AvalonBay Communities, Inc.",Real Estate,REIT - Residential,NYSE,189.72,1033936,26915969024,3.2939,177.76,178.04,3.6301,-2.15,-1.77,-28.84,-12.7,0.0,88.75,3,209.86,160.1,-9.6,0.0,,8,,20260606
+AONNY,"Aeon Co., Ltd.",Consumer Cyclical,Department Stores,PNK,8.29,128353,22935318528,0.2548,10.17,13.2,-7.392,-46.41,-66.32,-47.24,-53.71,0.0,10.0,4,18.63,8.36,-55.5,0.0,,8,,20260606
+BKRKY,PT Bank Rakyat Indonesia (Persero) Tbk,Financial Services,Banks - Regional,PNK,7.88,180839,23730608128,0.3026,8.96,10.23,-3.5694,-33.55,-35.54,-62.76,-45.93,0.0,12.5,4,13.78,7.54,-42.82,0.0,,8,,20260606
+KHNGF,Kuehne + Nagel International AG,Industrials,Integrated Freight & Logistics,PNK,237.76,107,28236394496,2.1272,230.99,214.39,3.1835,-10.5,5.87,-22.21,-9.45,0.0,75.0,2,245.0,182.22,-2.96,0.0,,8,,20260606
+SMECF,SMC Corporation,Industrials,Specialty Industrial Machinery,PNK,411.32,1101,26423298048,30.8059,437.96,383.61,-0.8648,-16.05,2.54,-20.5,-11.33,0.0,61.25,3,556.98,281.0,-26.15,0.0,,8,,20260606
+EXPE,"Expedia Group, Inc.",Consumer Cyclical,Travel Services,NASDAQ,228.88,1860853,27470653440,8.9862,235.07,238.82,-0.6889,-18.11,-20.87,10.66,-7.57,0.0,35.25,4,303.8,160.0,-24.66,0.0,,8,,20260606
+STZ,"Constellation Brands, Inc.",Consumer Defensive,Beverages - Brewers,NYSE,140.91,2013382,24268179456,4.3159,150.21,145.14,-2.1553,-13.15,-5.06,-43.4,-22.42,0.0,22.0,4,178.14,126.45,-20.9,0.0,,8,,20260606
+ROL,"Rollins, Inc.",Consumer Cyclical,Personal Services,NYSE,47.1,3275450,22676936704,1.4341,53.02,57.07,-4.127,-28.9,-30.26,-43.02,-35.03,0.0,8.75,4,66.14,44.43,-28.79,0.0,,8,,20260606
+AIVAF,Aviva plc,Financial Services,Insurance - Diversified,OQX,8.17,847,24460197888,0.0873,8.42,8.72,-2.8494,-16.2,-15.71,-31.83,-22.28,0.0,25.25,4,9.32,8.0,-12.34,0.0,,8,,20260606
+FOXA,Fox Corporation,Communication Services,Entertainment,NASDAQ,66.89,3312087,28106262528,1.9376,63.37,63.51,1.8183,1.9,-7.3,-0.18,-2.15,0.0,88.75,3,76.39,52.96,-12.44,0.0,,8,,20260606
+FOX,Fox Corporation,Communication Services,Entertainment,NASDAQ,59.88,1420698,25160757248,1.7035,56.9,57.13,1.7474,0.26,-6.99,-3.07,-3.61,0.0,87.5,3,68.17,48.42,-12.17,0.0,,8,,20260606
+ALPMY,Astellas Pharma Inc.,Healthcare,Drug Manufacturers - General,PNK,13.54,157069,24256804864,0.4038,15.08,13.48,-3.8249,-21.22,-5.94,7.89,-4.23,0.0,36.25,3,17.35,9.11,-21.96,0.0,,8,,20260606
+HRNNF,Hydro One Limited,Utilities,Utilities - Regulated Electric,PNK,40.41,94628,24249878528,0.4402,42.25,40.41,-4.1908,-15.54,-6.93,-2.69,-7.39,0.0,43.25,3,44.02,36.18,-8.2,0.0,,8,,20260606
+BESIY,BE Semiconductor Industries N.V.,Technology,Semiconductor Equipment & Materials,PNK,332.7,8057,26354733056,10.1521,279.73,198.13,5.2181,42.16,108.73,153.2,109.88,0.0,90.0,2,337.84,122.81,-1.52,0.0,,8,,20260606
+EJPRY,East Japan Railway Company,Industrials,Railroads,PNK,10.28,129707,23205132288,0.3589,11.23,12.09,-2.6598,-23.64,-32.15,-29.14,-28.82,0.0,6.25,4,13.59,10.1,-24.36,0.0,,8,,20260606
+MTSFF,"Mitsui Fudosan Co., Ltd.",Real Estate,Real Estate - Diversified,PNK,8.7,1606,23866945536,0.1735,10.52,11.11,-10.4917,-39.23,-36.72,-37.0,-37.46,0.0,1.25,4,13.16,8.92,-33.9,0.0,,8,,20260606
+MTSFY,"Mitsui Fudosan Co., Ltd.",Real Estate,Real Estate - Diversified,PNK,27.72,100609,25110032384,0.8534,31.21,33.55,-4.0919,-36.95,-29.34,-32.81,-32.63,0.0,12.5,4,42.25,26.04,-34.39,0.0,,8,,20260606
+YZCHF,Yankuang Energy Group Company Limited,Energy,Thermal Coal,OQX,1.79,184,14051592192,0.0082,1.84,1.44,-5.3887,-5.36,45.52,67.89,41.75,0.0,37.0,3,2.04,0.99,-12.13,0.0,,8,,20260606
+CAJPY,Canon Inc.,Technology,Computer Hardware,PNK,27.66,111400,23884507136,0.4227,26.92,28.91,1.7479,-14.41,-18.08,-34.33,-23.66,0.0,54.5,3,32.34,25.07,-14.47,0.0,,8,,20260606
+PMRTY,Pop Mart International Group Limited,Consumer Cyclical,Leisure,PNK,22.11,58699,29317898240,0.7811,19.98,27.1,2.7303,-24.63,-27.24,-54.96,-37.67,0.0,38.75,3,44.68,17.9,-50.51,0.0,,8,,20260606
+KSHTY,Kuaishou Technology,Communication Services,Internet Content & Information,PNK,1.12,19737,24268466176,0.0802,1.2,1.69,-0.987,-36.43,-45.18,-38.57,-40.35,0.0,11.25,4,2.59,1.09,-56.82,0.0,,8,,20260606
+NTOIF,Neste Oyj,Energy,Oil & Gas Refining & Marketing,PNK,35.29,1812,27111157760,0.3098,32.09,24.18,10.3372,31.12,75.96,233.8,127.89,0.0,75.0,2,35.29,9.81,-0.0,0.0,,8,,20260606
+NTOIY,Neste Oyj,Energy,Oil & Gas Refining & Marketing,PNK,17.0,61882,26121611264,0.5685,16.02,12.32,1.7188,8.41,61.43,194.63,101.46,0.0,88.75,2,18.11,5.29,-6.13,0.0,,8,,20260606
+POPMF,Pop Mart International Group Li,Unknown,Unknown,PNK,23.5,8379,0,0.8874,21.16,23.5,2.6359,-36.71,-45.2,-48.74,-44.49,0.0,56.25,3,44.99,16.7,-47.77,0.0,,8,,20260606
+KUASF,Kuaishou Technology,Communication Services,Internet Content & Information,PNK,6.13,1151,26565302272,0.2151,6.14,8.38,-0.0436,-35.33,-41.06,-29.66,-35.07,0.0,14.5,4,12.63,5.3,-51.46,0.0,,8,,20260606
+EXXRF,Exor N.V.,Industrials,Farm & Heavy Construction Machinery,PNK,76.63,8204,25185542144,1.8924,79.0,86.31,-1.2541,-19.09,-19.4,-49.44,-31.34,0.0,27.0,4,106.75,73.0,-28.22,0.0,,8,,20260606
+FN,Fabrinet,Technology,Electronic Components,NYSE,621.25,799912,22259226624,54.9068,655.13,498.26,-0.6171,16.95,30.43,134.45,68.67,0.0,62.5,3,748.89,231.51,-17.04,0.0,,8,,20260606
+QBEIF,QBE Insurance Group Limited,Financial Services,Insurance - Property & Casualty,PNK,16.24,158,24262957056,0.1141,15.73,14.22,4.4453,-6.65,12.73,-20.56,-5.43,0.0,75.0,2,16.88,12.44,-3.79,0.0,,8,,20260606
+AVVIY,Aviva plc,Financial Services,Insurance - Diversified,OQX,16.34,99922,24460197888,0.2948,16.75,17.09,-1.38,-13.3,-12.8,-25.21,-17.89,0.0,57.75,3,19.4,15.62,-15.77,0.0,,8,,20260606
+MGDDY,Compagnie Générale des Établissements Michelin Société en commandite par actions,Unknown,Unknown,PNK,18.47,155022,16480614305,0.4388,17.43,16.91,2.3679,-4.99,6.58,-25.0,-8.95,0.0,88.75,2,20.48,14.82,-9.81,0.0,,8,,20260606
+QBIEY,QBE Insurance Group Limited,Financial Services,Insurance - Property & Casualty,PNK,16.06,80106,23994032128,0.3705,16.02,13.94,0.1036,-0.67,18.31,-18.94,-1.34,0.0,82.5,2,17.49,12.46,-8.18,0.0,,8,,20260606
+WRB,W. R. Berkley Corporation,Financial Services,Insurance - Property & Casualty,NYSE,68.57,2198728,25527015424,1.5401,66.38,69.92,1.4195,-11.92,-11.11,-30.1,-18.91,0.0,49.5,3,78.96,62.87,-13.16,0.0,,8,,20260606
+FSNUY,Fresenius SE & Co. KGaA,Healthcare,Medical Care Facilities,PNK,10.71,145636,24129083392,0.3761,11.78,13.42,-2.8337,-30.13,-30.9,-39.91,-34.31,0.0,13.75,4,33.93,10.33,-68.44,0.0,,8,,20260606
+NWWCF,New China Life Insurance Company Ltd.,Financial Services,Insurance - Life,PNK,6.32,2218,19865272320,0.5694,6.51,6.32,-0.3261,-8.55,-10.17,225.79,84.62,0.0,37.75,4,8.65,3.7,-26.96,0.0,,8,,20260606
+HUBB,Hubbell Incorporated,Industrials,Electrical Equipment & Parts,NYSE,476.82,615674,25196015616,14.0201,502.07,466.71,-1.8009,-8.57,3.23,-1.67,-1.68,0.0,32.5,3,565.5,380.86,-15.68,0.0,,8,,20260606
+AXIA,AXIA Energia SA,Utilities,Utilities - Renewable,NYSE,9.8,2565592,22040465408,0.3207,11.66,10.58,-5.809,-23.27,-27.93,18.71,-8.11,0.0,22.0,4,13.54,6.71,-27.62,0.0,,8,,20260606
+TW,Tradeweb Markets Inc.,Financial Services,Capital Markets,NASDAQ,102.53,1550950,22354206720,3.3609,112.28,112.03,-2.9002,-27.58,-13.34,-50.68,-31.84,0.0,20.75,4,147.49,94.25,-30.48,0.0,,8,,20260606
+CTSH,Cognizant Technology Solutions Corporation,Technology,Information Technology Services,NASDAQ,53.21,7005117,25168328704,2.2467,55.14,67.77,-0.861,-29.12,-40.49,-57.04,-44.27,0.0,23.25,4,87.03,45.48,-38.86,0.0,,8,,20260606
+LNVGY,Lenovo Group Limited,Technology,Computer Hardware,PNK,62.58,86893,38994718720,3.1606,33.86,28.15,9.0867,156.93,133.4,152.91,147.09,0.0,88.75,2,68.79,21.0,-9.03,0.0,,8,,20260606
+CAJFF,Canon Inc.,Technology,Computer Hardware,PNK,27.19,973,23478661120,0.8822,27.15,28.81,0.049,-17.11,-12.85,-37.49,-23.77,0.0,42.0,3,33.5,24.7,-18.84,0.0,,8,,20260606
+HXGBY,Hexagon AB (publ),Technology,Scientific & Technical Instruments,PNK,11.45,378649,30736125952,0.5238,10.48,11.12,1.8502,-3.59,-10.28,-11.64,-9.15,0.0,93.75,3,12.85,9.19,-10.89,0.0,,8,,20260606
+SNMRY,Snam S.p.A.,Utilities,Utilities - Regulated Gas,PNK,14.26,72273,23926792192,0.2812,15.14,13.66,-3.114,-16.3,-4.98,-4.63,-7.67,0.0,36.25,3,16.01,11.47,-10.93,0.0,,8,,20260606
+CLPHY,CLP Holdings Limited,Utilities,Utilities - Regulated Electric,PNK,9.49,72180,23976015872,0.2092,9.57,8.93,-0.368,-9.23,-1.43,-13.89,-8.36,0.0,73.25,3,10.22,7.99,-7.14,0.0,,8,,20260606
+LNVGF,Lenovo Group Limited,Technology,Computer Hardware,PNK,3.09,224966,38330396672,0.1994,1.67,1.41,7.1391,157.27,133.52,146.02,144.46,0.0,88.75,2,3.49,0.98,-11.46,0.0,,8,,20260606
+EQR,Equity Residential,Real Estate,REIT - Residential,NYSE,68.19,2748633,26346981376,1.2467,63.66,61.67,3.6336,0.05,4.04,-21.94,-7.35,0.0,92.5,2,70.21,57.57,-2.88,0.0,,8,,20260606
+AIBGY,AIB Group plc,Financial Services,Banks - Regional,PNK,23.69,81666,25144627200,0.7065,22.39,19.69,1.8389,13.13,8.52,26.36,16.81,0.0,82.5,2,24.8,15.05,-4.48,0.0,,8,,20260606
+SFHOY,S F HLDG CO LTD,Industrials,Integrated Freight & Logistics,PNK,15.66,28046,24134455296,0.6066,17.33,15.66,-2.7557,-18.97,-19.73,-38.85,-27.19,0.0,35.0,3,21.7,15.32,-27.83,0.0,,8,,20260606
+TEFOF,"Telefónica, S.A.",Communication Services,Telecom Services,PNK,4.4,2185,24806840320,0.165,4.52,4.62,-0.7115,-7.9,-5.95,-43.88,-21.61,0.0,51.5,4,5.87,3.66,-25.04,0.0,,8,,20260606
+YZCAY,Yankuang Energy Group Company Limited,Energy,Thermal Coal,OQX,18.85,1984,20123887616,0.6262,18.96,15.57,-0.1779,-6.87,36.54,48.13,30.32,0.0,40.75,3,21.63,9.53,-12.85,0.0,,8,,20260606
+SUTNY,"Sumitomo Mitsui Trust Group, Inc.",Financial Services,Banks - Regional,OID,7.29,195490,25405104128,0.1762,6.84,6.3,2.5338,-0.64,12.47,5.05,6.23,0.0,87.5,2,7.78,5.03,-6.3,0.0,,8,,20260606
+AKRBF,Aker BP ASA,Energy,Oil & Gas E&P,OQX,37.78,4606,23867070464,1.3159,36.75,29.33,0.7812,8.59,44.72,31.98,30.59,0.0,92.5,2,39.7,23.7,-4.84,0.0,,8,,20260606
+AIBRF,AIB Group plc,Financial Services,Banks - Regional,PNK,11.73,2563,24911118336,0.1741,11.09,10.09,3.7246,2.29,6.55,17.6,9.9,0.0,81.25,2,11.67,7.34,0.56,0.0,,8,,20260606
+AWK,"American Water Works Company, Inc.",Utilities,Utilities - Regulated Water,NYSE,124.47,1931276,24306567168,2.8952,128.94,131.34,-1.5438,-18.81,-12.09,-33.17,-22.21,0.0,36.5,4,147.87,120.57,-15.82,0.0,,8,,20260606
+OMVJF,OMV Aktiengesellschaft,Energy,Oil & Gas Integrated,OQX,73.03,49,23807856640,0.3815,70.86,59.87,5.6941,3.49,25.22,19.03,17.31,0.0,75.0,2,75.5,48.67,-3.27,0.0,,8,,20260606
+FMXUF,"Fomento Económico Mexicano, S.A.B. de C.V.",Consumer Defensive,Beverages - Brewers,PNK,11.46,534,42491899904,0.0561,11.46,10.1,-0.0398,-7.08,9.36,-19.76,-6.4,0.0,62.0,3,12.2,0.01,-6.07,0.0,,8,,20260606
+FMX,"Fomento Económico Mexicano, S.A.B. de C.V.",Consumer Defensive,Beverages - Brewers,NYSE,122.88,445095,41862938624,2.6735,117.14,103.04,2.1487,3.97,13.58,-3.75,4.24,0.0,90.0,2,125.71,83.08,-2.25,0.0,,8,,20260606
+JBHT,"J.B. Hunt Transport Services, Inc.",Industrials,Integrated Freight & Logistics,NASDAQ,284.95,966960,26870558720,7.8763,245.15,196.73,5.0531,23.79,43.76,80.16,53.33,0.0,92.5,2,289.95,130.12,-1.72,0.0,,8,,20260606
+ALFVF,Alfa Laval AB (publ),Industrials,Specialty Industrial Machinery,PNK,58.95,11,24365586432,0.0329,58.06,52.01,27.0935,-11.49,8.48,23.49,9.49,0.0,75.0,2,59.0,38.8,-0.08,0.0,,8,,20260606
+CLPHF,CLP Holdings Limited,Utilities,Utilities - Regulated Electric,PNK,10.01,1598,25289771008,0.0749,9.6,8.91,5.4114,-2.78,3.57,-8.28,-2.76,0.0,77.5,2,10.23,7.9,-2.15,0.0,,8,,20260606
+WRTBY,Wärtsilä Oyj Abp,Industrials,Specialty Industrial Machinery,PNK,8.39,32119,24731465728,0.3527,8.23,7.14,0.4428,-1.29,19.4,83.91,40.03,0.0,83.75,2,9.49,4.03,-11.59,0.0,,8,,20260606
+WTW,Willis Towers Watson Public Limited Company,Financial Services,Insurance Brokers,NASDAQ,263.54,710042,24890820608,7.4066,271.44,307.64,-1.067,-22.71,-24.69,-39.0,-29.92,0.0,24.5,4,352.79,240.61,-25.3,0.0,,8,,20260606
+ALFVY,Alfa Laval AB (publ),Industrials,Specialty Industrial Machinery,PNK,57.9,17949,23931592704,1.221,57.56,51.76,0.2809,-7.56,13.04,10.85,7.01,0.0,85.0,2,62.95,40.27,-8.02,0.0,,8,,20260606
+CMTDF,"Sumitomo Mitsui Trust Group, Inc.",Financial Services,Banks - Regional,OID,34.9,111,24324777984,0.0573,33.65,30.29,21.823,-10.59,21.49,2.52,5.88,0.0,75.0,2,36.94,25.0,-5.52,0.0,,8,,20260606
+OEZVY,VERBUND AG,Utilities,Utilities - Renewable,PNK,13.42,166,23311591424,0.2342,14.22,14.18,-3.4268,-17.71,-11.12,-39.25,-24.02,0.0,12.0,4,17.13,13.51,-21.66,0.0,,8,,20260606
+PUBGY,Publicis Groupe S.A.,Communication Services,Advertising Agencies,OQX,25.95,293431,25791576064,0.6446,22.93,23.78,4.6862,5.68,-4.89,-27.11,-11.13,0.0,87.5,3,28.73,19.72,-9.68,0.0,,8,,20260606
+PGPEF,Publicis Groupe S.A.,Communication Services,Advertising Agencies,OQX,101.0,1160,25095847936,0.898,89.81,93.64,12.4602,11.67,-8.93,-30.26,-12.31,0.0,75.0,3,109.96,82.05,-8.15,0.0,,8,,20260606
+THNBY,TECHNOPROBE SPA,Unknown,Unknown,PNK,75.75,1163,0,4.7544,75.75,75.75,0.0,231.56,231.56,231.56,231.56,0.0,64.78,3,78.02,22.0,-2.91,0.0,,8,,20260606
+SYF,Synchrony Financial,Financial Services,Credit Services,NYSE,70.84,3866606,23828465664,1.9165,72.32,73.76,-0.771,-3.31,-18.23,-0.73,-7.5,0.0,61.5,3,88.77,56.98,-20.2,0.0,,8,,20260606
+UTHR,United Therapeutics Corporation,Healthcare,Drug Manufacturers - Specialty & Generic,NASDAQ,549.87,546368,23340183552,13.861,568.59,487.21,-1.3509,5.01,5.87,44.55,21.12,0.0,72.0,3,609.35,272.12,-9.76,0.0,,8,,20260606
+EJPRF,East Japan Railway Company,Industrials,Railroads,PNK,21.79,47,25676886016,0.4877,22.59,24.46,-1.6372,-24.41,-20.36,-24.03,-22.84,0.0,12.0,4,27.59,20.16,-21.02,0.0,,8,,20260606
+FUJIY,FUJIFILM Holdings Corporation,Industrials,Conglomerates,PNK,11.09,430504,26547255296,0.2555,9.76,10.62,5.1945,8.08,-7.49,-29.45,-12.38,0.0,86.25,3,12.99,8.93,-14.63,0.0,,8,,20260606
+FUJIF,FUJIFILM Holdings Corporation,Industrials,Conglomerates,PNK,20.84,496,24943409152,0.2669,19.53,21.06,4.904,-5.69,-12.53,-29.11,-17.45,0.0,63.25,3,26.42,17.0,-21.12,0.0,,8,,20260606
+AKRBY,Aker BP ASA,Energy,Oil & Gas E&P,OQX,19.0,796,24006053888,0.6758,18.24,14.31,1.1258,11.78,56.97,42.98,40.08,0.0,77.5,2,23.06,11.38,-17.61,0.0,,8,,20260606
+PPG,"PPG Industries, Inc.",Basic Materials,Specialty Chemicals,NYSE,113.8,2103950,25366020096,3.2382,108.0,106.35,1.7901,-2.64,5.22,-20.8,-7.16,0.0,90.0,2,133.43,93.39,-14.71,0.0,,8,,20260606
+CCOZF,China Coal Energy Company Limited,Energy,Thermal Coal,PNK,1.36,131,17236260864,0.0226,1.66,1.4,-13.3853,-6.81,-7.1,2.64,-3.13,0.0,37.0,3,1.81,1.07,-24.86,0.0,,8,,20260606
+XPO,"XPO, Inc.",Industrials,Trucking,NYSE,218.94,1468760,25705742336,8.5259,210.14,165.97,1.0321,6.06,48.19,65.32,44.51,0.0,90.0,2,231.46,114.28,-5.41,0.0,,8,,20260606
+BDORY,Banco do Brasil S.A.,Financial Services,Banks - Regional,OID,3.94,436352,22492237824,0.1579,4.47,4.28,-3.3318,-28.78,-17.59,-31.0,-25.75,0.0,24.5,4,5.48,3.35,-28.1,0.0,,8,,20260606
+OMVKY,OMV Aktiengesellschaft,Energy,Oil & Gas Integrated,OQX,18.61,21371,24267520000,0.4121,17.92,15.29,1.6819,1.64,21.02,23.1,17.0,0.0,93.75,2,19.0,12.23,-2.05,0.0,,8,,20260606
+ICAGY,International Consolidated Airlines Group S.A.,Industrials,Airlines,PNK,11.36,151520,25283995648,0.3138,10.46,10.61,2.867,2.4,-1.21,0.91,0.54,0.0,85.0,3,12.36,8.22,-8.09,0.0,,8,,20260606
+IONQ,"IonQ, Inc.",Technology,Computer Hardware,NYSE,56.78,29412696,21194266624,5.5018,47.15,48.5,1.7499,48.92,8.25,18.06,22.34,0.0,88.75,3,84.64,25.89,-32.92,0.0,,8,,20260606
+RF,Regions Financial Corporation,Financial Services,Banks - Regional,NYSE,28.54,12216061,24355452928,0.6519,27.28,26.43,1.9384,-3.44,2.57,14.17,5.71,0.0,87.5,2,31.53,21.12,-9.48,0.0,,8,,20260606
+FUWAY,"Furukawa Electric Co., Ltd.",Industrials,Electrical Equipment & Parts,PNK,161.25,3701,22687813632,9.4062,142.8,67.99,1.9616,70.63,425.78,591.4,403.24,0.0,90.0,2,190.66,22.4,-15.43,0.0,,8,,20260606
+NHYKF,Norsk Hydro ASA,Basic Materials,Aluminum,OQX,12.91,8338,25371742208,0.3699,11.41,8.66,4.0438,27.78,69.6,106.07,73.73,0.0,86.25,2,13.0,5.37,-0.69,0.0,,8,,20260606
+HLMAF,Halma plc,Industrials,Conglomerates,PNK,65.18,7706,24618971136,1.7493,59.06,50.79,3.4998,7.89,28.48,38.97,27.53,0.0,82.5,2,65.87,39.77,-1.04,0.0,,8,,20260606
+VACNY,VAT Group AG,Industrials,Specialty Industrial Machinery,PNK,79.07,9285,23694848000,2.3394,72.27,55.43,2.9057,8.78,61.17,80.99,56.0,0.0,95.0,2,79.98,31.99,-1.13,0.0,,8,,20260606
+NHYDY,Norsk Hydro ASA,Basic Materials,Aluminum,OQX,12.79,153731,25174161408,0.3339,11.22,8.46,4.716,31.3,72.38,111.41,77.72,0.0,88.75,2,13.02,5.38,-1.77,0.0,,8,,20260606
+TERRF,Terna S.p.A.,Utilities,Utilities - Regulated Electric,PNK,11.7,24,23879786496,0.0209,11.61,10.73,4.2632,-12.98,8.24,-2.77,-1.47,0.0,50.0,2,12.12,9.95,-3.51,0.0,,8,,20260606
+BNCZF,Banco BPM S.p.A.,Financial Services,Banks - Regional,PNK,15.95,562,24005791744,0.1575,14.94,13.94,6.3872,7.49,3.53,64.39,28.86,0.0,75.0,2,16.87,9.0,-5.45,0.0,,8,,20260606
+LNDMY,Lundin Mining Corporation,Basic Materials,Copper,PNK,28.0,57,23950608384,0.1306,27.3,28.0,5.3836,-11.67,-11.67,-11.67,-11.67,0.0,62.0,3,29.5,22.0,-5.08,0.0,,8,,20260606
+EXE,Expand Energy Corporation,Energy,Oil & Gas E&P,NASDAQ,92.07,3541238,22025799680,2.2819,97.96,103.52,-2.5823,-23.3,-32.68,-43.41,-34.62,0.0,7.5,4,126.62,90.79,-27.29,0.0,,8,,20260606
+BG,Bunge Global SA,Consumer Defensive,Farm Products,NYSE,126.46,1814012,24535529472,4.0361,124.53,104.46,0.4776,-0.95,25.82,49.13,28.45,0.0,86.25,2,134.87,71.6,-6.24,0.0,,8,,20260606
+BESVF,BE Semiconductor Industries N.V.,Technology,Semiconductor Equipment & Materials,PNK,306.05,201,24243658752,6.8918,276.81,190.93,4.243,57.89,93.6,123.32,96.56,0.0,78.75,2,333.5,123.79,-8.23,0.0,,8,,20260606
+KEY,KeyCorp,Financial Services,Banks - Regional,NYSE,21.76,13427146,23592751104,0.4503,21.14,19.64,1.385,0.66,9.9,17.46,10.62,0.0,87.5,2,23.35,15.59,-6.81,0.0,,8,,20260606
+NRSCF,"Nomura Holdings, Inc.",Financial Services,Capital Markets,PNK,8.45,922,24695906304,0.0405,8.01,7.92,10.8096,-21.05,7.13,12.37,2.18,0.0,50.0,2,9.35,5.8,-9.63,0.0,,8,,20260606
+LUNMF,Lundin Mining Corporation,Basic Materials,Copper,PNK,30.63,162882,26200254464,1.6896,27.4,21.52,1.9145,2.67,54.35,184.97,93.68,0.0,91.25,2,33.29,9.56,-7.99,0.0,,8,,20260606
+DRI,"Darden Restaurants, Inc.",Consumer Cyclical,Restaurants,NYSE,198.12,1303595,22691674112,5.4866,197.0,193.67,0.2043,-11.73,4.97,-30.76,-13.5,0.0,62.5,3,228.27,169.0,-13.21,0.0,,8,,20260606
+BNTX,BioNTech SE,Healthcare,Biotechnology,NASDAQ,88.08,1203995,22274045952,3.202,94.81,100.29,-2.1033,-23.21,-17.4,-45.94,-30.27,0.0,10.0,4,124.0,79.52,-28.97,0.0,,8,,20260606
+JXAMY,JXAMY,Unknown,Unknown,PNK,44.24,1556,0,3.8631,53.57,44.24,-2.4149,-23.09,-23.09,-23.09,-23.09,0.0,43.25,3,71.0,41.35,-37.69,0.0,,8,,20260606
+NMR,"Nomura Holdings, Inc.",Financial Services,Capital Markets,NYSE,8.41,1861626,24579002368,0.1832,8.12,7.96,1.5678,-0.63,0.06,12.46,4.85,0.0,90.0,2,9.58,6.02,-12.21,0.0,,8,,20260606
+DG,Dollar General Corporation,Consumer Defensive,Discount Stores,NYSE,103.7,3714428,22874832896,4.4575,113.84,120.05,-2.2741,-38.78,-13.24,-30.52,-26.54,0.0,8.75,4,158.23,95.11,-34.46,0.0,,8,,20260606
+MKL,Markel Group Inc.,Financial Services,Insurance - Property & Casualty,NYSE,1818.67,67073,22758309888,40.1146,1868.37,1977.86,-1.2388,-18.26,-20.04,-30.97,-23.97,0.0,37.75,4,2207.59,1719.41,-17.62,0.0,,8,,20260606
+TEZNY,Terna S.p.A.,Utilities,Utilities - Regulated Electric,PNK,34.61,18079,23174776832,0.5239,35.0,32.63,-0.7453,-10.64,-2.75,-11.91,-8.38,0.0,72.0,3,36.36,28.63,-4.81,0.0,,8,,20260606
+HALMY,Halma plc,Industrials,Conglomerates,PNK,133.3,40666,25173817344,2.8778,119.04,102.12,4.9549,12.47,29.29,40.38,29.52,0.0,92.5,2,133.18,80.03,0.09,0.0,,8,,20260606
+AER,AerCap Holdings N.V.,Industrials,Rental & Leasing Services,NYSE,136.94,1395206,21593399296,3.485,140.69,135.63,-1.0749,-9.1,-8.79,-4.8,-7.27,0.0,72.0,3,154.94,105.65,-11.62,0.0,,8,,20260606
+HPQ,HP Inc.,Technology,Computer Hardware,NYSE,25.58,20063439,23393490944,1.4206,21.34,22.68,2.9816,23.59,-4.04,-18.46,-2.9,0.0,87.5,3,29.65,17.56,-13.73,0.0,,8,,20260606
+AIPUY,Airports of Thailand Public Company Limited,Industrials,Airports & Air Services,PNK,16.65,219,23785689088,0.2233,15.12,14.2,6.836,-18.98,18.87,27.73,12.95,0.0,75.0,2,19.19,8.55,-13.24,0.0,,8,,20260606
+HPGLY,Hapag-Lloyd Aktiengesellschaft,Industrials,Marine Shipping,PNK,67.83,707,23842586624,0.9883,66.61,68.15,1.227,-17.8,-7.9,-47.95,-26.4,0.0,42.0,3,90.58,63.56,-25.12,0.0,,8,,20260606
+TELNF,Telenor ASA,Communication Services,Telecom Services,OQX,16.11,428,22040053760,0.1191,16.97,16.11,-7.1655,-22.8,-4.38,-0.13,-7.29,0.0,25.0,3,19.1,11.73,-15.64,0.0,,8,,20260606
+OLCLF,"Oriental Land Co., Ltd.",Consumer Cyclical,Leisure,PNK,14.05,674,23035193344,0.093,15.12,11.4,-11.5497,43.56,32.48,71.69,50.93,0.0,50.0,3,26.36,13.2,-46.7,0.0,,8,,20260606
+INSM,Insmed Incorporated,Healthcare,Biotechnology,NASDAQ,94.22,2900204,20422416384,5.953,130.54,155.28,-6.1008,-42.75,-62.9,2.68,-31.63,0.0,10.0,4,212.75,70.57,-55.71,0.0,,8,,20260606
+HLAGF,Hapag-Lloyd Aktiengesellschaft,Industrials,Marine Shipping,PNK,136.84,53,24051036160,2.576,134.5,137.44,0.9099,-20.54,3.5,-44.51,-21.71,0.0,38.25,3,180.0,125.0,-23.98,0.0,,8,,20260606
+CMS,CMS Energy Corporation,Utilities,Utilities - Regulated Electric,NYSE,72.04,2825793,22254569472,1.4781,74.86,72.56,-1.9064,-15.9,-7.14,-18.7,-13.96,0.0,35.25,4,80.36,68.41,-10.35,0.0,,8,,20260606
+BCEFF,BCE Inc.,Communication Services,Telecom Services,PNK,15.4,79,0,0.0218,15.08,13.92,14.7822,-6.11,8.57,15.53,7.68,0.0,75.0,2,15.45,11.9,-0.32,0.0,,8,,20260606
+NI,NiSource Inc.,Utilities,Utilities - Regulated Gas,NYSE,46.61,4196777,22346661888,0.8722,47.09,43.84,-0.5494,-9.04,4.3,-2.73,-1.85,0.0,73.25,3,48.98,38.45,-4.84,0.0,,8,,20260606
+BCE,BCE Inc.,Communication Services,Telecom Services,NYSE,24.41,3484234,22762954752,0.4693,24.26,23.88,0.3124,-15.14,-0.39,-7.98,-7.11,0.0,66.25,2,26.52,21.58,-7.96,0.0,,8,,20260606
+CTOWY,China Tower Corporation Limited,Communication Services,Telecom Services,PNK,14.93,32,26099431424,0.2214,15.1,14.26,-0.7747,-10.69,-9.16,12.09,-1.04,0.0,63.25,3,16.25,11.4,-8.12,0.0,,8,,20260606
+RL,Ralph Lauren Corporation,Consumer Cyclical,Apparel Manufacturing,NYSE,366.55,652149,21815715840,12.1409,359.66,343.91,0.5675,-1.36,-5.57,8.28,1.02,0.0,85.0,2,393.41,258.13,-6.83,0.0,,8,,20260606
+LPLA,LPL Financial Holdings Inc.,Financial Services,Capital Markets,NASDAQ,288.49,967922,23074254848,12.2773,303.74,335.26,-1.2421,-17.8,-28.44,-48.22,-33.69,0.0,10.0,4,403.58,260.15,-28.52,0.0,,8,,20260606
+CNGKY,CK Asset Holdings Limited,Real Estate,Real Estate - Development,PNK,12.3,2414,21523636224,0.5618,12.12,10.77,0.3279,-6.16,8.17,21.57,9.95,0.0,90.0,2,15.33,8.03,-19.77,0.0,,8,,20260606
+BOUYF,Bouygues SA,Industrials,Engineering & Construction,PNK,59.34,14,18760689664,0.1522,53.64,46.84,37.4797,10.71,16.83,41.75,25.27,0.0,75.0,2,59.34,36.63,0.0,0.0,,8,,20260606
+TELNY,Telenor ASA,Communication Services,Telecom Services,OQX,16.1,35279,22023641088,0.333,16.6,15.75,-1.5077,-17.36,4.08,-16.64,-9.57,0.0,42.0,3,18.92,13.79,-14.9,0.0,,8,,20260606
+CHD,"Church & Dwight Co., Inc.",Consumer Defensive,Household & Personal Products,NYSE,96.74,2071266,22921922560,2.3694,94.65,91.26,0.8815,-13.61,7.56,-26.81,-11.48,0.0,62.5,2,106.04,81.33,-8.77,0.0,,8,,20260606
+CGMBF,"China Minsheng Banking Corp., Ltd.",Financial Services,Banks - Regional,PNK,0.46,114,21763033088,0.0008,0.48,0.49,-31.5813,-17.83,-16.3,31.92,2.6,0.0,12.0,4,0.58,0.46,-21.11,0.0,,8,,20260606
+PAAS,Pan American Silver Corp.,Basic Materials,Gold,NYSE,47.58,6056630,20047835136,2.8527,55.35,48.71,-2.7251,-29.84,-0.76,54.81,14.2,0.0,22.0,4,69.99,26.77,-32.02,0.0,,8,,20260606
+ICHGF,InterContinental Hotels Group PLC,Consumer Cyclical,Lodging,PNK,161.9,111,24029939712,1.5277,142.11,130.77,12.9563,9.84,17.45,8.9,12.13,0.0,76.25,2,161.0,110.35,0.56,0.0,,8,,20260606
+CPAY,"Corpay, Inc.",Technology,Software - Infrastructure,NYSE,347.45,588465,22709999616,11.8717,324.38,310.93,1.9434,0.52,7.4,-18.89,-4.84,0.0,87.5,2,367.43,252.84,-5.44,0.0,,8,,20260606
+FCNCA,"First Citizens BancShares, Inc.",Financial Services,Banks - Regional,NASDAQ,2075.1,81392,24044130304,51.2204,1964.41,1944.32,2.161,-0.23,-1.18,-11.22,-4.96,0.0,87.5,2,2232.21,1623.76,-7.04,0.0,,8,,20260606
+FCNCO,"First Citizens BancShares, Inc.",Financial Services,Banks - Regional,NASDAQ,20.58,13611,0,0.1635,21.08,21.37,-3.0731,-17.22,-13.18,-23.42,-18.29,0.0,36.5,4,23.91,20.55,-13.95,0.0,,8,,20260606
+FCNCP,"First Citizens BancShares, Inc.",Financial Services,Banks - Regional,NASDAQ,20.01,16077,0,0.2184,20.72,20.76,-3.2498,-15.86,-12.34,-21.66,-16.95,0.0,36.5,4,22.93,19.97,-12.73,0.0,,8,,20260606
+FCNCN,"First Citizens BancShares, Inc. Depositary Shares, each representing a 1/40th interest in a share of 6.625% Non-Cumulative Perpetual Preferred Stock, Series E",Unknown,Unknown,NASDAQ,25.04,42736,0,0.1636,24.52,25.04,3.1542,-7.1,-3.78,-3.78,-4.61,0.0,86.25,3,25.36,23.74,-1.26,0.0,,8,,20260606
+FCNCB,"First Citizens BancShares, Inc.",Financial Services,Banks - Regional,PNK,1750.0,128,20277204992,35.9683,1637.18,1652.03,3.1366,-2.93,-3.49,-22.51,-10.96,0.0,87.5,3,2070.0,1439.75,-15.46,0.0,,8,,20260606
+WSM,"Williams-Sonoma, Inc.",Consumer Cyclical,Specialty Retail,NYSE,204.98,1283342,24135698432,6.3753,187.76,191.9,2.7007,0.34,7.3,4.83,4.57,0.0,90.0,3,222.0,152.2,-7.67,0.0,,8,,20260606
+IHG,InterContinental Hotels Group PLC,Consumer Cyclical,Lodging,NYSE,162.15,226519,24067047424,3.1516,145.73,134.05,5.2111,13.36,10.45,16.78,13.71,0.0,91.25,2,163.71,109.79,-0.95,0.0,,8,,20260606
+CLNXF,"Cellnex Telecom, S.A.",Real Estate,Real Estate Services,PNK,32.23,4452,21517463552,0.2761,33.27,32.86,-3.7556,-16.67,2.94,-42.54,-20.15,0.0,25.25,4,39.71,28.67,-18.84,0.0,,8,,20260606
+FIS,"Fidelity National Information Services, Inc.",Technology,Information Technology Services,NYSE,40.95,6593331,21166200832,1.5696,45.04,57.06,-2.6034,-29.78,-45.17,-72.9,-52.42,0.0,8.75,4,82.74,40.33,-50.51,0.0,,8,,20260606
+LYB,LyondellBasell Industries N.V.,Basic Materials,Specialty Chemicals,NYSE,64.5,7545138,20819617792,2.4238,72.13,55.52,-3.1481,-12.88,34.85,-1.13,8.53,0.0,56.25,3,83.94,41.58,-23.16,0.0,,8,,20260606
+STRL,"Sterling Infrastructure, Inc.",Industrials,Engineering & Construction,NASDAQ,882.43,577144,27078205440,60.0405,629.64,423.89,4.2103,113.35,164.35,330.12,217.91,0.0,88.75,2,971.75,191.0,-9.19,0.0,,8,,20260606
+SGSOF,SGS SA,Industrials,Consulting Services,PNK,110.12,101,23734220800,2.5751,109.18,111.96,0.3643,-25.33,-13.3,-22.61,-20.03,0.0,39.5,3,127.9,96.32,-13.9,0.0,,8,,20260606
+CHWRF,China Tower Corporation Limited,Communication Services,Telecom Services,PNK,1.1,50,20103378944,0.031,1.07,1.0,0.9644,0.18,0.12,-7.69,-2.99,0.0,75.0,2,1.8,0.96,-38.89,0.0,,8,,20260606
+CLLNY,"Cellnex Telecom, S.A.",Real Estate,Real Estate Services,PNK,16.21,219938,21644310528,0.3429,16.61,16.41,-1.1551,-17.94,0.54,-44.01,-21.9,0.0,30.25,4,20.09,14.18,-19.31,0.0,,8,,20260606
+TSN,"Tyson Foods, Inc.",Consumer Defensive,Farm Products,NYSE,58.73,2927195,20680560640,1.8867,63.98,58.43,-2.7825,-13.58,-3.31,-15.92,-10.92,0.0,58.75,3,69.48,50.56,-15.47,0.0,,8,,20260606
+ULTA,"Ulta Beauty, Inc.",Consumer Cyclical,Specialty Retail,NASDAQ,467.07,822233,20079017984,16.816,521.13,566.23,-3.2146,-37.73,-22.68,-24.88,-27.32,0.0,8.75,4,714.97,452.0,-34.67,0.0,,8,,20260606
+PFG,"Principal Financial Group, Inc.",Financial Services,Asset Management,NASDAQ,105.22,1396474,22728822784,2.008,97.43,87.87,3.8796,6.0,16.06,17.71,14.21,0.0,90.0,2,105.56,75.0,-0.32,0.0,,8,,20260606
+KUBTF,Kubota Corporation,Industrials,Farm & Heavy Construction Machinery,PNK,19.0,203,21609541632,0.4103,16.66,15.03,5.7083,-4.68,14.36,37.27,18.76,0.0,75.0,2,21.0,10.45,-9.52,0.0,,8,,20260606
+VRSK,"Verisk Analytics, Inc.",Industrials,Consulting Services,NASDAQ,181.73,1901095,23810598912,6.4653,176.07,211.39,0.8753,-25.19,-27.13,-68.19,-43.07,0.0,37.5,3,322.92,155.94,-43.72,0.0,,8,,20260606
+L,Loews Corporation,Financial Services,Insurance - Property & Casualty,NYSE,107.57,754941,22134558720,2.1836,107.8,104.51,-0.1045,-11.84,-6.62,-2.94,-6.46,0.0,52.0,3,114.9,86.77,-6.38,0.0,,8,,20260606
+CAOVF,China Overseas Land & Investment Limited,Real Estate,Real Estate - Development,PNK,2.05,407,22437011456,0.0178,1.72,1.71,18.5588,-0.01,8.87,-1.02,2.69,0.0,75.0,2,2.12,1.31,-3.3,0.0,,8,,20260606
+FQVLF,First Quantum Minerals Ltd.,Basic Materials,Copper,PNK,32.89,356017,27239041024,1.6262,26.57,24.37,3.887,17.96,34.01,89.64,52.25,0.0,92.5,2,33.33,14.6,-1.32,0.0,,8,,20260606
+WST,"West Pharmaceutical Services, Inc.",Healthcare,Medical Instruments & Supplies,NYSE,314.5,882195,22218668032,8.9926,291.26,267.55,2.5839,18.02,2.34,24.06,14.95,0.0,85.0,2,330.88,206.8,-4.95,0.0,,8,,20260606
+SURDF,"Sumitomo Realty & Development Co., Ltd.",Real Estate,Real Estate Services,PNK,23.65,111,21843525632,0.3805,29.58,36.01,-15.5808,-32.19,-56.66,-66.23,-54.37,0.0,0.0,4,51.13,22.9,-53.74,0.0,,8,,20260606
+SZKMF,Suzuki Motor Corporation,Consumer Cyclical,Auto Manufacturers,PNK,11.73,51887,22630381568,0.2026,11.46,13.57,1.3453,-23.35,-34.57,-28.8,-29.46,0.0,26.25,3,17.02,10.4,-31.08,0.0,,8,,20260606
+HLDVF,Henderson Land Development Company Limited,Real Estate,Real Estate - Diversified,PNK,3.66,409,17719476224,0.1323,3.94,3.7,-2.1006,-13.77,-10.38,6.1,-4.64,0.0,37.0,3,4.71,2.96,-22.29,0.0,,8,,20260606
+BABWF,International Consolidated Airlines Group S.A.,Industrials,Airlines,PNK,5.8,1061,25818167296,0.0952,5.22,5.3,6.1134,0.11,7.87,4.05,4.4,0.0,78.75,3,6.0,4.2,-3.33,0.0,,8,,20260606
+NNGPF,NN Group N.V.,Financial Services,Insurance - Diversified,PNK,88.57,1431,21880948736,0.3024,82.86,74.26,18.864,1.79,17.25,17.88,13.63,0.0,75.0,2,88.57,62.57,0.0,0.0,,8,,20260606
+MTD,Mettler-Toledo International Inc.,Healthcare,Diagnostics & Research,NYSE,1154.33,182661,23326238720,40.0636,1218.17,1322.04,-1.5935,-14.57,-28.01,-26.49,-24.04,0.0,13.75,4,1525.17,1023.05,-24.31,0.0,,8,,20260606
+VIV,Telefônica Brasil S.A.,Communication Services,Telecom Services,NYSE,12.81,1059387,20467859456,0.3553,14.64,13.19,-5.1569,-25.13,-4.08,4.71,-5.83,0.0,19.5,4,17.26,10.11,-25.78,0.0,,8,,20260606
+TRUMY,Terumo Corporation,Healthcare,Medical Instruments & Supplies,PNK,14.29,272633,21078935552,0.4191,13.49,14.77,1.9016,3.91,-18.81,-49.69,-25.48,0.0,77.0,3,19.6,12.08,-27.09,0.0,,8,,20260606
+FFIV,"F5, Inc.",Technology,Software - Infrastructure,NASDAQ,393.35,757998,22192510976,12.9449,337.52,295.88,4.3127,27.44,55.01,8.69,29.59,0.0,93.75,2,411.52,223.76,-4.42,0.0,,8,,20260606
+NNGRY,NN Group N.V.,Financial Services,Insurance - Diversified,PNK,41.42,54758,21675171840,0.7062,41.25,37.05,0.237,0.19,5.33,5.33,4.04,0.0,88.75,2,45.12,31.58,-8.2,0.0,,8,,20260606
+PHM,"PulteGroup, Inc.",Consumer Cyclical,Residential Construction,NYSE,118.4,1893407,22553583616,3.2838,119.08,124.74,-0.2057,-17.18,-17.23,-8.03,-13.54,0.0,37.75,4,144.5,98.27,-18.06,0.0,,8,,20260606
+FUWAF,"Furukawa Electric Co., Ltd.",Industrials,Electrical Equipment & Parts,PNK,315.0,90,22160189440,3.1818,240.51,105.92,23.4108,521.74,521.45,523.71,522.42,0.0,75.0,2,324.38,47.47,-2.89,0.0,,8,,20260606
+TROW,"T. Rowe Price Group, Inc.",Financial Services,Asset Management,NASDAQ,105.99,2316860,22710116352,2.2086,99.32,99.31,3.02,9.0,-4.81,-6.07,-1.86,0.0,91.25,2,118.22,85.22,-10.35,0.0,,8,,20260606
+SGSOY,SGS SA,Industrials,Consulting Services,PNK,11.29,111590,22329944064,0.2186,10.82,10.81,2.1344,-12.77,-6.8,-14.15,-11.23,0.0,65.0,2,12.76,9.8,-11.52,0.0,,8,,20260606
+ATI,ATI Inc.,Industrials,Metal Fabrication,NYSE,177.47,1906269,24219408384,6.9177,158.87,121.76,2.6889,8.25,71.95,88.69,62.72,0.0,93.75,2,183.3,70.42,-3.18,0.0,,8,,20260606
+STMZF,Scottish Mortgage Investment Trust PLC,Unknown,Unknown,PNK,20.0,10423,29001200640,0.5846,19.2,16.38,1.3721,15.51,34.29,29.52,27.69,0.0,86.25,2,21.29,13.0,-6.06,0.0,,8,,20260606
+WIT,Wipro Limited,Technology,Information Technology Services,NYSE,2.1,13448361,22029764608,0.1143,2.09,2.5,0.119,-19.47,-32.65,-49.75,-36.19,0.0,37.5,3,3.13,1.8,-32.91,0.0,,8,,20260606
+JXHLY,"ENEOS Holdings, Inc.",Energy,Oil & Gas Refining & Marketing,PNK,17.17,2765,23092727808,1.039,17.37,15.34,-0.1929,-23.1,6.69,48.73,16.06,0.0,47.0,3,20.58,9.08,-16.57,0.0,,8,,20260606
+OLCLY,"Oriental Land Co., Ltd.",Consumer Cyclical,Leisure,PNK,13.63,145952,22346596352,0.6648,15.05,18.99,-2.1375,-32.96,-38.87,-67.26,-48.75,0.0,16.25,4,26.98,12.94,-49.48,0.0,,8,,20260606
+SZKMY,Suzuki Motor Corporation,Consumer Cyclical,Auto Manufacturers,PNK,46.51,114873,22432630784,2.0023,46.3,54.77,0.1073,-22.65,-36.68,-33.55,-31.92,0.0,40.0,3,64.94,41.1,-28.38,0.0,,8,,20260606
+CMAKY,"China Minsheng Banking Corp., Ltd.",Financial Services,Banks - Regional,PNK,4.7,428,24663656448,0.0466,4.6,5.01,2.2039,-8.81,-26.26,-32.5,-24.39,0.0,37.0,3,6.72,3.95,-30.06,0.0,,8,,20260606
+BOUYY,Bouygues SA,Industrials,Engineering & Construction,PNK,11.58,59703,22327726080,0.236,11.61,10.14,-0.1332,-6.05,8.05,10.16,5.37,0.0,72.0,3,12.5,8.19,-7.36,0.0,,8,,20260606
+WRTBF,Wärtsilä Oyj Abp,Industrials,Specialty Industrial Machinery,PNK,41.65,620,24554602496,0.8371,40.3,35.18,1.6093,-5.03,20.01,77.75,36.85,0.0,76.25,2,47.79,20.0,-12.85,0.0,,8,,20260606
+MTNOY,MTN Group Limited,Communication Services,Telecom Services,PNK,13.29,12774,24360204288,0.2467,12.47,10.46,3.3108,1.46,36.13,57.36,35.96,0.0,90.0,2,13.61,7.04,-2.35,0.0,,8,,20260606
+FWONA,Formula One Group,Communication Services,Entertainment,NASDAQ,80.94,158360,20284026880,2.4031,81.53,85.3,-0.2459,-5.46,-13.34,-33.86,-19.58,0.0,59.0,4,99.52,73.7,-18.67,0.0,,8,,20260606
+FWONK,Formula One Group,Communication Services,Entertainment,NASDAQ,87.68,2032855,21973108736,2.7186,88.66,93.33,-0.3611,-5.32,-13.46,-35.21,-20.12,0.0,59.0,4,109.36,80.15,-19.83,0.0,,8,,20260606
+SURYY,"Sumitomo Realty & Development Co., Ltd.",Real Estate,Real Estate Services,PNK,11.22,671,21889708032,0.5918,14.46,12.94,-5.4861,-40.78,-10.08,7.56,-10.7,0.0,7.5,4,16.24,8.5,-30.95,0.0,,8,,20260606
+CAOVY,China Overseas Land & Investment Limited,Real Estate,Real Estate - Development,PNK,9.98,6138,21845985280,0.716,8.83,8.77,1.6115,3.29,3.39,-5.27,-0.1,0.0,85.0,2,11.4,7.03,-12.46,0.0,,8,,20260606
+ILMN,"Illumina, Inc.",Healthcare,Diagnostics & Research,NASDAQ,162.32,1613992,24559017984,6.623,137.82,123.89,3.6994,20.26,18.4,70.01,39.51,0.0,91.25,2,172.49,81.76,-5.9,0.0,,8,,20260606
+AFRM,"Affirm Holdings, Inc.",Financial Services,Credit Services,NASDAQ,63.61,5304323,21302896640,3.8769,61.37,67.15,0.5766,13.04,-17.12,-8.1,-5.97,0.0,73.25,3,100.0,42.09,-36.39,0.0,,8,,20260606
+LEN,Lennar Corporation,Consumer Cyclical,Residential Construction,NYSE,90.49,2988920,22287532032,2.7482,88.75,110.34,0.6317,-20.07,-39.82,-41.57,-35.59,0.0,37.5,3,144.24,81.18,-37.26,0.0,,8,,20260606
+SBAC,SBA Communications Corporation,Real Estate,REIT - Specialty,NASDAQ,208.02,1152044,22063228928,6.1728,206.69,194.47,0.2155,-2.81,4.01,-32.91,-12.46,0.0,85.0,2,243.16,162.41,-14.45,0.0,,8,,20260606
+PKX,POSCO Holdings Inc.,Basic Materials,Steel,NYSE,61.59,236658,18629935104,3.374,70.94,59.41,-2.7709,-5.57,7.29,11.66,5.82,0.0,67.5,3,92.4,44.99,-33.34,0.0,,8,,20260606
+EMBVF,"Arca Continental, S.A.B. de C.V.",Consumer Defensive,Beverages - Non-Alcoholic,PNK,12.59,2609,21380237312,0.1998,12.16,11.03,2.1505,-4.28,11.23,-12.76,-2.24,0.0,76.25,2,13.1,9.51,-3.89,0.0,,8,,20260606
+TNABF,Tenaga Nasional Berhad,Utilities,Utilities - Regulated Electric,PNK,3.4,4754,21235128320,0.1375,3.61,3.12,-1.4998,-1.44,11.11,-4.47,1.74,0.0,57.5,3,3.92,2.7,-13.25,0.0,,8,,20260606
+SQM,Sociedad Química y Minera de Chile S.A.,Basic Materials,Specialty Chemicals,NYSE,75.43,1277469,21545660416,3.4775,84.98,66.37,-2.7458,-1.61,12.52,113.07,49.2,0.0,60.0,3,98.0,31.9,-23.03,0.0,,8,,20260606
+TEAM,Atlassian Corporation,Technology,Software - Application,NASDAQ,99.47,7559088,25242288128,7.4429,79.52,123.5,2.6804,8.96,-45.0,-78.02,-44.72,0.0,65.0,3,222.59,56.01,-55.31,0.0,,8,,20260606
+MKSI,MKS Inc.,Technology,Scientific & Technical Instruments,NASDAQ,301.65,1194546,20374685696,16.3226,285.18,199.44,1.0088,33.76,76.47,219.91,123.17,0.0,86.25,2,341.81,86.05,-11.75,0.0,,8,,20260606
+LSRCY,Lasertec Corporation,Technology,Semiconductor Equipment & Materials,PNK,53.44,88957,23949316096,2.1709,51.29,39.34,0.9892,17.47,33.7,139.7,72.04,0.0,92.5,2,59.66,18.91,-10.43,0.0,,8,,20260606
+FOJCY,Fortum Oyj,Utilities,Utilities - Renewable,PNK,4.73,6406,21211332608,0.1678,4.92,4.28,-1.1488,-8.19,9.7,13.37,6.7,0.0,74.5,3,5.27,3.27,-10.28,0.0,,8,,20260606
+DGX,Quest Diagnostics Incorporated,Healthcare,Diagnostics & Research,NYSE,200.29,890952,22171387904,4.3356,194.14,187.5,1.4195,-9.01,2.2,-7.87,-4.63,0.0,65.0,2,213.5,164.65,-6.19,0.0,,8,,20260606
+ARLUF,Aristocrat Leisure Limited,Consumer Cyclical,Gambling,PNK,33.85,1361,20413806592,1.0427,34.06,38.19,-0.2045,-13.42,-25.37,-47.27,-31.14,0.0,40.75,4,47.56,30.3,-28.83,0.0,,8,,20260606
+CRS,Carpenter Technology Corporation,Industrials,Metal Fabrication,NYSE,483.6,697019,24027961344,18.7635,432.03,342.53,2.7485,14.99,47.48,71.45,48.95,0.0,91.25,2,500.16,228.0,-3.31,0.0,,8,,20260606
+ROIV,Roivant Sciences Ltd.,Healthcare,Biotechnology,NASDAQ,28.58,5836842,20556748800,1.0612,28.71,22.75,-0.1256,-10.69,29.61,129.77,59.6,0.0,74.5,3,32.79,10.71,-12.85,0.0,,8,,20260606
+IPOAF,"Industrias Peñoles, S.A.B. de C.V.",Basic Materials,Other Industrial Metals & Mining,PNK,53.19,944,21141733376,1.9932,53.07,48.67,0.0618,-9.63,9.25,121.02,49.24,0.0,81.25,2,71.0,23.42,-25.08,0.0,,8,,20260606
+ELCPF,"EDP, S.A.",Utilities,Utilities - Diversified,PNK,4.86,25844,20090859520,0.1657,5.09,4.71,-1.3747,-14.81,-5.37,-4.49,-7.38,0.0,43.25,3,5.6,3.92,-13.21,0.0,,8,,20260606
+PPERY,PT Bank Mandiri (Persero) Tbk,Financial Services,Banks - Regional,PNK,8.98,114453,20953331712,0.245,9.67,10.26,-2.8224,-29.62,-28.59,-49.3,-37.13,0.0,7.5,4,13.11,8.54,-31.5,0.0,,8,,20260606
+JXHGF,"ENEOS Holdings, Inc.",Energy,Oil & Gas Refining & Marketing,PNK,7.96,123,21411545088,0.0787,8.53,7.3,-7.2992,-21.93,7.44,42.06,13.95,0.0,25.0,3,9.12,4.76,-12.76,0.0,,8,,20260606
+AKAM,"Akamai Technologies, Inc.",Technology,Software - Infrastructure,NASDAQ,149.32,5589768,21708957696,7.7814,123.26,96.59,3.3492,39.49,61.28,69.75,59.22,0.0,88.75,2,165.45,69.78,-9.75,0.0,,8,,20260606
+SMCI,"Super Micro Computer, Inc.",Technology,Computer Hardware,NASDAQ,41.64,41280426,25043064832,3.184,30.95,36.02,3.3589,23.0,15.17,-30.83,-1.27,0.0,90.0,3,62.36,19.48,-33.23,0.0,,8,,20260606
+OMC,Omnicom Group Inc.,Communication Services,Advertising Agencies,NYSE,75.31,4453830,21463816192,2.2636,75.51,75.86,-0.0874,-20.43,-0.27,-15.27,-11.31,0.0,35.25,4,87.17,66.33,-13.61,0.0,,8,,20260606
+CJPRY,Central Japan Railway Company,Industrials,Railroads,PNK,10.28,107900,19640047616,0.1915,12.08,13.43,-9.4124,-37.84,-38.03,-32.75,-35.87,0.0,7.5,4,15.68,10.28,-34.44,0.0,,8,,20260606
+FOJCF,Fortum Oyj,Utilities,Utilities - Renewable,PNK,23.55,1428,21130577920,0.0597,24.39,21.16,-13.9894,-8.05,10.32,14.45,7.38,0.0,62.0,3,25.75,17.06,-8.54,0.0,,8,,20260606
+EDPFY,"EDP, S.A.",Utilities,Utilities - Diversified,PNK,50.96,17423,21110683648,0.994,51.34,47.1,-0.3799,-4.18,6.55,3.28,2.56,0.0,73.25,3,56.45,39.89,-9.73,0.0,,8,,20260606
+VLTO,Veralto Corporation,Industrials,Pollution & Treatment Controls,NYSE,86.05,2110557,21133817856,2.2316,87.36,96.74,-0.5878,-18.63,-24.01,-37.76,-28.17,0.0,20.75,4,110.11,80.03,-21.85,0.0,,8,,20260606
+LH,Labcorp Holdings Inc.,Healthcare,Diagnostics & Research,NYSE,265.15,628519,21742299136,6.1682,261.52,266.63,0.5888,-11.4,-8.16,-19.84,-13.65,0.0,50.75,3,293.72,241.81,-9.73,0.0,,8,,20260606
+STE,STERIS plc,Healthcare,Medical Devices,NYSE,212.35,801147,20725889024,5.6333,217.1,240.28,-0.8438,-17.87,-26.39,-36.81,-28.43,0.0,27.0,4,269.44,195.14,-21.19,0.0,,8,,20260606
+BDRXF,Bombardier Inc.,Industrials,Aerospace & Defense,PNK,14.59,100,34596682361,0.1843,17.67,17.49,-16.73,-31.34,-27.54,-34.9,-31.43,0.0,1.25,4,18.75,14.59,-22.19,0.0,,8,,20260606
+TNABY,Tenaga Nasional Berhad,Utilities,Utilities - Regulated Electric,PNK,13.71,325,19979384832,0.1917,14.72,13.53,-5.2723,-13.32,4.46,-29.11,-13.41,0.0,50.0,3,15.7,11.6,-12.68,0.0,,8,,20260606
+BDRBF,Bombardier Inc.,Industrials,Aerospace & Defense,PNK,230.39,19609,22728673280,10.7134,196.65,167.69,3.1491,9.03,27.5,203.13,93.13,0.0,88.75,2,253.51,69.01,-9.12,0.0,,8,,20260606
+BDRAF,Bombardier Inc.,Industrials,Aerospace & Defense,PNK,232.3,292,22917101568,7.0937,196.74,167.93,5.0134,5.9,30.23,212.65,97.12,0.0,88.75,2,235.15,68.1,-1.21,0.0,,8,,20260606
+GNENY,"Ganfeng Lithium Group Co., Ltd.",Basic Materials,Chemicals,PNK,6.87,1306,14404290560,0.5338,9.69,7.33,-5.2835,-17.79,-1.01,177.63,66.25,0.0,44.5,3,11.88,2.5,-42.17,0.0,,8,,20260606
+GWLLF,Great Wall Motor Company Limited,Consumer Cyclical,Auto Manufacturers,PNK,1.35,1246,11552563200,0.0182,1.55,1.83,-11.1382,-24.89,-39.14,-39.52,-35.73,0.0,0.0,4,2.51,1.31,-46.22,0.0,,8,,20260606
+JMHLY,Jardine Matheson Holdings Limited,Industrials,Conglomerates,PNK,63.13,14768,18610323456,2.7758,70.88,67.38,-2.7913,-27.15,-14.16,17.06,-4.92,0.0,19.5,4,83.54,43.18,-24.43,0.0,,8,,20260606
+CHKGF,CK Asset Holdings Limited,Real Estate,Real Estate - Development,PNK,5.94,146,20788682752,0.0543,5.92,5.12,0.2816,-14.27,22.21,14.87,10.15,0.0,75.0,2,6.8,3.74,-12.71,0.0,,8,,20260606
+CCHGY,Coca-Cola HBC AG,Consumer Defensive,Beverages - Non-Alcoholic,PNK,56.97,9547,20763545600,1.0796,56.67,52.3,0.2773,-14.91,5.66,-17.24,-8.64,0.0,65.0,2,65.93,44.37,-13.59,0.0,,8,,20260606
+WWD,"Woodward, Inc.",Industrials,Aerospace & Defense,NASDAQ,357.74,719963,21315172352,11.6381,366.63,317.38,-0.7639,-14.23,14.41,27.97,12.67,0.0,47.0,3,407.0,227.0,-12.1,0.0,,8,,20260606
+GNENF,"Ganfeng Lithium Group Co., Ltd.",Basic Materials,Chemicals,PNK,7.33,8398,15368769536,0.412,9.59,7.31,-5.4964,-8.91,9.44,182.06,73.9,0.0,63.75,3,11.4,2.38,-35.7,0.0,,8,,20260606
+VONOY,Vonovia SE,Real Estate,Real Estate Services,PNK,11.87,278330,20141615104,0.2893,12.38,13.74,-1.7481,-28.16,-27.39,-52.21,-37.51,0.0,22.0,4,17.8,11.52,-33.31,0.0,,8,,20260606
+TLSNF,Telia Company AB (publ),Communication Services,Telecom Services,PNK,5.35,104,21036783616,0.0169,5.17,4.4,10.8646,-2.22,24.44,10.72,12.29,0.0,75.0,2,5.42,3.47,-1.29,0.0,,8,,20260606
+FYGGY,"Fuyao Glass Industry Group Co., Ltd.",Consumer Cyclical,Auto Parts,PNK,1.7,19358,17746257920,0.1509,1.89,2.09,-1.246,-29.14,-18.86,-7.78,-17.0,0.0,13.75,4,2.69,1.5,-36.8,0.0,,8,,20260606
+BNDSF,"Banco de Sabadell, S.A.",Financial Services,Banks - Diversified,PNK,3.44,3223,16756108288,0.1012,3.37,3.28,0.689,7.19,-0.62,3.31,2.91,0.0,76.25,2,4.15,3.14,-17.11,0.0,,8,,20260606
+ULS,UL Solutions Inc.,Industrials,Specialty Business Services,NYSE,96.81,758557,19513325568,3.0508,93.15,80.73,1.1988,9.6,13.89,10.38,11.41,0.0,87.5,2,107.54,61.64,-9.98,0.0,,8,,20260606
+AGPPF,Valterra Platinum Limited,Basic Materials,Other Precious Metals & Mining,PNK,79.3,161,20932313088,4.2615,83.49,77.68,-0.9827,-27.0,0.76,68.77,21.02,0.0,28.75,3,122.71,0.01,-35.38,0.0,,8,,20260606
+EXPD,"Expeditors International of Washington, Inc.",Industrials,Integrated Freight & Logistics,NYSE,160.44,1133539,20984129536,3.6064,150.27,141.49,2.8208,-0.18,0.44,20.12,8.16,0.0,88.75,2,167.19,110.48,-4.04,0.0,,8,,20260606
+LSRCF,Lasertec Corporation,Technology,Semiconductor Equipment & Materials,PNK,240.2,52,21529286656,5.7281,251.18,150.5,-1.9177,3.28,364.16,-876.34,-222.26,0.0,67.0,3,290.0,97.12,-17.17,0.0,,8,,20260606
+DKS,"DICK'S Sporting Goods, Inc.",Consumer Cyclical,Specialty Retail,NYSE,214.83,1251596,19216308224,9.2695,216.45,212.66,-0.1746,-0.37,-13.06,-0.63,-4.92,0.0,74.5,3,237.75,170.73,-9.64,0.0,,8,,20260606
+TLSNY,Telia Company AB (publ),Communication Services,Telecom Services,PNK,10.38,54144,20407648256,0.1905,10.37,8.83,0.0702,-6.3,18.94,10.7,9.34,0.0,87.5,2,10.98,6.67,-5.46,0.0,,8,,20260606
+ENTG,"Entegris, Inc.",Technology,Semiconductor Equipment & Materials,NASDAQ,125.41,2728361,19099942912,7.9743,136.8,108.31,-1.4282,1.62,37.13,48.15,32.66,0.0,60.0,3,159.15,67.97,-21.2,0.0,,8,,20260606
+JARLF,Jardine Matheson Holdings Limited,Industrials,Conglomerates,PNK,64.3,401,18955233280,0.6391,70.49,67.9,-9.6794,-22.71,-13.87,24.26,-0.83,0.0,12.0,4,82.35,43.92,-21.92,0.0,,8,,20260606
+GBERF,Geberit AG,Industrials,Building Products & Equipment,PNK,636.76,30,26378981376,5.9895,667.67,741.31,-5.1609,-29.36,-30.57,-43.56,-35.46,0.0,12.0,4,819.04,630.44,-22.26,0.0,,8,,20260606
+CLEGF,Coles Group Limited,Consumer Defensive,Grocery Stores,PNK,15.55,25,21846366208,0.045,15.66,15.35,-2.4839,-15.15,-0.43,-8.89,-7.49,0.0,37.0,3,16.8,13.2,-7.47,0.0,,8,,20260606
+KKPNF,Koninklijke KPN N.V.,Communication Services,Telecom Services,PNK,5.01,13387,18904045568,0.2494,5.36,4.9,-1.3935,-17.89,-0.53,-17.4,-11.62,0.0,40.0,3,5.81,4.25,-13.77,0.0,,8,,20260606
+CHRW,"C.H. Robinson Worldwide, Inc.",Industrials,Integrated Freight & Logistics,NASDAQ,184.09,1809330,21699248128,6.12,173.89,160.27,1.6672,-7.51,7.79,69.89,28.8,0.0,65.0,2,203.34,92.36,-9.47,0.0,,8,,20260606
+EMSHF,EMS-CHEMIE HOLDING AG,Basic Materials,Specialty Chemicals,PNK,877.91,4,18163218432,2.3666,827.26,779.77,21.4015,-2.9,3.07,-15.15,-5.71,0.0,75.0,2,895.8,702.84,-2.0,0.0,,8,,20260606
+CKISF,CK Infrastructure Holdings Limited,Utilities,Utilities - Regulated Electric,PNK,8.6,6,18267179008,0.0271,7.87,7.16,26.8658,5.13,18.77,6.6,10.49,0.0,75.0,2,8.64,6.25,-0.46,0.0,,8,,20260606
+CAPMF,Capgemini SE,Technology,Information Technology Services,PNK,123.66,1779,20668583936,7.6061,120.45,141.24,0.4227,-14.1,-34.18,-51.62,-36.14,0.0,37.5,3,183.4,106.45,-32.57,0.0,,8,,20260606
+KKPNY,Koninklijke KPN N.V.,Communication Services,Telecom Services,PNK,4.96,353190,18715381760,0.0963,5.33,4.88,-3.8217,-18.03,-0.3,-19.95,-12.6,0.0,30.0,3,5.72,4.36,-13.29,0.0,,8,,20260606
+SHWDY,Resonac Holdings Corporation,Basic Materials,Chemicals,PNK,113.68,88,20574205952,2.0719,89.84,56.05,11.5062,36.88,218.43,409.24,249.37,0.0,76.25,2,126.17,21.35,-9.9,0.0,,8,,20260606
+ANGPY,Valterra Platinum Limited,Basic Materials,Other Precious Metals & Mining,PNK,13.14,207946,20816046080,0.6301,14.17,12.7,-1.6355,-24.51,4.98,87.71,30.7,0.0,37.5,3,19.71,6.72,-33.34,0.0,,8,,20260606
+JIAXF,Jiangxi Copper Company Limited,Basic Materials,Copper,PNK,4.57,971,19419867136,0.0692,4.67,4.55,-1.5063,-30.97,-5.19,156.63,53.09,0.0,42.0,3,6.32,1.7,-27.69,0.0,,8,,20260606
+AS,"Amer Sports, Inc.",Consumer Cyclical,Leisure,NYSE,34.1,4499285,19840129024,1.3166,34.82,35.6,-0.5493,-9.64,-16.2,-33.59,-21.52,0.0,57.75,4,42.76,28.92,-20.25,0.0,,8,,20260606
+BURL,"Burlington Stores, Inc.",Consumer Cyclical,Apparel Retail,NYSE,317.05,853328,19920336896,13.8425,319.89,293.76,-0.205,-6.26,18.95,7.82,8.19,0.0,74.5,3,351.85,218.52,-9.89,0.0,,8,,20260606
+HKHHY,Heineken Holding N.V.,Consumer Defensive,Beverages - Brewers,OQX,34.99,41033,19337730048,0.8289,35.61,35.58,-0.7445,-20.99,-11.67,-35.57,-23.56,0.0,37.75,4,43.51,33.58,-19.58,0.0,,8,,20260606
+GBERY,Geberit AG,Industrials,Building Products & Equipment,PNK,64.81,19455,21370271744,1.2527,66.28,72.73,-1.1758,-23.61,-25.43,-40.68,-31.07,0.0,24.5,4,84.91,62.49,-23.67,0.0,,8,,20260606
+MZTFF,Mizrahi Tefahot Bank Ltd.,Financial Services,Banks - Regional,PNK,78.11,124,20315725824,0.2003,73.86,63.11,21.2414,-6.04,13.7,147.7,62.36,0.0,75.0,2,80.2,34.68,-2.61,0.0,,8,,20260606
+CGEMY,Capgemini SE,Technology,Information Technology Services,PNK,23.98,333326,20040134656,0.9205,23.09,27.06,0.9655,-13.75,-34.18,-53.81,-36.92,0.0,37.5,3,35.9,21.94,-33.2,0.0,,8,,20260606
+IREN,IREN Limited,Financial Services,Capital Markets,NASDAQ,54.35,42454177,19423531008,5.5932,49.89,46.77,0.798,38.1,15.17,451.17,195.3,0.0,86.25,2,76.87,8.82,-29.3,0.0,,8,,20260606
+ALB,Albemarle Corporation,Basic Materials,Specialty Chemicals,NYSE,155.44,2054788,18331762688,8.635,184.19,142.25,-3.3299,-13.98,15.1,139.76,57.69,0.0,56.25,3,221.0,55.9,-29.67,0.0,,8,,20260606
+VNNVF,Vonovia SE,Real Estate,Real Estate Services,PNK,24.0,1165,20362205184,0.3363,25.26,27.46,-3.7596,-34.24,-20.12,-50.92,-35.97,0.0,1.25,4,36.65,23.84,-34.52,0.0,,8,,20260606
+BSBR,Banco Santander (Brasil) S.A.,Financial Services,Banks - Regional,NYSE,5.24,1009420,39234138112,0.1435,5.77,5.84,-3.6713,-21.13,-26.05,-19.77,-22.31,0.0,11.25,4,7.32,4.62,-28.42,0.0,,8,,20260606
+CCHBF,Coca-Cola HBC AG,Consumer Defensive,Beverages - Non-Alcoholic,PNK,58.04,117,21153521664,0.4855,54.74,50.13,6.8061,3.92,5.56,-13.34,-2.41,0.0,75.0,2,58.02,45.9,0.03,0.0,,8,,20260606
+CHTR,"Charter Communications, Inc.",Communication Services,Telecom Services,NASDAQ,132.12,2711892,20700344320,7.7711,180.95,217.53,-6.2829,-53.1,-42.39,-91.2,-64.59,0.0,8.75,4,422.29,127.88,-68.71,0.0,,8,,20260606
+YPF,YPF Sociedad Anónima,Energy,Oil & Gas Integrated,NYSE,53.5,2580361,22573590528,1.9368,45.72,36.78,4.0167,35.03,35.16,34.0,34.66,0.0,87.5,2,56.15,22.82,-4.72,0.0,,8,,20260606
+NXGPY,NEXT plc,Consumer Cyclical,Apparel Retail,PNK,88.21,517,20138704896,0.8544,88.29,87.51,-0.0911,-10.15,-14.43,-24.13,-17.24,0.0,64.5,3,101.25,78.67,-12.88,0.0,,8,,20260606
+DSMFF,DSM-Firmenich AG,Basic Materials,Specialty Chemicals,OQX,78.92,1075,20845117440,0.7379,73.54,77.61,7.2816,11.96,-5.22,-49.18,-18.51,0.0,75.0,3,107.52,67.0,-26.6,0.0,,8,,20260606
+HLDCY,Henderson Land Development Company Limited,Real Estate,Real Estate - Diversified,PNK,3.68,21382,17816303616,0.1117,3.95,3.79,-2.3855,-26.44,-17.36,-10.52,-16.89,0.0,22.0,4,4.49,2.98,-18.04,0.0,,8,,20260606
+GPN,Global Payments Inc.,Industrials,Specialty Business Services,NYSE,66.32,3462287,18141405184,2.9964,69.33,76.48,-1.0061,-22.9,-24.99,-37.62,-29.52,0.0,23.25,4,90.64,62.45,-26.83,0.0,,8,,20260606
+SOFI,"SoFi Technologies, Inc.",Financial Services,Credit Services,NASDAQ,16.03,67117300,20562343936,0.9509,16.75,23.06,-0.7529,-25.18,-53.32,-6.09,-27.39,0.0,23.25,4,32.73,13.46,-51.02,0.0,,8,,20260606
+LGGNY,Legal & General Group Plc,Financial Services,Asset Management,PNK,18.5,72469,20305381376,0.3247,17.05,16.14,4.4557,2.36,7.82,-11.36,-1.22,0.0,91.25,2,18.87,15.25,-1.96,0.0,,8,,20260606
+LUV,Southwest Airlines Co.,Industrials,Airlines,NYSE,41.54,7895030,20303661056,1.5227,39.9,38.64,1.077,-9.61,8.98,6.14,3.2,0.0,60.0,2,55.11,28.98,-24.62,0.0,,8,,20260606
+ASCCY,ASICS Corporation,Consumer Cyclical,Footwear & Accessories,PNK,27.38,37028,19410008064,0.8367,28.3,26.66,-1.1035,-15.81,4.25,-15.83,-8.8,0.0,74.5,3,31.99,21.84,-14.41,0.0,,8,,20260606
+SBS,Companhia de Saneamento Básico do Estado de São Paulo - SABESP,Utilities,Utilities - Regulated Water,NYSE,5.35,6870715,18760458240,0.165,6.21,5.36,-5.2326,-12.4,-7.68,8.37,-2.44,0.0,48.25,3,7.16,3.78,-25.26,0.0,,8,,20260606
+SW,Smurfit Westrock Plc,Consumer Cyclical,Packaging & Containers,NYSE,41.28,5386682,21649874944,1.4877,39.93,40.47,0.905,-12.56,8.15,-25.3,-10.41,0.0,61.25,3,52.65,32.73,-21.6,0.0,,8,,20260606
+DSFIY,DSM Firmenich AG,Basic Materials,Specialty Chemicals,OQX,7.91,355917,19687745536,0.2545,7.54,7.8,1.4507,8.15,-8.52,-55.0,-22.95,0.0,88.75,3,11.39,6.4,-30.55,0.0,,8,,20260606
+HKHHF,Heineken Holding N.V.,Consumer Defensive,Beverages - Brewers,OQX,68.42,1149,18906650624,0.8079,70.63,70.47,-2.7366,-22.54,-12.72,-36.97,-24.87,0.0,24.0,4,86.08,66.15,-20.52,0.0,,8,,20260606
+BNDSY,"Banco de Sabadell, S.A.",Financial Services,Banks - Diversified,PNK,6.15,8712,14978207744,0.6033,6.69,6.5,-0.9017,-7.8,-9.21,-11.89,-9.93,0.0,57.0,3,8.65,6.0,-28.9,0.0,,8,,20260606
+RCI,Rogers Communications Inc.,Communication Services,Telecom Services,NYSE,37.63,1331174,20328677376,0.8497,36.06,36.75,1.8428,-15.6,-8.08,19.89,1.23,0.0,62.5,3,41.14,26.3,-8.53,0.0,,8,,20260606
+DD,"DuPont de Nemours, Inc.",Basic Materials,Specialty Chemicals,NYSE,46.85,3824074,18976976896,1.4189,47.19,41.3,-0.243,-6.07,10.61,42.65,19.26,0.0,74.5,3,52.66,27.45,-11.03,0.0,,8,,20260606
+TTMI,"TTM Technologies, Inc.",Technology,Electronic Components,NASDAQ,167.62,2222074,17407346688,13.6744,144.53,91.25,1.6889,80.68,142.62,392.64,227.14,0.0,91.25,2,200.68,31.83,-16.47,0.0,,8,,20260606
+LGGNF,Legal & General Group Plc,Financial Services,Asset Management,PNK,3.56,34800,19537070080,0.1088,3.47,3.42,0.7902,-14.95,-2.18,-21.61,-13.14,0.0,75.0,2,3.94,3.06,-9.64,0.0,,8,,20260606
+MDIBF,Mediobanca Banca di Credito Finanziario S.p.A.,Financial Services,Banks - Regional,PNK,24.43,37,19702745088,0.0345,23.56,22.91,25.1987,-3.62,-2.09,11.26,2.87,0.0,75.0,2,24.43,18.6,-0.0,0.0,,8,,20260606
+MDIBY,Mediobanca Banca di Credito Finanziario S.p.A.,Financial Services,Banks - Regional,PNK,24.89,5404,20219312128,0.4486,22.48,20.71,5.363,28.02,21.09,-15.85,8.05,0.0,81.25,2,26.11,17.66,-4.67,0.0,,8,,20260606
+RCIAF,Rogers Communications Inc.,Communication Services,Telecom Services,PNK,39.75,110,21473955840,0.2714,36.82,36.93,10.7816,-10.59,-3.33,16.87,2.94,0.0,50.0,3,40.83,29.6,-2.65,0.0,,8,,20260606
+LSCC,Lattice Semiconductor Corporation,Technology,Semiconductors,NASDAQ,135.57,2057568,18574155776,7.9064,121.04,88.38,1.838,48.59,71.99,159.39,101.1,0.0,88.75,2,155.82,46.05,-13.0,0.0,,8,,20260606
+NXT,Nextpower Inc.,Technology,Solar,NASDAQ,131.57,2122876,20022757376,11.9963,124.16,101.51,0.6173,19.72,42.98,105.97,62.36,0.0,86.25,2,163.13,51.69,-19.35,0.0,,8,,20260606
+NNDNF,Nidec Corporation,Industrials,Specialty Industrial Machinery,PNK,18.0,36,19198672896,0.1194,15.01,15.47,25.0407,17.15,34.03,-37.14,1.34,0.0,75.0,3,22.11,12.1,-18.59,0.0,,8,,20260606
+BRO,"Brown & Brown, Inc.",Financial Services,Insurance Brokers,NYSE,58.86,3277725,19950469120,1.9213,61.35,76.04,-1.2935,-29.68,-34.18,-71.77,-48.09,0.0,23.25,4,111.63,53.81,-47.27,0.0,,8,,20260606
+NJDCY,Nidec Corporation,Industrials,Specialty Industrial Machinery,PNK,4.3,32626,17872109568,0.7877,3.83,3.76,0.5965,-2.84,26.99,-39.81,-7.19,0.0,83.75,2,5.7,1.84,-24.56,0.0,,8,,20260606
+EFX,Equifax Inc.,Industrials,Consulting Services,NYSE,172.13,1676552,20764833792,6.7727,173.79,205.91,-0.2451,-26.66,-25.89,-60.03,-39.74,0.0,25.75,4,275.91,156.47,-37.61,0.0,,8,,20260606
+RBA,"RB Global, Inc.",Industrials,Specialty Business Services,NYSE,104.49,1119214,19466485760,2.8581,102.65,104.99,0.6452,-9.41,-1.72,-24.67,-12.82,0.0,74.5,3,119.58,93.58,-12.62,0.0,,8,,20260606
+TU,TELUS Corporation,Communication Services,Telecom Services,NYSE,12.31,5648638,19220205568,0.2315,12.47,13.61,-0.6704,-18.07,-13.64,-46.99,-28.09,0.0,37.75,4,16.74,11.69,-26.46,0.0,,8,,20260606
+NXGPF,NEXT plc,Consumer Cyclical,Apparel Retail,PNK,178.24,17,20346462208,2.5121,181.27,180.39,-1.2076,-16.5,-16.79,-4.16,-11.67,0.0,26.5,4,187.78,145.27,-5.08,0.0,,8,,20260606
+GWLLY,Great Wall Motor Company Limited,Consumer Cyclical,Auto Manufacturers,PNK,13.32,3582,11395104768,0.4334,15.65,18.51,-5.3799,-19.08,-43.13,-32.93,-33.04,0.0,2.5,4,26.12,12.7,-49.02,0.0,,8,,20260606
+INCY,Incyte Corporation,Healthcare,Biotechnology,NASDAQ,102.38,1486053,20453697536,3.0449,96.51,96.0,1.928,-3.28,-7.59,26.67,7.19,0.0,85.0,2,112.29,66.74,-8.83,0.0,,8,,20260606
+VTRS,Viatris Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,NASDAQ,15.88,10914382,18493097984,0.4352,15.07,12.52,1.8515,3.94,40.37,66.97,41.9,0.0,82.5,2,17.53,8.44,-9.41,0.0,,8,,20260606
+STOSF,Santos Limited,Energy,Oil & Gas E&P,PNK,5.28,4598,17148241920,0.2223,5.61,4.85,-1.462,-6.87,16.13,0.32,4.05,0.0,58.75,3,6.25,3.65,-15.52,0.0,,8,,20260606
+EVRG,"Evergy, Inc.",Utilities,Utilities - Regulated Electric,NASDAQ,83.27,1932812,19194818560,1.4705,81.67,76.51,1.091,-8.41,5.52,7.41,2.79,0.0,87.5,2,85.27,64.7,-2.35,0.0,,8,,20260606
+KUBTY,Kubota Corporation,Industrials,Farm & Heavy Construction Machinery,PNK,91.73,28711,20865718272,2.377,84.77,76.05,2.9267,-7.99,13.84,38.61,18.29,0.0,88.75,2,107.97,53.59,-15.04,0.0,,8,,20260606
+SRTOY,Sartorius Stedim Biotech S.A.,Healthcare,Medical Instruments & Supplies,PNK,21.28,57325,20700717056,1.0379,19.81,21.8,1.4167,-2.67,-21.58,-28.55,-19.64,0.0,82.0,3,26.54,17.25,-19.82,0.0,,8,,20260606
+DNGFF,Dongfang Electric Corporation Limited,Industrials,Specialty Industrial Machinery,PNK,4.03,371,13954483200,0.1125,4.84,3.47,-7.1894,-15.05,26.04,487.04,200.17,0.0,27.5,3,5.75,1.1,-29.83,0.0,,8,,20260606
+PKG,Packaging Corporation of America,Consumer Cyclical,Packaging & Containers,NYSE,222.82,917706,19852961792,5.7941,214.81,212.05,1.3818,-9.27,5.46,-7.1,-3.25,0.0,74.5,2,249.51,184.76,-10.7,0.0,,8,,20260606
+SITM,SiTime Corporation,Technology,Semiconductors,NASDAQ,625.68,521860,16515966976,51.3972,583.67,389.82,0.8174,81.14,72.11,183.37,118.87,0.0,86.25,2,901.81,186.49,-30.62,0.0,,8,,20260606
+IFF,International Flavors & Fragrances Inc.,Basic Materials,Specialty Chemicals,NYSE,73.01,1881917,18639706112,2.783,73.59,68.94,-0.2071,-10.44,1.63,-28.65,-13.5,0.0,73.25,3,84.45,59.14,-13.55,0.0,,8,,20260606
+DWAHF,"Daiwa House Industry Co., Ltd.",Real Estate,Real Estate - Development,PNK,23.99,93,14858136576,1.1536,32.76,58.11,-7.6041,-88.78,-85.35,-140.99,-108.46,0.0,0.0,4,38.55,23.99,-37.77,0.0,,8,,20260606
+TRATF,Traton SE,Industrials,Farm & Heavy Construction Machinery,PNK,38.7,200,20141848576,0.1473,37.42,35.83,8.6877,-2.79,7.58,-15.71,-4.33,0.0,75.0,2,43.16,30.34,-10.33,0.0,,8,,20260606
+NESRF,Northern Star Resources Limited,Basic Materials,Gold,PNK,15.01,35374,21423171584,0.8034,15.24,16.39,-0.2806,-36.24,-27.3,-21.25,-27.12,0.0,37.75,4,22.99,9.8,-34.71,0.0,,8,,20260606
+BKRIY,Bank of Ireland Group plc,Financial Services,Banks - Regional,PNK,20.28,44550,19271258112,0.5733,19.1,17.73,2.059,6.19,-0.68,21.17,9.78,0.0,82.5,2,21.11,13.01,-3.92,0.0,,8,,20260606
+LNT,Alliant Energy Corporation,Utilities,Utilities - Regulated Electric,NASDAQ,72.87,2235158,18820648960,1.3758,72.04,67.72,0.602,-7.38,3.04,-1.33,-1.31,0.0,87.5,2,75.76,59.62,-3.81,0.0,,8,,20260606
+SNX,TD SYNNEX Corporation,Technology,Electronics & Computer Distribution,NYSE,268.8,805201,21672372224,9.2342,222.65,170.92,4.9979,62.31,67.04,96.78,77.76,0.0,91.25,2,286.25,120.19,-6.1,0.0,,8,,20260606
+SSLZY,Santos Limited,Energy,Oil & Gas E&P,PNK,5.66,101233,18382393344,0.1036,5.62,4.86,0.3881,-5.83,19.6,5.66,7.67,0.0,91.25,2,5.92,3.91,-4.39,0.0,,8,,20260606
+CX,"CEMEX, S.A.B. de C.V.",Basic Materials,Building Materials,NYSE,12.47,6168658,17993617408,0.3971,12.31,11.12,0.4079,4.45,6.4,59.72,27.24,0.0,86.25,2,13.67,6.63,-8.78,0.0,,8,,20260606
+WSPOF,WSP Global Inc.,Industrials,Engineering & Construction,PNK,136.43,14330,18529312768,5.7732,154.43,178.13,-3.1178,-29.03,-33.13,-60.17,-42.92,0.0,6.25,4,224.0,129.31,-39.09,0.0,,8,,20260606
+SNA,Snap-on Incorporated,Industrials,Tools & Accessories,NYSE,379.77,391393,19672813568,7.379,371.0,352.13,1.188,-7.25,3.29,-3.27,-1.97,0.0,75.75,2,400.88,301.82,-5.27,0.0,,8,,20260606
+BKRIF,Bank of Ireland Group plc,Financial Services,Banks - Regional,PNK,20.39,1276,19371020288,0.5112,19.2,17.97,2.3233,1.46,-3.62,22.29,8.01,0.0,85.0,2,20.7,13.03,-1.51,0.0,,8,,20260606
+YAHOF,LY Corporation,Consumer Cyclical,Internet Retail,PNK,2.54,1158,17391804416,0.0219,2.68,2.8,-6.6997,-0.35,-18.07,-65.8,-32.73,0.0,37.0,4,4.06,2.29,-37.49,0.0,,8,,20260606
+BEKE,KE Holdings Inc.,Real Estate,Real Estate Services,NYSE,16.08,4649820,17914019840,0.6301,16.66,17.13,-0.9179,-11.75,-9.98,-37.51,-21.43,0.0,62.75,4,20.98,14.4,-23.36,0.0,,8,,20260606
+SDMHF,Sartorius Stedim Biotech S.A.,Healthcare,Medical Instruments & Supplies,PNK,211.0,2106,20525615104,5.436,197.18,215.77,2.5432,-1.67,-26.33,-30.68,-21.91,0.0,45.75,3,264.3,178.3,-20.17,0.0,,8,,20260606
+NISTF,Nippon Steel Corporation,Basic Materials,Steel,PNK,3.4,11284,17769398272,0.186,3.67,6.51,-1.4674,-25.13,-26.51,-111.61,-60.21,0.0,7.5,4,26.21,3.25,-87.03,0.0,,8,,20260606
+BCH,Banco de Chile,Financial Services,Banks - Regional,NYSE,36.48,413111,18425516032,1.1012,37.5,35.25,-0.9249,-8.23,-7.07,3.18,-3.26,0.0,74.5,3,46.77,27.08,-22.0,0.0,,8,,20260606
+PRNDY,Pernod Ricard SA,Consumer Defensive,Beverages - Wineries & Distilleries,PNK,14.15,907779,17815506944,0.3186,14.9,17.99,-2.3399,-29.01,-32.71,-57.82,-41.83,0.0,11.25,4,24.13,13.4,-41.36,0.0,,8,,20260606
+CABGY,Carlsberg A/S,Consumer Defensive,Beverages - Brewers,PNK,25.36,66861,16759418880,0.6531,26.16,25.31,-1.2174,-18.59,-6.74,-37.37,-21.96,0.0,49.5,3,32.16,23.1,-21.14,0.0,,8,,20260606
+GXYEF,Galaxy Entertainment Group Limited,Consumer Cyclical,Resorts & Casinos,PNK,4.18,12750,18305226752,0.3241,4.35,4.9,-0.5207,-28.46,-25.07,-15.59,-22.13,0.0,23.25,4,5.8,3.8,-27.93,0.0,,8,,20260606
+SAUHF,Straumann Holding AG,Healthcare,Medical Instruments & Supplies,PNK,121.56,361,19493201920,3.0169,109.68,113.67,3.9379,-2.44,-1.33,-28.25,-12.38,0.0,82.5,3,139.59,93.18,-12.92,0.0,,8,,20260606
+AA,Alcoa Corporation,Basic Materials,Aluminum,NYSE,71.89,5192880,18971041792,3.6401,68.36,52.17,0.9702,10.92,55.08,139.94,77.99,0.0,87.5,2,84.38,27.66,-14.8,0.0,,8,,20260606
+TRMLF,Tourmaline Oil Corp.,Energy,Oil & Gas E&P,PNK,47.05,265677,18269796352,1.0923,46.84,44.89,0.1924,-6.69,-6.94,-23.69,-13.58,0.0,62.5,2,51.2,40.01,-8.11,0.0,,8,,20260606
+MTUAF,MTU Aero Engines AG,Industrials,Aerospace & Defense,PNK,357.09,628,19262533632,14.9065,355.91,408.53,0.0788,-20.95,-18.39,-37.03,-26.49,0.0,37.5,3,478.94,314.57,-25.44,0.0,,8,,20260606
+SPXCY,Singapore Exchange Limited,Financial Services,Financial Data & Stock Exchanges,OQX,34.27,40239,18346119168,0.8085,33.02,28.23,1.5413,12.77,22.36,30.88,23.37,0.0,87.5,2,36.0,21.32,-4.81,0.0,,8,,20260606
+IHICY,IHI Corporation,Industrials,Specialty Industrial Machinery,PNK,15.99,118760,16951989248,0.7197,18.89,21.81,-4.0248,-45.7,-25.33,-68.82,-47.82,0.0,12.5,4,32.65,14.93,-51.03,0.0,,8,,20260606
+RS,"Reliance, Inc.",Basic Materials,Steel,NYSE,394.41,327609,20134047744,9.2394,348.99,308.08,4.9159,20.51,29.51,4.71,17.34,0.0,91.25,2,398.79,260.31,-1.1,0.0,,8,,20260606
+CF,"CF Industries Holdings, Inc.",Basic Materials,Agricultural Inputs,NYSE,113.49,4658361,17435385856,4.979,122.55,97.21,-1.8194,-11.57,36.02,1.33,10.25,0.0,60.0,3,141.96,75.42,-20.05,0.0,,8,,20260606
+RGLD,"Royal Gold, Inc.",Basic Materials,Gold,NASDAQ,206.07,949084,17488461824,8.3622,240.9,226.25,-4.1649,-36.22,-5.35,-12.17,-15.8,0.0,25.75,4,306.25,150.75,-32.71,0.0,,8,,20260606
+KNRRY,Knorr-Bremse AG,Consumer Cyclical,Auto Parts,PNK,28.98,17944,18686304256,0.6263,29.17,27.02,-0.3019,-14.4,1.48,-11.78,-7.8,0.0,72.0,3,33.96,22.62,-14.66,0.0,,8,,20260606
+KGHPF,KGHM Polska Miedz S.A.,Basic Materials,Copper,PNK,93.25,230,18649999360,0.7791,86.64,69.65,8.487,8.54,41.15,164.86,82.48,0.0,76.25,2,107.55,32.15,-13.3,0.0,,8,,20260606
+MRNA,"Moderna, Inc.",Healthcare,Biotechnology,NASDAQ,47.44,7016053,18823540736,3.089,49.77,37.99,-0.7528,-19.66,79.94,48.78,42.58,0.0,49.5,3,59.55,22.28,-20.34,0.0,,8,,20260606
+NPSCY,Nippon Steel Corporation,Basic Materials,Steel,PNK,3.44,358614,17978449920,0.0894,3.63,4.47,-2.1512,-21.61,-26.36,-76.81,-45.35,0.0,15.0,4,7.99,3.41,-56.95,0.0,,8,,20260606
+BWXT,"BWX Technologies, Inc.",Industrials,Aerospace & Defense,NYSE,185.95,1034261,17035743232,7.745,210.94,194.8,-3.2265,-14.49,-1.74,19.92,3.74,0.0,19.5,4,241.82,127.51,-23.1,0.0,,8,,20260606
+SHWDF,Resonac Holdings Corporation,Basic Materials,Chemicals,PNK,102.4,6,18532712448,1.0011,87.83,51.81,14.5562,24.26,189.46,313.87,197.92,0.0,75.0,2,111.84,23.15,-8.44,0.0,,8,,20260606
+ROKU,"Roku, Inc.",Communication Services,Entertainment,NASDAQ,122.26,2533584,18057037824,4.9244,115.84,103.39,1.3028,11.58,23.03,40.73,27.25,0.0,85.0,2,133.46,73.65,-8.39,0.0,,8,,20260606
+MTUAY,MTU Aero Engines AG,Industrials,Aerospace & Defense,PNK,174.78,29250,18841165824,5.7596,176.68,203.61,-0.3301,-23.57,-22.82,-42.01,-30.69,0.0,23.25,4,238.57,157.93,-26.74,0.0,,8,,20260606
+DLTR,"Dollar Tree, Inc.",Consumer Defensive,Discount Stores,NASDAQ,108.8,3782874,20908595200,5.0773,100.81,109.36,1.5741,-16.03,-12.11,-2.41,-9.21,0.0,47.0,3,142.4,84.71,-23.6,0.0,,8,,20260606
+PEXNY,PTT Exploration and Production Public Company Limited,Energy,Oil & Gas E&P,PNK,8.31,257,19366623232,0.1449,8.5,7.47,-1.3446,19.44,10.38,-5.07,6.46,0.0,67.0,3,15.0,4.74,-44.6,0.0,,8,,20260606
+WLMIF,Wilmar International Limited,Consumer Defensive,Packaged Foods,PNK,2.66,4187,16606111744,0.0317,2.92,2.53,-8.1982,-14.01,-0.39,2.67,-2.57,0.0,50.0,3,3.27,2.07,-18.65,0.0,,8,,20260606
+SPXCF,Singapore Exchange Limited,Financial Services,Financial Data & Stock Exchanges,OQX,16.98,2117,18180161536,0.5609,16.52,14.28,0.8255,12.15,17.31,38.01,24.3,0.0,81.25,2,18.5,10.74,-8.22,0.0,,8,,20260606
+BIP,Brookfield Infrastructure Partners L.P.,Utilities,Utilities - Diversified,NYSE,38.8,967509,30603511808,0.8878,36.8,34.78,2.2516,-5.6,0.58,-5.08,-3.23,0.0,90.0,2,40.32,29.63,-3.77,0.0,,8,,20260606
+BDRFY,Beiersdorf Aktiengesellschaft,Consumer Defensive,Household & Personal Products,PNK,15.7,346328,17154114560,0.3653,16.92,20.42,-3.3317,-27.55,-36.63,-68.94,-47.29,0.0,10.0,4,27.38,15.62,-42.66,0.0,,8,,20260606
+HGKGF,Power Assets Holdings Limited,Utilities,Utilities - Independent Power Producers,PNK,8.57,15,15450512384,0.0197,8.02,6.98,27.6309,8.66,20.59,0.75,9.67,0.0,75.0,2,8.57,5.84,-0.0,0.0,,8,,20260606
+CDE,"Coeur Mining, Inc.",Basic Materials,Gold,NYSE,16.37,25237944,16869851136,1.1691,18.59,18.69,-1.8999,-37.61,-6.98,57.72,11.24,0.0,11.25,4,27.77,8.46,-41.05,0.0,,8,,20260606
+PDRDF,Pernod Ricard SA,Consumer Defensive,Beverages - Wineries & Distilleries,PNK,72.05,4850,18142861312,3.2782,74.07,89.65,-0.6155,-25.4,-31.35,-54.19,-39.0,0.0,20.75,4,123.65,67.8,-41.73,0.0,,8,,20260606
+SAUHY,Straumann Holding AG,Healthcare,Medical Instruments & Supplies,PNK,12.01,198353,19469223936,0.3761,10.92,11.38,2.8852,0.81,-5.01,-34.48,-15.34,0.0,85.0,3,14.11,9.44,-14.88,0.0,,8,,20260606
+APG,APi Group Corporation,Industrials,Engineering & Construction,NYSE,41.98,3019074,18186911744,1.2305,43.91,40.03,-1.5694,-9.73,-0.1,7.39,0.49,0.0,72.0,3,49.99,31.4,-16.02,0.0,,8,,20260606
+CXMSF,"CEMEX, S.A.B. de C.V.",Basic Materials,Building Materials,PNK,1.3,406,21082222592,0.0164,1.2,1.1,5.8156,1.62,8.87,53.4,24.87,0.0,75.0,2,1.35,0.65,-3.7,0.0,,8,,20260606
+IOT,Samsara Inc.,Technology,Software - Infrastructure,NYSE,34.8,6813823,20278310912,2.1701,30.6,34.16,1.9359,-11.58,-19.25,-50.71,-29.92,0.0,65.0,3,48.41,23.38,-28.11,0.0,,8,,20260606
+ETTYF,Essity AB (publ),Consumer Defensive,Household & Personal Products,PNK,26.75,155,18186528768,0.0516,26.19,20.92,10.8589,21.51,30.23,15.28,22.07,0.0,75.0,2,29.99,24.65,-10.8,0.0,,8,,20260606
+SWPFF,Swire Properties Limited,Real Estate,Real Estate Services,PNK,2.86,506,16753205248,0.0278,3.13,2.95,-9.6886,-24.76,-13.27,-0.79,-11.15,0.0,12.0,4,3.35,2.25,-14.63,0.0,,8,,20260606
+WES,"Western Midstream Partners, LP",Energy,Oil & Gas Midstream,NYSE,44.37,1511290,17472077824,1.1194,42.38,39.02,1.7761,-1.29,9.71,3.95,4.65,0.0,87.5,2,48.01,36.9,-7.58,0.0,,8,,20260606
+WMG,Warner Music Group Corp.,Communication Services,Entertainment,NASDAQ,29.93,2506288,15611953152,1.2311,29.75,29.91,0.1499,-1.89,0.26,-8.77,-3.89,0.0,83.75,3,35.42,23.34,-15.5,0.0,,8,,20260606
+CABJF,Carlsberg A/S,Consumer Defensive,Beverages - Brewers,PNK,137.32,73,18149869568,2.0755,129.07,123.68,3.973,-15.52,1.02,-26.82,-14.25,0.0,50.0,2,161.75,113.17,-15.1,0.0,,8,,20260606
+ASBFF,Associated British Foods plc,Consumer Defensive,Packaged Foods,PNK,25.76,52,20322951168,0.0912,24.1,27.05,18.2051,-18.26,-16.75,-38.79,-25.94,0.0,37.0,3,31.08,23.18,-17.12,0.0,,8,,20260606
+FTV,Fortive Corporation,Technology,Scientific & Technical Instruments,NYSE,61.28,3245395,18681882624,1.3501,59.28,54.38,1.4796,-3.1,6.31,-11.73,-3.25,0.0,86.25,2,62.8,46.34,-2.43,0.0,,8,,20260606
+DWAHY,"Daiwa House Industry Co., Ltd.",Real Estate,Real Estate - Development,PNK,26.48,101273,16400310272,0.5101,29.8,33.4,-6.5129,-32.1,-31.77,-50.31,-39.27,0.0,12.5,4,38.72,25.95,-31.61,0.0,,8,,20260606
+BDRFF,Beiersdorf Aktiengesellschaft,Consumer Defensive,Household & Personal Products,PNK,81.4,1996,17787834368,0.7837,85.1,102.33,-4.7226,-38.24,-32.81,-69.68,-48.91,0.0,14.5,4,138.46,81.25,-41.21,0.0,,8,,20260606
+MGA,Magna International Inc.,Consumer Cyclical,Auto Parts,NYSE,66.09,1619277,17991319552,2.0086,60.6,53.25,2.7327,3.2,27.15,62.08,35.13,0.0,90.0,2,69.94,35.86,-5.5,0.0,,8,,20260606
+NATKY,National Atomic Company Kazatomprom JSC,Energy,Uranium,PNK,73.93,436,19425150976,2.2478,79.95,73.93,-2.677,-17.43,29.13,28.2,17.12,0.0,32.5,3,92.96,50.58,-20.47,0.0,,8,,20260606
+UFGSY,Unipol Assicurazioni S.p.A.,Financial Services,Insurance - Property & Casualty,PNK,13.1,925,19387910144,0.467,12.14,10.99,2.0483,9.44,14.46,7.43,10.4,0.0,75.0,2,14.07,9.67,-6.89,0.0,,8,,20260606
+GIS,"General Mills, Inc.",Consumer Defensive,Packaged Foods,NYSE,33.15,9744198,17691533312,0.9848,34.64,42.59,-1.5138,-33.88,-34.47,-61.04,-44.95,0.0,22.0,4,55.19,31.85,-39.93,0.0,,8,,20260606
+IVBXF,"Innovent Biologics, Inc.",Healthcare,Biotechnology,PNK,10.09,5360,17762543616,0.4213,10.74,11.2,-1.5252,-8.54,-26.13,-2.83,-12.41,0.0,31.5,4,15.12,9.01,-33.24,0.0,,8,,20260606
+RIVN,"Rivian Automotive, Inc.",Consumer Cyclical,Auto Manufacturers,NASDAQ,16.35,29502968,21955866624,0.9129,15.44,15.56,0.9923,-3.62,-15.19,-8.48,-9.61,0.0,66.25,3,22.69,11.57,-27.94,0.0,,8,,20260606
+MMSMY,"Mitsui Kinzoku Company, Limited",Industrials,Conglomerates,PNK,57.6,1985,16477142016,3.0699,52.18,31.44,1.7645,23.48,153.14,719.84,347.41,0.0,83.75,2,69.83,6.57,-17.51,0.0,,8,,20260606
+EDRVF,"EDP Renewables, S.A.",Utilities,Utilities - Renewable,PNK,16.96,96,17972492288,0.1096,15.78,14.34,10.7479,4.18,12.71,42.33,22.43,0.0,75.0,2,17.18,9.93,-1.28,0.0,,8,,20260606
+ESS,"Essex Property Trust, Inc.",Real Estate,REIT - Residential,NYSE,285.43,482049,19673602048,5.1618,261.89,255.36,4.5603,3.09,3.7,-20.19,-6.01,0.0,88.75,2,294.09,238.46,-2.94,0.0,,8,,20260606
+GXYYY,Galaxy Entertainment Group Limited,Consumer Cyclical,Resorts & Casinos,PNK,20.34,53219,17814751232,0.5807,21.08,24.01,-1.2664,-25.13,-32.11,-31.0,-29.92,0.0,22.0,4,28.7,19.5,-29.13,0.0,,8,,20260606
+SOMLF,"SECOM CO., LTD.",Industrials,Security & Protection Services,PNK,40.05,3,16198669312,0.2022,35.06,34.6,24.6832,8.66,8.37,-22.62,-3.95,0.0,75.0,2,40.05,33.35,-0.0,0.0,,8,,20260606
+AMCCF,Amcor plc,Consumer Cyclical,Packaging & Containers,PNK,37.35,28,17268611072,0.1887,39.59,40.12,-11.8593,-32.26,-15.78,-36.14,-28.04,0.0,12.0,4,54.59,37.35,-31.58,0.0,,8,,20260606
+AMCR,Amcor plc,Consumer Cyclical,Packaging & Containers,NYSE,38.13,5309942,17629241344,1.1291,38.69,40.74,-0.4947,-20.42,-15.61,-38.58,-26.0,0.0,35.25,4,50.94,36.25,-25.15,0.0,,8,,20260606
+SOMLY,"SECOM CO., LTD.",Industrials,Security & Protection Services,PNK,9.93,114042,16065197056,0.2149,9.48,9.17,2.1162,-5.34,1.9,-20.3,-8.79,0.0,87.5,2,10.34,8.06,-3.97,0.0,,8,,20260606
+USFD,US Foods Holding Corp.,Consumer Defensive,Food Distribution,NYSE,84.61,2481433,18632955904,2.3275,87.85,82.46,-1.3917,-16.2,3.34,-15.84,-9.22,0.0,48.25,3,102.13,69.88,-17.15,0.0,,8,,20260606
+VDMCY,Vodacom Group Limited,Communication Services,Telecom Services,PNK,9.42,44623,18200281088,0.2573,9.05,8.65,1.4216,-13.91,9.05,-2.04,-1.13,0.0,90.0,2,10.91,7.25,-13.66,0.0,,8,,20260606
+RBC,RBC Bearings Incorporated,Industrials,Tools & Accessories,NYSE,590.09,215612,18667710464,17.0834,582.11,488.24,0.4669,-3.27,26.22,31.13,20.81,0.0,88.75,2,632.0,363.05,-6.63,0.0,,8,,20260606
+WCC,"WESCO International, Inc.",Industrials,Industrial Distribution,NYSE,354.31,592344,17256630272,13.3087,329.5,272.0,1.8646,24.41,22.96,83.88,47.69,0.0,86.25,2,377.9,168.86,-6.24,0.0,,8,,20260606
+RAIFY,Raiffeisen Bank International AG,Financial Services,Banks - Regional,PNK,14.45,7052,18972659712,0.6297,12.96,10.64,2.3637,25.39,31.74,66.63,44.11,0.0,87.5,2,14.9,6.65,-3.05,0.0,,8,,20260606
+EVMNY,Evolution Mining Limited,Basic Materials,Gold,PNK,80.09,8462,16701445120,3.4999,91.68,84.31,-3.3105,-33.23,-8.62,4.29,-9.61,0.0,27.0,4,135.52,46.9,-40.9,0.0,,8,,20260606
+CAHPF,Evolution Mining Limited,Basic Materials,Gold,PNK,8.65,6358,17978900480,0.7604,9.0,8.24,-0.4663,-29.82,2.5,14.77,-0.67,0.0,45.75,3,12.7,0.01,-31.89,0.0,,8,,20260606
+GPOVF,"Grupo Carso, S.A.B. de C.V.",Industrials,Conglomerates,PNK,7.81,81,17595271168,0.0133,7.64,6.9,12.6603,-1.22,12.44,36.74,18.74,0.0,75.0,2,8.06,6.07,-3.1,0.0,,8,,20260606
+TYNPF,Nippon Sanso Holdings Corporation,Basic Materials,Chemicals,PNK,33.1,1503,14686720000,2.3895,36.24,11.02,-1.3164,899.02,1047.31,3999.14,2190.97,0.0,60.0,3,41.86,27.91,-20.93,0.0,,8,,20260606
+HGKGY,Power Assets Holdings Limited,Utilities,Utilities - Independent Power Producers,PNK,7.15,1979,15237401600,0.2726,7.89,7.05,-2.7326,-22.86,-3.38,-16.34,-13.43,0.0,62.5,3,8.61,5.91,-16.96,0.0,,8,,20260606
+WLMIY,Wilmar International Limited,Consumer Defensive,Packaged Foods,PNK,27.16,46198,17158240256,0.7391,28.91,25.38,-2.367,-7.07,1.54,-10.01,-5.23,0.0,60.0,3,31.45,21.92,-13.64,0.0,,8,,20260606
+EUXTF,Euronext N.V.,Financial Services,Financial Data & Stock Exchanges,PNK,163.06,74,16263622656,1.0557,166.49,154.86,-3.2497,-12.09,-2.24,-31.52,-16.42,0.0,62.0,3,177.1,136.8,-7.93,0.0,,8,,20260606
+ERNXY,Euronext N.V.,Financial Services,Financial Data & Stock Exchanges,PNK,32.29,4418,16457117696,2.707,33.6,30.45,-0.4821,-8.73,5.56,-26.04,-10.65,0.0,72.0,3,44.0,26.55,-26.61,0.0,,8,,20260606
+HALFF,HAL Trust,Financial Services,Asset Management,PNK,200.0,181,18058029056,0.8858,196.55,174.89,3.8928,-7.72,19.54,22.56,13.93,0.0,75.0,2,205.0,136.0,-2.44,0.0,,8,,20260606
+ITT,ITT Inc.,Industrials,Specialty Industrial Machinery,NYSE,191.45,871887,17199833088,5.2222,203.83,187.56,-2.3712,-6.83,-2.23,2.57,-1.46,0.0,58.75,3,225.26,149.02,-15.01,0.0,,8,,20260606
+BR,"Broadridge Financial Solutions, Inc.",Technology,Information Technology Services,NYSE,151.34,1612192,17503725568,5.0552,154.97,201.25,-0.7174,-32.7,-42.15,-62.11,-47.77,0.0,20.75,4,271.91,139.79,-44.34,0.0,,8,,20260606
+RAIFF,Raiffeisen Bank International AG,Financial Services,Banks - Regional,PNK,53.3,92,17500393472,0.1714,48.0,39.93,30.9013,12.08,42.34,93.84,55.37,0.0,75.0,2,53.3,25.0,-0.0,0.0,,8,,20260606
+INVH,Invitation Homes Inc.,Real Estate,REIT - Residential,NYSE,30.04,6044565,17845022720,0.5281,27.62,27.27,4.5748,6.02,2.69,-30.94,-9.93,0.0,90.0,2,34.25,24.25,-12.29,0.0,,8,,20260606
+BOIVF,Bolloré SE,Communication Services,Entertainment,PNK,6.32,73326,17728014336,0.2084,6.03,5.64,1.3946,7.37,5.75,-26.03,-6.55,0.0,88.75,2,6.54,4.96,-3.36,0.0,,8,,20260606
+HOKCY,The Hong Kong and China Gas Company Limited,Utilities,Utilities - Regulated Gas,PNK,0.95,9379,17726877696,0.0643,0.87,0.86,1.2094,-7.18,-5.21,-23.87,-13.17,0.0,88.75,2,1.01,0.74,-5.94,0.0,,8,,20260606
+VODAF,Vodacom Group Limited,Communication Services,Telecom Services,PNK,8.98,3,17350162432,0.0009,8.98,7.38,0.0,2.53,44.45,32.93,29.36,0.0,75.0,3,8.98,5.75,-0.0,0.0,,8,,20260606
+YAHOY,LY Corporation,Consumer Cyclical,Internet Retail,PNK,5.01,361312,17165669376,0.1331,5.16,5.46,-1.1135,-3.68,-17.01,-59.74,-30.77,0.0,59.0,4,7.99,4.58,-37.3,0.0,,8,,20260606
+WXIBF,WuXi Biologics (Cayman) Inc.,Healthcare,Biotechnology,PNK,4.4,383,18193782784,0.0317,4.43,4.55,-0.8257,-23.29,0.45,12.32,-0.74,0.0,24.0,4,5.61,2.85,-21.51,0.0,,8,,20260606
+WXXWY,WuXi Biologics (Cayman) Inc.,Healthcare,Biotechnology,PNK,8.24,81782,17035995136,0.4826,8.66,9.09,-0.8668,-19.36,-8.85,1.3,-7.42,0.0,29.0,4,11.21,6.02,-26.49,0.0,,8,,20260606
+HKHGF,Hongkong Land Holdings Limited,Real Estate,Real Estate - Development,PNK,7.97,1669,17103412224,0.0479,8.01,7.11,-0.936,-8.98,11.99,33.85,15.49,0.0,64.5,3,8.78,5.08,-9.23,0.0,,8,,20260606
+ASBFY,Associated British Foods plc,Consumer Defensive,Packaged Foods,PNK,25.36,140550,17747591168,0.4725,24.73,26.58,1.34,-9.97,-18.48,-35.16,-23.03,0.0,49.5,3,31.96,23.36,-20.65,0.0,,8,,20260606
+HNGKY,Hongkong Land Holdings Limited,Real Estate,Real Estate - Development,PNK,37.19,22150,15961754624,1.7145,39.95,36.22,-1.6069,-23.07,4.05,8.05,-1.13,0.0,35.0,3,45.81,26.03,-18.82,0.0,,8,,20260606
+ZTO,ZTO Express (Cayman) Inc.,Industrials,Integrated Freight & Logistics,NYSE,22.28,1742130,17050942464,0.5066,24.3,21.56,-3.9827,-10.71,1.16,7.58,0.76,0.0,36.25,3,26.2,16.94,-14.96,0.0,,8,,20260606
+MONRF,Moncler S.p.A.,Consumer Cyclical,Apparel Manufacturing,PNK,69.45,106,18889422848,1.107,62.14,60.31,6.6055,5.56,-1.14,-15.76,-5.31,0.0,77.5,2,70.09,55.04,-0.91,0.0,,8,,20260606
+TRUMF,Terumo Corporation,Healthcare,Medical Instruments & Supplies,PNK,13.6,2520,20061128704,0.313,12.77,14.41,2.6451,-0.64,-24.38,-51.26,-29.19,0.0,62.0,3,20.46,11.49,-33.53,0.0,,8,,20260606
+CIB,Grupo Cibest S.A.,Financial Services,Banks - Regional,NYSE,70.88,396276,16817358848,2.5543,69.91,64.26,0.3787,0.57,4.18,40.36,17.75,0.0,86.25,2,86.31,41.42,-17.88,0.0,,8,,20260606
+PTC,PTC Inc.,Technology,Software - Application,NASDAQ,137.0,1305606,15824293888,5.0413,140.68,170.25,-0.7305,-25.79,-31.22,-43.72,-34.86,0.0,23.25,4,219.69,130.89,-37.64,0.0,,8,,20260606
+PR,Permian Resources Corporation,Energy,Oil & Gas E&P,NYSE,19.17,12939844,16515647488,0.643,20.57,16.1,-2.1702,-7.44,24.11,26.41,17.14,0.0,61.25,3,22.68,11.92,-15.46,0.0,,8,,20260606
+DQJCY,Pan Pacific International Holdings Corporation,Consumer Defensive,Discount Stores,PNK,10.3,305784,15395814400,0.6374,11.4,12.37,-1.7333,-35.69,-25.6,-49.82,-37.81,0.0,10.0,4,15.98,9.49,-35.54,0.0,,8,,20260606
+DQJCF,Pan Pacific International Holdings Corporation,Consumer Defensive,Discount Stores,PNK,4.94,4824,14723181568,0.1374,5.68,4.88,-5.3556,-37.08,51.74,374.98,158.83,0.0,30.0,3,7.27,4.92,-32.03,0.0,,8,,20260606
+KAOCF,Kao Corporation,Consumer Defensive,Household & Personal Products,PNK,37.81,114,17102254080,0.2067,38.45,40.77,-3.0765,-15.95,-27.21,-51.31,-34.03,0.0,24.0,4,49.59,35.07,-23.75,0.0,,8,,20260606
+DAIUF,"Daifuku Co., Ltd.",Industrials,Specialty Industrial Machinery,PNK,45.08,4420,16574522368,0.5925,40.37,15.31,7.9336,2.3,-446.34,1172.01,313.16,0.0,75.0,2,48.61,24.84,-7.27,0.0,,8,,20260606
+WY,Weyerhaeuser Company,Real Estate,REIT - Specialty,NYSE,24.48,5250365,17651122176,0.5937,24.17,24.06,0.5296,-9.21,4.44,-29.59,-12.58,0.0,75.75,3,27.86,21.16,-12.13,0.0,,8,,20260606
+KAOOY,Kao Corporation,Consumer Defensive,Household & Personal Products,PNK,7.28,236014,16464480256,0.2019,7.54,8.13,-1.2797,-19.04,-20.15,-49.43,-31.58,0.0,24.5,4,9.7,7.14,-24.95,0.0,,8,,20260606
+PAA,"Plains All American Pipeline, L.P.",Energy,Oil & Gas Midstream,NASDAQ,22.6,3325874,15945017344,0.5069,22.11,18.7,0.9689,-5.74,24.33,20.8,15.4,0.0,86.25,2,24.26,15.69,-6.84,0.0,,8,,20260606
+DFKCY,"Daifuku Co., Ltd.",Industrials,Specialty Industrial Machinery,PNK,21.49,48100,15801228288,1.0325,21.0,17.82,0.4727,7.28,22.99,35.02,23.87,0.0,82.5,2,25.32,11.22,-15.14,0.0,,8,,20260606
+GLPEF,"Galp Energia, SGPS, S.A.",Energy,Oil & Gas Integrated,PNK,22.95,2414,18500100096,0.3101,22.65,20.39,0.9817,-5.27,8.75,7.12,4.59,0.0,51.25,2,25.45,16.07,-9.82,0.0,,8,,20260606
+KSPI,Joint Stock Company Kaspi.kz,Technology,Software - Infrastructure,NASDAQ,81.17,552207,15424513024,3.1851,83.84,78.2,-0.8384,1.8,-2.21,-25.32,-10.45,0.0,72.0,3,99.2,68.59,-18.18,0.0,,8,,20260606
+BKZHY,Erste Bank Polska S.A.,Unknown,Unknown,PNK,30.75,117,15711606784,0.4814,28.14,25.17,5.4208,7.23,22.74,-0.78,9.45,0.0,75.0,2,36.86,25.87,-16.58,0.0,,8,,20260606
+BNCDY,Banca Mediolanum S.p.A.,Financial Services,Banks - Regional,PNK,46.15,3475,17640058880,1.7457,43.23,40.94,1.6751,14.39,3.45,25.01,14.81,0.0,82.5,2,49.4,32.91,-6.58,0.0,,8,,20260606
+FLUT,Flutter Entertainment plc,Consumer Cyclical,Gambling,NYSE,100.49,3068431,17425014784,4.286,102.5,181.45,-0.4692,-20.47,-61.01,-84.01,-60.07,0.0,25.75,4,313.69,91.52,-67.96,0.0,,8,,20260606
+TLN,Talen Energy Corporation,Utilities,Utilities - Independent Power Producers,NASDAQ,364.74,728739,16666797056,17.5961,354.97,371.64,0.5551,3.79,-8.66,15.1,3.96,0.0,74.5,3,451.28,246.95,-19.18,0.0,,8,,20260606
+EWBC,"East West Bancorp, Inc.",Financial Services,Banks - Regional,NASDAQ,125.94,1021544,17253308416,2.5513,118.97,110.38,2.7321,9.22,8.7,16.82,12.08,0.0,88.75,2,127.52,90.32,-1.24,0.0,,8,,20260606
+LII,Lennox International Inc.,Industrials,Building Products & Equipment,NYSE,508.43,454946,17693347840,19.1418,495.66,510.46,0.6672,-11.45,-6.21,-33.69,-18.51,0.0,48.25,3,689.44,434.06,-26.25,0.0,,8,,20260606
+HOKCF,The Hong Kong and China Gas Company Limited,Utilities,Utilities - Regulated Gas,PNK,0.9,1430,16855460864,0.0148,0.68,0.68,15.2128,14.94,20.46,95.36,49.04,0.0,75.0,2,0.97,0.84,-6.88,0.0,,8,,20260606
+NPXYY,Nippon Sanso Holdings Corp.,Basic Materials,Chemicals,PNK,17.09,40171,14794933248,0.7155,18.37,17.27,-1.7933,-14.57,2.8,-29.79,-14.58,0.0,52.0,3,21.65,14.07,-21.06,0.0,,8,,20260606
+VNOM,"Viper Energy, Inc.",Energy,Oil & Gas Midstream,NASDAQ,45.46,2348246,16319899648,1.1403,46.62,40.6,-1.0213,-5.44,8.78,-5.51,-0.49,0.0,72.0,3,51.13,35.1,-11.09,0.0,,8,,20260606
+CVCCF,CVC Capital Partners plc,Financial Services,Asset Management,PNK,15.02,269,15788936192,0.0913,13.18,15.45,20.2009,-0.71,-13.4,-41.17,-21.33,0.0,62.0,3,20.39,12.5,-26.34,0.0,,8,,20260606
+SSSGY,Sartorius Aktiengesellschaft,Healthcare,Medical Instruments & Supplies,PNK,43.93,85,15168197632,0.2478,42.66,41.94,5.1295,-8.15,-6.67,-21.42,-12.94,0.0,78.75,2,50.95,37.87,-13.77,0.0,,8,,20260606
+SOAGY,Sartorius Aktiengesellschaft,Healthcare,Medical Instruments & Supplies,PNK,58.1,13934,20059688960,1.6319,52.12,52.95,3.667,0.85,-10.85,-4.31,-5.31,0.0,87.5,3,62.15,40.94,-6.52,0.0,,8,,20260606
+SUVPF,Sartorius Aktiengesellschaft,Healthcare,Medical Instruments & Supplies,PNK,288.22,30,19901904896,3.4523,256.95,263.04,9.0566,-3.35,-0.57,-13.58,-6.47,0.0,75.0,3,312.93,208.0,-7.9,0.0,,8,,20260606
+KEP,Korea Electric Power Corporation,Utilities,Utilities - Regulated Electric,NYSE,12.39,832546,15907870720,0.4755,14.29,16.08,-4.0052,-34.12,-37.38,-10.99,-26.01,0.0,13.75,4,23.41,10.08,-47.07,0.0,,8,,20260606
+NRILY,"Nomura Research Institute, Ltd.",Technology,Information Technology Services,PNK,29.98,86461,17220646912,1.2814,28.71,34.09,0.9898,1.71,-38.17,-52.76,-34.04,0.0,66.25,3,43.2,22.73,-30.6,0.0,,8,,20260606
+BMBLF,Brambles Limited,Industrials,Specialty Business Services,PNK,12.68,1096,17033823232,0.6191,15.2,16.03,-4.0731,-40.15,-36.51,-46.5,-41.42,0.0,5.0,4,18.27,10.83,-30.6,0.0,,8,,20260606
+KONMY,Konami Group Corporation,Communication Services,Electronic Gaming & Multimedia,PNK,60.46,287,16391489536,0.468,61.88,69.48,-3.0344,-15.79,-33.29,-39.55,-31.42,0.0,13.25,4,88.81,57.94,-31.92,0.0,,8,,20260606
+KAJMY,Kajima Corporation,Industrials,Engineering & Construction,PNK,32.79,1677,15278273536,1.5601,38.07,36.55,-3.3867,-33.35,-25.66,2.69,-16.24,0.0,5.0,4,52.13,22.28,-37.1,0.0,,8,,20260606
+JDEPY,JDE Peet's NV,Consumer Defensive,Packaged Foods,PNK,17.0,8539,16731113472,0.4408,17.9,18.11,-2.033,-15.2,-19.83,4.47,-8.95,0.0,15.75,4,19.84,13.29,-14.31,0.0,,8,,20260606
+JDHIY,JD Health International Inc.,Healthcare,Pharmaceutical Retailers,PNK,5.33,92,17051527168,0.0989,6.56,8.08,-12.483,-51.29,-49.76,-20.67,-38.51,0.0,2.5,4,9.08,5.1,-41.3,0.0,,8,,20260606
+AGESY,ageas SA/NV,Financial Services,Insurance - Diversified,PNK,73.87,6509,15455646720,1.6758,75.45,69.26,-0.9453,-1.37,0.32,-8.09,-3.47,0.0,78.25,3,81.33,64.14,-9.17,0.0,,8,,20260606
+NURAF,"Nomura Research Institute, Ltd.",Technology,Information Technology Services,PNK,31.78,130,18254575616,0.4687,26.02,-7.55,12.2889,-307.46,-235.47,-1132.96,-612.46,0.0,77.5,2,44.38,23.36,-28.38,0.0,,8,,20260606
+WPC,W. P. Carey Inc.,Real Estate,REIT - Diversified,NYSE,74.49,1278285,16591835136,1.1503,72.61,68.01,1.6327,-5.98,6.58,1.8,1.53,0.0,88.75,2,75.69,61.09,-1.59,0.0,,8,,20260606
+TSCO,Tractor Supply Company,Consumer Cyclical,Specialty Retail,NASDAQ,29.78,10146463,15618109440,1.2171,36.46,49.08,-5.4881,-50.14,-52.69,-63.57,-56.4,0.0,11.25,4,63.99,28.36,-53.46,0.0,,8,,20260606
+IP,International Paper Company,Consumer Cyclical,Packaging & Containers,NYSE,33.61,6914215,17797064704,1.2137,33.3,39.4,0.2576,-23.7,-20.62,-50.71,-33.42,0.0,38.75,3,56.13,29.26,-40.12,0.0,,8,,20260606
+INPAP,International Paper Company PFD $4,Unknown,Unknown,PNK,82.0,30,0,0.1447,77.54,80.39,30.7983,-0.74,-11.15,-1.72,-4.78,0.0,76.25,3,100.0,68.07,-18.0,0.0,,8,,20260606
+IHICF,IHI Corporation,Industrials,Specialty Industrial Machinery,PNK,20.0,71,21203238912,0.3778,21.88,33.35,-4.9677,-36.32,-12.72,-99.39,-53.29,0.0,0.0,4,109.3,15.35,-81.7,0.0,,8,,20260606
+BPCGY,"Banco Comercial Português, S.A.",Financial Services,Banks - Regional,PNK,12.89,354,19088785408,0.91,10.19,9.5,2.9636,22.46,26.7,62.56,39.98,0.0,80.0,2,14.89,7.38,-13.43,0.0,,8,,20260606
+ZBH,"Zimmer Biomet Holdings, Inc.",Healthcare,Medical Devices,NYSE,87.33,2324576,16895078400,2.4117,87.45,92.98,-0.048,-16.94,-14.15,-28.7,-20.67,0.0,40.25,4,108.29,79.12,-19.36,0.0,,8,,20260606
+DOCN,"DigitalOcean Holdings, Inc.",Technology,Software - Infrastructure,NYSE,169.87,4432587,17728344064,12.538,121.84,67.07,3.831,201.98,261.71,443.51,319.5,0.0,87.5,2,180.19,25.56,-5.73,0.0,,8,,20260606
+SNLAF,Sino Land Company Limited,Real Estate,Real Estate - Development,PNK,1.32,168,12653707264,0.0263,1.53,1.07,-7.9117,2.83,36.13,149.86,73.29,0.0,50.0,3,1.82,0.93,-27.47,0.0,,8,,20260606
+OVV,Ovintiv Inc.,Energy,Oil & Gas E&P,NYSE,56.7,4199901,15933754368,1.845,58.17,46.17,-0.7962,-0.88,27.26,30.87,21.67,0.0,77.0,3,63.46,35.47,-10.65,0.0,,8,,20260606
+JBAXY,Julius Bär Gruppe AG,Financial Services,Asset Management,PNK,16.64,161971,17257940992,0.4193,15.91,14.76,1.752,-4.7,9.8,6.67,4.92,0.0,92.5,2,17.7,12.43,-5.99,0.0,,8,,20260606
+STMNF,"Sumitomo Metal Mining Co., Ltd.",Basic Materials,Other Industrial Metals & Mining,PNK,58.94,117,15946201088,0.6957,62.97,44.28,-5.7948,-26.76,78.8,130.18,72.96,0.0,26.25,3,82.07,21.23,-28.18,0.0,,8,,20260606
+BXBLY,Brambles Limited,Industrials,Specialty Business Services,PNK,24.2,92684,16254673920,1.0755,29.97,31.28,-5.3674,-39.59,-33.27,-47.93,-40.71,0.0,13.75,4,36.0,22.7,-32.78,0.0,,8,,20260606
+SMMYY,"Sumitomo Metal Mining Co., Ltd.",Basic Materials,Other Industrial Metals & Mining,PNK,13.61,112344,14728726528,0.6227,15.29,11.76,-2.7052,-27.83,55.48,109.89,56.42,0.0,38.75,3,20.51,5.46,-33.64,0.0,,8,,20260606
+AAFRF,Airtel Africa Plc,Communication Services,Telecom Services,PNK,4.55,3208,16599324672,0.1807,4.82,4.25,-1.5003,-12.67,-1.15,51.82,17.16,0.0,28.75,3,5.85,2.25,-22.28,0.0,,8,,20260606
+WTKWY,Wolters Kluwer N.V.,Industrials,Specialty Business Services,PNK,73.95,101976,16560672768,2.8638,73.27,96.68,0.239,-16.13,-38.48,-85.06,-51.52,0.0,36.25,3,179.63,65.49,-58.83,0.0,,8,,20260606
+H,Hyatt Hotels Corporation,Consumer Cyclical,Lodging,NYSE,193.06,825368,18178840576,5.8372,165.45,156.35,4.7293,19.15,11.45,22.79,17.91,0.0,90.0,2,195.04,127.59,-1.02,0.0,,8,,20260606
+BPCGF,"Banco Comercial Português, S.A.",Financial Services,Banks - Regional,PNK,1.02,39,15105166336,0.0096,0.99,0.94,3.1378,-5.18,-0.85,17.46,5.39,0.0,75.0,2,1.12,0.73,-8.93,0.0,,8,,20260606
+SGIOY,"Shionogi & Co., Ltd.",Healthcare,Drug Manufacturers - Specialty & Generic,PNK,8.83,131834,15028226048,0.309,10.0,9.47,-3.7841,-29.89,-6.73,-22.08,-18.66,0.0,24.5,4,12.0,7.65,-26.42,0.0,,8,,20260606
+URMCY,Unibail-Rodamco-Westfield SE,Real Estate,REIT - Retail,PNK,12.8,10419,18477791232,1.9439,12.33,12.8,0.2421,3.66,7.11,7.11,6.25,0.0,92.5,3,17.87,10.45,-28.37,0.0,,8,,20260606
+UNBLF,Unibail-Rodamco-Westfield SE,Real Estate,REIT - Retail,PNK,114.29,158,16498647040,1.1037,116.92,109.83,-2.3816,-10.22,-4.12,-7.73,-7.09,0.0,63.25,3,127.17,91.72,-10.13,0.0,,8,,20260606
+CG,The Carlyle Group Inc.,Financial Services,Asset Management,NASDAQ,43.48,3336696,15651688448,1.697,47.71,54.76,-2.4908,-20.42,-29.45,-26.22,-25.9,0.0,11.25,4,69.85,41.54,-37.75,0.0,,8,,20260606
+GLPEY,"Galp Energia, SGPS, S.A.",Energy,Oil & Gas Integrated,PNK,11.12,97630,17927763968,0.2608,11.27,10.07,-0.5667,-9.07,0.26,8.77,1.33,0.0,52.0,3,12.87,8.1,-13.6,0.0,,8,,20260606
+AMKR,"Amkor Technology, Inc.",Technology,Semiconductor Equipment & Materials,NASDAQ,64.95,4408296,16099318784,5.3523,65.58,45.18,-0.117,46.58,39.84,219.84,113.52,0.0,70.75,3,79.5,18.65,-18.3,0.0,,8,,20260606
+NVR,"NVR, Inc.",Consumer Cyclical,Residential Construction,NYSE,6182.55,26080,16688506880,173.1931,6317.13,7248.83,-0.777,-21.15,-27.95,-39.44,-30.85,0.0,23.25,4,8618.28,5501.01,-28.26,0.0,,8,,20260606
+AICAF,Air China Limited,Industrials,Airlines,PNK,0.58,4542,10120084480,0.0055,0.63,0.76,-9.6399,-49.72,-40.99,-36.4,-41.34,0.0,1.25,4,0.94,0.58,-38.3,0.0,,8,,20260606
+AARTY,Airtel Africa Plc,Communication Services,Telecom Services,PNK,48.75,75,17784989696,0.736,44.28,26.1,6.0782,131.94,133.48,125.05,129.72,0.0,76.25,2,52.2,20.15,-6.61,0.0,,8,,20260606
+PHYS,Sprott Physical Gold Trust,Financial Services,Asset Management,NYSE,32.54,4246107,15511248896,0.66,35.01,33.49,-3.7381,-27.0,-7.31,1.33,-8.78,0.0,23.25,4,42.07,24.86,-22.65,0.0,,8,,20260606
+KIM,Kimco Realty Corporation,Real Estate,REIT - Retail,NYSE,24.23,4768753,16340463616,0.4014,23.46,21.72,1.9115,-5.91,13.14,-4.01,1.52,0.0,86.25,2,24.62,19.76,-1.58,0.0,,8,,20260606
+JBARF,Julius Bär Gruppe AG,Financial Services,Asset Management,PNK,82.17,2001,16844503040,1.7009,80.46,74.94,1.0074,-7.06,11.93,6.42,4.98,0.0,75.0,2,89.5,62.79,-8.19,0.0,,8,,20260606
+BDNNY,Boliden AB (publ),Basic Materials,Other Industrial Metals & Mining,PNK,122.18,11812,17351288832,4.1848,112.68,105.61,2.2706,-22.6,17.75,71.2,29.04,0.0,62.5,2,160.93,58.15,-24.08,0.0,,8,,20260606
+SWOBY,Swedish Orphan Biovitrum AB (publ),Healthcare,Drug Manufacturers - Specialty & Generic,PNK,23.82,422,16899053568,0.665,22.36,18.79,2.1974,17.73,27.54,31.01,26.48,0.0,80.0,2,29.32,13.57,-18.76,0.0,,8,,20260606
+SINGY,Singapore Airlines Limited,Industrials,Airlines,PNK,11.03,90144,17377126400,0.1694,10.21,10.17,4.8486,-5.37,-0.75,-23.71,-11.09,0.0,62.5,3,11.77,9.28,-6.29,0.0,,8,,20260606
+MONRY,Moncler S.p.A.,Consumer Cyclical,Apparel Manufacturing,PNK,62.36,60384,16961859584,2.1691,60.84,60.27,0.7039,-10.05,-17.39,-26.12,-19.05,0.0,58.75,2,71.41,53.24,-12.67,0.0,,8,,20260606
+TLK,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,Communication Services,Telecom Services,NYSE,15.54,842133,15339603968,0.4467,17.39,19.55,-4.1349,-29.18,-37.11,-28.54,-31.7,0.0,10.0,4,23.52,15.38,-33.93,0.0,,8,,20260606
+OKTA,"Okta, Inc.",Technology,Software - Infrastructure,NASDAQ,118.72,4093625,20817131520,7.2927,84.45,86.09,4.6987,37.08,29.04,-12.76,14.33,0.0,90.0,3,142.35,62.66,-16.6,0.0,,8,,20260606
+CSDXF,"COSCO SHIPPING Energy Transportation Co., Ltd.",Energy,Oil & Gas Midstream,PNK,1.75,1766,9564136448,0.0502,2.38,1.59,-12.6186,-16.83,53.38,111.93,59.25,0.0,26.25,3,2.83,0.76,-38.16,0.0,,8,,20260606
+KWHIF,"Kawasaki Heavy Industries, Ltd.",Industrials,Specialty Industrial Machinery,PNK,18.37,151812,15354529792,1.1954,24.18,65.09,-4.8643,-94.15,-83.08,-96.15,-91.08,0.0,3.75,4,121.25,17.6,-84.85,0.0,,8,,20260606
+NDSN,Nordson Corporation,Industrials,Specialty Industrial Machinery,NASDAQ,282.73,359082,15753136128,6.0445,278.95,255.27,0.6248,-6.05,10.82,9.27,5.98,0.0,83.75,2,305.28,207.08,-7.39,0.0,,8,,20260606
+SSNC,"SS&C Technologies Holdings, Inc.",Technology,Software - Application,NASDAQ,69.91,2695776,16836708352,1.8615,68.09,78.73,0.9753,-17.38,-27.03,-36.5,-28.41,0.0,37.5,3,91.07,64.51,-23.23,0.0,,8,,20260606
+SIELF,"Shanghai Electric Group Co., Ltd.",Industrials,Specialty Industrial Machinery,PNK,0.57,187,19182405632,0.0095,0.58,0.49,-0.9179,-16.2,46.22,29.5,23.93,0.0,37.0,3,0.66,0.37,-13.45,0.0,,8,,20260606
+BEN,"Franklin Resources, Inc.",Financial Services,Asset Management,NYSE,31.33,5024641,16280231936,0.8873,28.51,24.97,3.1761,11.15,31.58,29.89,25.8,0.0,90.0,2,32.44,21.11,-3.42,0.0,,8,,20260606
+LI,Li Auto Inc.,Consumer Cyclical,Auto Manufacturers,NASDAQ,14.2,4009650,14410082304,0.6623,17.52,19.26,-5.0083,-27.24,-27.04,-76.98,-47.07,0.0,11.25,4,32.02,14.06,-55.66,0.0,,8,,20260606
+AGI,Alamos Gold Inc.,Basic Materials,Gold,NYSE,35.52,3354303,14917171200,2.008,42.8,39.02,-3.6257,-38.74,-9.19,6.11,-10.46,0.0,23.25,4,55.41,23.92,-35.9,0.0,,8,,20260606
+EMA,Emera Incorporated,Utilities,Utilities - Regulated Electric,NYSE,51.76,370217,15833383936,0.8522,52.09,49.35,-0.3883,-10.07,0.52,-7.92,-5.5,0.0,73.25,3,54.06,43.9,-4.25,0.0,,8,,20260606
+BOLSY,"B3 S.A. - Brasil, Bolsa, Balcão",Financial Services,Financial Data & Stock Exchanges,PNK,9.17,226353,15316486144,0.4371,10.64,8.78,-3.3678,-20.09,-4.67,-4.54,-8.48,0.0,33.75,3,12.11,6.62,-24.28,0.0,,8,,20260606
+HUNGF,"Huaneng Power International, Inc.",Utilities,Utilities - Independent Power Producers,PNK,0.95,1567,19323375616,0.0092,0.79,0.76,17.0153,15.66,10.46,158.22,70.87,0.0,77.5,2,0.95,0.59,-0.0,0.0,,8,,20260606
+ASUUY,ASUSTeK Computer Inc.,Technology,Computer Hardware,PNK,80.0,0,11933721600,0.0011,80.0,91.01,0.0,-9.99,-35.73,-39.09,-30.64,0.0,37.0,3,110.0,78.5,-27.27,0.0,,8,,20260606
+NVMI,Nova Ltd.,Technology,Semiconductor Equipment & Materials,NASDAQ,475.76,354909,15132098560,29.4332,498.58,393.93,-0.7752,5.67,39.03,88.54,50.49,0.0,75.75,3,565.0,215.26,-15.79,0.0,,8,,20260606
+TPG,TPG Inc.,Financial Services,Asset Management,NASDAQ,41.19,3007274,15829825536,1.767,41.72,51.79,-0.2998,-13.08,-38.75,-36.68,-31.5,0.0,48.25,4,70.38,36.95,-41.47,0.0,,8,,20260606
+TXT,Textron Inc.,Industrials,Aerospace & Defense,NYSE,91.08,1397052,15837808640,2.2125,90.57,88.0,0.2306,-14.06,0.41,-2.8,-4.49,0.0,62.5,2,101.57,73.97,-10.33,0.0,,8,,20260606
+BNMDF,Banca Mediolanum S.p.A.,Financial Services,Banks - Regional,PNK,21.65,10,16006172672,0.0117,21.69,18.44,-3.41,-8.82,3.08,74.8,28.79,0.0,62.0,3,24.75,10.45,-12.53,0.0,,8,,20260606
+GMAB,Genmab A/S,Healthcare,Biotechnology,NASDAQ,25.15,1835158,15440440320,0.8015,26.89,29.26,-2.1685,-17.05,-29.07,-9.71,-18.32,0.0,13.75,4,35.43,20.23,-29.01,0.0,,8,,20260606
+GNRC,Generac Holdings Inc.,Industrials,Specialty Industrial Machinery,NYSE,261.54,907963,15396514816,13.1328,238.57,192.26,1.7488,18.2,55.85,80.11,56.14,0.0,86.25,2,294.18,123.66,-11.1,0.0,,8,,20260606
+LOGI,Logitech International S.A.,Technology,Computer Hardware,NASDAQ,112.93,1127320,16209473536,4.2321,102.09,103.13,2.5625,12.52,-12.85,11.44,3.2,0.0,90.0,3,129.66,83.32,-12.9,0.0,,8,,20260606
+SINGF,Singapore Airlines Limited,Industrials,Airlines,PNK,5.29,10539,16668178432,0.0529,5.06,5.07,4.3785,-9.7,-5.92,-18.77,-12.0,0.0,52.5,3,5.95,4.55,-11.09,0.0,,8,,20260606
+ASRRF,ASR NEDERLAND NV,Financial Services,Insurance - Diversified,PNK,71.46,87,15672866816,0.5917,71.34,68.29,0.1978,1.54,4.15,11.31,6.36,0.0,75.0,2,76.62,48.45,-6.73,0.0,,8,,20260606
+ACXIF,"Acciona, S.A.",Industrials,Engineering & Construction,PNK,292.45,436,15940006912,15.8797,288.36,236.56,0.2577,0.09,38.26,45.43,31.58,0.0,85.0,2,316.6,170.5,-7.63,0.0,,8,,20260606
+SN,"SharkNinja, Inc.",Consumer Cyclical,"Furnishings, Fixtures & Appliances",NYSE,119.82,2145173,16956972032,4.7483,112.94,109.96,1.4488,-2.14,3.06,11.12,4.98,0.0,88.75,2,133.99,80.69,-10.58,0.0,,8,,20260606
+CTTAF,Continental Aktiengesellschaft,Consumer Cyclical,Auto Parts,PNK,79.99,918,16422491136,3.9654,76.53,75.08,0.874,6.46,-3.81,-31.49,-12.31,0.0,90.0,2,93.07,61.56,-14.05,0.0,,8,,20260606
+LDOS,"Leidos Holdings, Inc.",Technology,Information Technology Services,NYSE,124.43,1170053,15651485696,4.4194,141.57,173.64,-3.8794,-39.87,-42.11,-38.19,-39.99,0.0,11.25,4,205.77,121.2,-39.53,0.0,,8,,20260606
+ARNNY,ASR Nederland N.V.,Financial Services,Insurance - Diversified,PNK,36.36,11860,14875498496,0.6992,36.42,34.23,-0.0811,2.44,3.42,-5.39,-0.35,0.0,83.25,3,40.18,31.5,-9.51,0.0,,8,,20260606
+CHEAF,China Eastern Airlines Corporation Limited,Industrials,Airlines,PNK,0.45,360,9859965952,0.0076,0.57,0.56,-16.0606,-54.19,-31.49,-2.24,-25.47,0.0,0.0,4,0.8,0.34,-44.2,0.0,,8,,20260606
+DIDIY,DiDi Global Inc.,Technology,Software - Application,PNK,3.58,7893184,16136908800,0.1701,3.73,5.03,-0.8576,-24.11,-48.13,-50.64,-43.13,0.0,24.5,4,6.99,3.35,-48.78,0.0,,8,,20260606
+SARTF,Sartorius Aktiengesellschaft,Healthcare,Medical Instruments & Supplies,PNK,217.65,19,15029229568,2.1173,218.81,213.93,-0.5466,-13.52,-9.21,-16.03,-13.02,0.0,37.0,3,227.0,181.58,-4.12,0.0,,8,,20260606
+GH,"Guardant Health, Inc.",Healthcare,Diagnostics & Research,NASDAQ,125.61,2149536,16655877120,6.4349,98.71,90.92,4.1804,27.74,10.08,137.82,65.59,0.0,88.75,2,133.97,40.35,-6.24,0.0,,8,,20260606
+NBIX,"Neurocrine Biosciences, Inc.",Healthcare,Drug Manufacturers - Specialty & Generic,NASDAQ,163.88,1163563,16478132224,4.7988,142.29,140.23,4.4995,17.91,-0.62,6.43,6.83,0.0,87.5,2,168.0,122.14,-2.45,0.0,,8,,20260606
+SUI,"Sun Communities, Inc.",Real Estate,REIT - Residential,NYSE,123.69,830615,15815103488,2.6994,126.07,125.55,-0.8803,-18.71,-9.64,-22.42,-17.02,0.0,37.75,4,137.85,115.53,-10.27,0.0,,8,,20260606
+NLY,"Annaly Capital Management, Inc.",Real Estate,REIT - Mortgage,NYSE,21.22,7150734,15549511680,0.3498,21.92,21.14,-2.0028,-12.08,-9.29,2.72,-5.18,0.0,70.75,3,24.52,18.64,-13.46,0.0,,8,,20260606
+WOLTF,Wolters Kluwer N.V.,Industrials,Specialty Business Services,PNK,70.7,2702,15832853504,2.8046,73.64,97.08,-1.047,-16.59,-41.41,-85.23,-52.73,0.0,17.0,4,182.0,66.66,-61.15,0.0,,8,,20260606
+OWL,Blue Owl Capital Inc.,Financial Services,Asset Management,NYSE,9.8,29412382,15278694400,0.4889,9.41,13.0,0.7896,-8.57,-43.14,-70.01,-45.25,0.0,62.5,3,21.08,7.95,-53.51,0.0,,8,,20260606
+KWHIY,"Kawasaki Heavy Industries, Ltd.",Industrials,Specialty Industrial Machinery,PNK,7.23,287366,15107953664,0.3897,7.98,6.73,-1.9258,-25.0,30.83,-9.35,0.8,0.0,41.25,3,9.73,4.67,-25.71,0.0,,8,,20260606
+EBCOY,Ebara Corporation,Industrials,Specialty Industrial Machinery,PNK,17.17,96657,15691578368,0.7685,16.51,14.21,0.8623,-6.54,29.71,90.25,44.86,0.0,88.75,2,19.59,7.47,-12.35,0.0,,8,,20260606
+RTO,Rentokil Initial plc,Industrials,Specialty Business Services,NYSE,29.7,1190398,14946464768,0.593,32.34,29.29,-4.4571,-15.62,-2.67,2.91,-3.68,0.0,56.25,3,34.67,22.72,-14.34,0.0,,8,,20260606
+SCHYY,Sands China Ltd.,Consumer Cyclical,Resorts & Casinos,PNK,20.05,44307,16349337600,0.5351,20.38,23.3,-0.621,-17.48,-37.79,-25.6,-27.84,0.0,27.0,4,29.04,18.3,-30.96,0.0,,8,,20260606
+CTTAY,Continental Aktiengesellschaft,Consumer Cyclical,Auto Parts,PNK,8.08,94249,16160483328,0.2465,7.54,7.49,2.1908,-0.88,-1.61,-31.3,-13.3,0.0,86.25,2,9.19,6.21,-12.08,0.0,,8,,20260606
+ERBKY,Eurobank S.A.,Unknown,Unknown,PNK,10.05,4103,0,0.5743,10.05,10.05,0.0,18.19,18.19,18.19,18.19,0.0,73.25,3,12.43,7.45,-19.15,0.0,,8,,20260606
+YUMC,"Yum China Holdings, Inc.",Consumer Cyclical,Restaurants,NYSE,42.88,1586153,15052371968,0.9227,46.89,47.2,-4.3508,-26.71,-16.58,-23.94,-22.06,0.0,20.75,4,58.39,41.69,-26.56,0.0,,8,,20260606
+SGIOF,"Shionogi & Co., Ltd.",Healthcare,Drug Manufacturers - Specialty & Generic,PNK,16.0,720,13615606784,0.3267,19.36,18.47,-10.2889,-29.32,-19.86,-20.86,-22.63,0.0,0.0,4,26.0,14.25,-38.46,0.0,,8,,20260606
+LAMR,Lamar Advertising Company,Real Estate,REIT - Specialty,NASDAQ,151.42,611857,15365359616,2.966,140.45,128.82,3.6976,2.66,9.1,6.28,6.36,0.0,91.25,2,158.69,113.66,-4.58,0.0,,8,,20260606
+WSE,Wise Group plc,Technology,Information Technology Services,NASDAQ,11.19,1640570,11192960000,0.8106,11.19,11.19,0.0,-27.1,-27.1,-27.1,-27.1,0.0,76.47,3,17.47,10.71,-35.95,0.0,,8,,20260606
+UPMKF,UPM-Kymmene Oyj,Basic Materials,Paper & Paper Products,PNK,29.33,1153,15466414080,0.1242,29.94,28.18,-4.9375,-19.79,2.7,-9.09,-7.64,0.0,37.0,3,33.0,24.4,-11.12,0.0,,8,,20260606
+RMBS,Rambus Inc.,Technology,Semiconductors,NASDAQ,145.31,2322047,15713382400,11.9087,124.93,103.97,1.7113,54.91,39.77,129.08,79.28,0.0,90.0,2,174.1,56.21,-16.54,0.0,,8,,20260606
+IEX,IDEX Corporation,Industrials,Specialty Industrial Machinery,NYSE,215.35,773169,15939142656,4.5223,205.5,185.2,2.1772,-0.79,13.25,-4.29,2.72,0.0,83.75,2,223.85,157.25,-3.8,0.0,,8,,20260606
+KGSPY,Kingspan Group plc,Industrials,Building Products & Equipment,PNK,94.35,19641,16976910336,3.0901,89.38,85.57,1.6089,-7.96,-0.53,-16.97,-8.96,0.0,87.5,2,103.26,71.63,-8.63,0.0,,8,,20260606
+SONVF,Sonova Holding AG,Healthcare,Medical Devices,PNK,275.6,133,16371908608,3.8473,234.29,257.48,10.7383,-1.19,-1.69,-34.34,-14.63,0.0,77.5,3,312.39,208.55,-11.78,0.0,,8,,20260606
+UPMMY,UPM-Kymmene Oyj,Basic Materials,Paper & Paper Products,PNK,29.14,58850,15366221824,0.4476,29.89,28.15,-1.6717,-13.48,-0.69,-17.89,-10.77,0.0,50.75,3,33.04,25.11,-11.8,0.0,,8,,20260606
+DTM,"DT Midstream, Inc.",Energy,Oil & Gas Midstream,NYSE,142.5,796896,14537012224,3.1469,140.14,123.39,0.7503,-8.67,11.88,12.43,6.96,0.0,87.5,2,152.88,98.06,-6.79,0.0,,8,,20260606
+GNMSF,Genmab A/S,Healthcare,Biotechnology,PNK,241.82,1885,14846153728,4.8772,265.59,292.48,-4.8737,-28.04,-34.72,-14.4,-24.92,0.0,1.25,4,352.0,198.51,-31.3,0.0,,8,,20260606
+PSLV,Sprott Physical Silver Trust,Financial Services,Asset Management,NYSE,21.53,9843871,13688393728,0.9905,24.52,21.9,-3.0216,-31.04,1.33,60.58,16.94,0.0,24.5,4,38.13,11.77,-43.54,0.0,,8,,20260606
+ASND,Ascendis Pharma A/S,Healthcare,Biotechnology,NASDAQ,210.45,634825,13001548800,9.029,232.63,216.67,-2.4564,-22.54,-3.5,-4.02,-8.47,0.0,47.0,3,250.74,160.86,-16.07,0.0,,8,,20260606
+EURBF,EUROBANK S A,Financial Services,Banks - Regional,PNK,4.19,1511,15080270848,0.0283,4.45,4.13,-9.2379,-9.03,1.36,16.09,4.66,0.0,51.25,3,6.0,3.06,-30.17,0.0,,8,,20260606
+CLPXY,China Longyuan Power Group Corporation Limited,Utilities,Utilities - Renewable,PNK,8.45,1633,13689715712,0.291,8.41,9.01,0.1487,-25.66,-15.4,-19.49,-19.6,0.0,42.0,3,11.35,7.66,-25.55,0.0,,8,,20260606
+IPSEY,Ipsen S.A.,Healthcare,Drug Manufacturers - Specialty & Generic,PNK,45.04,788,14846965760,0.5789,47.28,39.75,-3.865,-12.23,14.62,27.9,13.22,0.0,62.0,3,51.1,28.66,-11.86,0.0,,8,,20260606
+PL,Planet Labs PBC,Industrials,Aerospace & Defense,NYSE,32.22,13505277,11482988544,4.7676,38.69,22.78,-1.3572,17.46,159.82,682.34,333.23,0.0,67.5,3,51.76,4.9,-37.75,0.0,,8,,20260606
+KAEPF,"The Kansai Electric Power Company, Incorporated",Utilities,Utilities - Renewable,PNK,14.34,215,15975670784,0.1565,15.77,15.57,-9.1547,-28.3,-27.37,11.09,-12.21,0.0,13.25,4,17.84,10.43,-19.62,0.0,,8,,20260606
+NPPHY,"Nippon Paint Holdings Co., Ltd.",Basic Materials,Specialty Chemicals,PNK,3.04,2881,13916751872,0.1895,3.12,3.32,-0.4134,-15.14,-20.92,-41.24,-27.61,0.0,30.25,4,4.96,2.71,-38.71,0.0,,8,,20260606
+KGSPF,Kingspan Group plc,Industrials,Building Products & Equipment,PNK,94.83,667,15681015808,2.3734,89.58,85.49,2.2139,-2.59,0.65,-16.23,-6.91,0.0,81.25,2,103.16,71.49,-8.07,0.0,,8,,20260606
+HST,"Host Hotels & Resorts, Inc.",Real Estate,REIT - Hotel & Motel,NASDAQ,24.62,8573736,17080525824,0.5202,21.3,18.47,6.3756,19.4,35.19,42.83,34.3,0.0,88.75,2,24.77,15.07,-0.63,0.0,,8,,20260606
+BNT,Brookfield Wealth Solutions Ltd.,Financial Services,Insurance - Diversified,NYSE,44.43,32430,12190437376,1.153,44.73,45.17,-0.2605,-4.78,-12.59,-9.54,-9.42,0.0,60.25,3,49.86,38.25,-10.89,0.0,,8,,20260606
+SONVY,Sonova Holding AG,Healthcare,Medical Devices,PNK,52.57,48431,15614499840,1.1291,47.05,51.83,4.8878,-4.36,-6.85,-41.0,-19.89,0.0,91.25,3,63.69,42.26,-17.46,0.0,,8,,20260606
+WSO,"Watsco, Inc.",Industrials,Industrial Distribution,NYSE,371.38,464687,15099396096,13.0203,399.87,378.8,-2.1879,-14.78,-2.43,-39.19,-20.22,0.0,45.75,4,494.94,323.05,-24.96,0.0,,8,,20260606
+XPEV,XPeng Inc.,Consumer Cyclical,Auto Manufacturers,NYSE,15.95,7060812,15244223488,0.7346,16.65,19.56,-0.9527,-17.9,-23.93,-46.88,-31.61,0.0,28.25,4,28.23,14.72,-43.51,0.0,,8,,20260606
+MAA,"Mid-America Apartment Communities, Inc.",Real Estate,REIT - Residential,NYSE,137.54,940374,16412185600,2.5512,127.35,130.59,3.9949,-5.15,-3.79,-30.45,-14.79,0.0,90.0,3,153.93,120.3,-10.65,0.0,,8,,20260606
+LULU,lululemon athletica inc.,Consumer Cyclical,Apparel Retail,NASDAQ,114.23,3091225,13656300544,5.5394,140.78,171.23,-4.7937,-42.85,-45.8,-91.1,-63.18,0.0,8.75,4,338.49,109.36,-66.25,0.0,,8,,20260606
+EVGGF,Evolution AB (publ),Consumer Cyclical,Gambling,PNK,76.25,8990,15097395200,1.2666,68.98,70.52,5.7385,16.35,0.66,-13.27,-0.99,0.0,81.25,3,92.9,56.15,-17.93,0.0,,8,,20260606
+PZAKY,Powszechny Zaklad Ubezpieczen SA,Financial Services,Insurance - Property & Casualty,PNK,18.22,204,15985076224,0.5938,17.73,18.15,0.8183,-8.37,-13.76,25.27,3.2,0.0,64.5,3,21.89,13.0,-16.77,0.0,,8,,20260606
+WF,Woori Financial Group Inc.,Financial Services,Banks - Regional,NYSE,60.57,133949,14693327872,2.0756,66.44,61.67,-2.8292,-18.39,-5.2,13.01,-1.22,0.0,30.75,4,84.71,43.3,-28.5,0.0,,8,,20260606
+CLH,"Clean Harbors, Inc.",Industrials,Waste Management,NYSE,283.03,540473,14957011968,7.5506,295.77,259.25,-1.6867,-9.97,10.96,1.11,1.79,0.0,70.75,3,316.98,201.34,-10.71,0.0,,8,,20260606
+KAEPY,"The Kansai Electric Power Company, Incorporated",Utilities,Utilities - Renewable,PNK,7.28,4133,16220765184,0.3617,7.73,7.82,-1.2412,-23.18,-25.05,4.38,-12.81,0.0,22.0,4,9.11,5.06,-20.09,0.0,,8,,20260606
+DECK,Deckers Outdoor Corporation,Consumer Cyclical,Footwear & Accessories,NYSE,108.13,2064039,15017197568,3.7446,103.8,103.29,1.1575,-6.27,5.4,-22.99,-8.88,0.0,62.5,3,126.5,78.91,-14.52,0.0,,8,,20260606
+SNLAY,Sino Land Company Limited,Real Estate,Real Estate - Development,PNK,7.98,2241,15299481600,0.4319,7.95,7.12,0.0658,-10.2,8.99,26.77,11.31,0.0,82.5,2,8.89,4.86,-10.24,0.0,,8,,20260606
+JAZZ,Jazz Pharmaceuticals plc,Healthcare,Biotechnology,NASDAQ,238.57,915512,14968555520,6.5318,212.78,170.31,3.9477,21.08,34.31,92.79,54.39,0.0,83.75,2,243.32,105.0,-1.95,0.0,,8,,20260606
+WHGLY,WH Group Limited,Consumer Defensive,Packaged Foods,PNK,22.73,27766,14635904000,0.9249,24.61,22.16,-2.0373,-14.24,-0.28,-0.59,-3.89,0.0,33.75,3,28.31,18.36,-19.71,0.0,,8,,20260606
+BALL,Ball Corporation,Consumer Cyclical,Packaging & Containers,NYSE,52.92,2556153,14089764864,1.3709,58.76,54.82,-4.2633,-25.05,0.75,-24.33,-15.73,0.0,18.25,4,68.29,44.83,-22.51,0.0,,8,,20260606
+NBGRY,National Bank of Greece S.A.,Financial Services,Banks - Regional,PNK,17.27,151421,15523489792,0.7973,16.74,15.98,0.664,5.91,3.61,23.14,12.0,0.0,93.75,2,19.7,11.61,-12.34,0.0,,8,,20260606
+ASBRF,"Asahi Group Holdings, Ltd.",Consumer Defensive,Beverages - Brewers,PNK,9.42,1585,13780206592,0.1189,9.75,10.99,-2.7418,-24.61,-29.81,-57.41,-39.55,0.0,13.25,4,14.59,9.28,-35.44,0.0,,8,,20260606
+NCBDY,BANDAI NAMCO Holdings Inc.,Consumer Cyclical,Leisure,PNK,11.58,138298,14851470336,0.2911,11.89,13.94,-1.0813,-20.97,-30.13,-55.33,-37.92,0.0,23.25,4,19.67,10.94,-41.14,0.0,,8,,20260606
+THC,Tenet Healthcare Corporation,Healthcare,Medical Care Facilities,NYSE,162.06,1360441,13959361536,8.0925,186.34,199.18,-3.0005,-41.6,-31.78,-29.79,-33.44,0.0,11.25,4,247.21,146.6,-34.44,0.0,,8,,20260606
+GEN,Gen Digital Inc.,Technology,Software - Infrastructure,NASDAQ,26.28,7806007,15831962624,0.9199,21.35,24.69,5.3631,6.86,-10.77,-33.08,-15.29,0.0,86.25,3,32.22,17.78,-18.44,0.0,,8,,20260606
+AHKSF,Asahi Kasei Corporation,Industrials,Conglomerates,PNK,11.4,330,15463417856,0.0873,10.17,9.18,14.1348,-12.55,30.94,34.87,21.64,0.0,51.25,2,11.84,6.55,-3.72,0.0,,8,,20260606
+KPELY,Keppel Ltd.,Industrials,Conglomerates,PNK,17.64,2823,15998897152,0.8444,17.47,16.25,0.2066,-17.26,1.35,40.5,12.36,0.0,58.75,2,21.11,10.17,-16.44,0.0,,8,,20260606
+OUKPF,Metso Oyj,Industrials,Farm & Heavy Construction Machinery,PNK,18.01,356,14914903040,0.0858,17.34,12.5,7.8728,62.46,63.99,50.43,58.18,0.0,75.0,2,18.01,10.56,-0.0,0.0,,8,,20260606
+LUGDF,Lundin Gold Inc.,Basic Materials,Gold,OQX,61.09,58328,14773562368,3.1528,67.77,70.08,-2.1201,-31.87,-30.33,1.89,-17.83,0.0,10.0,4,95.47,45.49,-36.01,0.0,,8,,20260606
+FNBKY,FinecoBank Banca Fineco S.p.A.,Financial Services,Banks - Regional,PNK,48.16,262,14732606464,0.3581,48.76,46.81,-1.6863,-12.78,-11.25,-13.75,-12.63,0.0,49.0,3,54.7,41.7,-11.96,0.0,,8,,20260606
+OUKPY,Metso Oyj,Industrials,Farm & Heavy Construction Machinery,PNK,9.43,44761,15618221056,0.364,8.95,8.33,1.321,-9.66,5.12,33.32,12.71,0.0,90.0,2,10.93,5.87,-13.72,0.0,,8,,20260606
+EVVTY,Evolution AB (publ),Consumer Cyclical,Gambling,PNK,75.64,69507,14976615424,1.703,68.85,70.32,3.9847,13.21,-0.48,-15.52,-3.08,0.0,88.75,3,92.84,56.88,-18.53,0.0,,8,,20260606
+NWSA,News Corporation,Communication Services,Entertainment,NASDAQ,27.26,4476009,14861164544,0.7012,25.87,26.18,1.9881,1.19,-1.36,-26.56,-10.8,0.0,87.5,3,31.61,22.2,-13.76,0.0,,8,,20260606
+NWS,News Corporation,Communication Services,Entertainment,NASDAQ,31.19,1470677,17003658240,0.8032,29.74,29.8,1.8112,3.02,-0.55,-27.54,-10.45,0.0,88.75,3,35.58,25.49,-12.34,0.0,,8,,20260606
+MPFRF,"Mapfre, S.A.",Financial Services,Insurance - Diversified,PNK,4.86,796,14890366976,0.0157,4.63,4.26,14.6459,6.04,2.27,10.22,6.39,0.0,75.0,2,5.0,3.6,-2.8,0.0,,8,,20260606
+XPNGF,XPeng Inc.,Consumer Cyclical,Auto Manufacturers,PNK,8.51,436,16266877952,0.0929,8.45,9.8,0.6155,-18.78,-23.36,-32.08,-25.7,0.0,26.25,3,13.0,7.5,-34.54,0.0,,8,,20260606
+NCBDF,BANDAI NAMCO Holdings Inc.,Consumer Cyclical,Leisure,PNK,22.5,44,14430734336,0.069,24.19,28.01,-24.5661,-22.73,-29.64,-57.52,-39.07,0.0,0.0,4,37.64,21.0,-40.22,0.0,,8,,20260606
+GPFOF,"Grupo Financiero Inbursa, S.A.B. de C.V.",Financial Services,Banks - Regional,PNK,2.46,1036,14867475456,0.067,1.8,1.51,9.7979,76.2,75.0,46.43,63.87,0.0,77.5,2,2.77,1.99,-11.42,0.0,,8,,20260606
+AHKSY,Asahi Kasei Corporation,Industrials,Conglomerates,PNK,22.39,35071,15185347584,0.5727,20.37,18.6,3.5353,-8.34,25.64,31.81,19.61,0.0,90.0,2,24.12,12.71,-7.17,0.0,,8,,20260606
+MLI,"Mueller Industries, Inc.",Industrials,Metal Fabrication,NYSE,132.8,705126,14683778048,3.9502,128.45,114.73,1.1005,6.24,11.18,47.23,24.36,0.0,87.5,2,141.51,72.16,-6.16,0.0,,8,,20260606
+WCPRF,Whitecap Resources Inc.,Energy,Oil & Gas E&P,OQX,12.36,488449,15023184896,0.3893,11.28,9.03,2.7804,12.24,39.59,73.68,46.39,0.0,87.5,2,12.59,6.25,-1.83,0.0,,8,,20260606
+MPFRY,"Mapfre, S.A.",Financial Services,Insurance - Diversified,PNK,8.76,498,14895519744,0.2391,9.36,9.09,-2.4981,-10.4,-16.07,-19.07,-15.85,0.0,37.0,3,10.42,7.5,-15.93,0.0,,8,,20260606
+KPELF,Keppel Ltd.,Industrials,Conglomerates,PNK,8.21,563,15990875136,0.063,8.65,7.64,-6.931,-28.92,-5.78,50.94,11.12,0.0,25.0,3,10.13,5.0,-18.95,0.0,,8,,20260606
+PFGC,Performance Food Group Company,Consumer Defensive,Food Distribution,NYSE,97.12,1729274,15256566784,2.9009,91.22,94.98,2.033,1.05,-3.58,-14.47,-6.78,0.0,92.5,3,109.05,80.82,-10.94,0.0,,8,,20260606
+BKIMF,"Bankinter, S.A.",Financial Services,Banks - Regional,PNK,16.7,168,13480443904,0.0195,16.44,15.98,13.413,-9.68,-8.95,26.35,4.99,0.0,75.0,2,16.7,10.96,0.0,0.0,,8,,20260606
+PNFP,"Pinnacle Financial Partners, Inc.",Financial Services,Banks - Regional,NYSE,96.31,1345706,14553097216,2.4063,94.48,92.96,0.7609,-0.73,-5.08,-32.72,-15.05,0.0,85.0,2,120.46,81.08,-20.05,0.0,,8,,20260606
+NBGIF,National Bank of Greece S.A.,Financial Services,Banks - Regional,PNK,16.8,2055,15101020160,0.6989,16.34,15.75,0.6544,-0.75,-6.72,15.12,3.51,0.0,77.5,2,19.0,11.5,-11.58,0.0,,8,,20260606
+BSAC,Banco Santander-Chile,Financial Services,Banks - Regional,NYSE,30.02,467057,14142882816,0.9307,31.57,29.47,-1.6676,-9.22,-5.98,2.6,-3.36,0.0,75.75,3,37.72,22.77,-20.41,0.0,,8,,20260606
+BKNIY,"Bankinter, S.A.",Financial Services,Banks - Regional,PNK,16.41,43934,14770724864,0.4009,16.45,15.95,-0.1089,-5.23,-11.67,-0.32,-5.52,0.0,74.5,3,17.97,12.29,-8.68,0.0,,8,,20260606
+FELTY,"Fuji Electric Co., Ltd.",Industrials,Electrical Equipment & Parts,PNK,23.53,35284,13893193728,1.1124,20.85,18.57,2.4127,12.61,28.17,81.81,45.74,0.0,92.5,2,27.96,10.66,-15.84,0.0,,8,,20260606
+AHCHY,Anhui Conch Cement Company Limited,Basic Materials,Building Materials,PNK,11.97,36549,12686530560,0.2731,12.36,14.04,-1.4417,-25.29,-30.49,-29.56,-28.82,0.0,28.25,4,17.11,11.43,-30.04,0.0,,8,,20260606
+SMTC,Semtech Corporation,Technology,Semiconductors,NASDAQ,151.02,2992392,14067689472,12.6892,116.52,84.08,2.7189,74.13,97.12,268.61,159.97,0.0,90.0,2,172.36,37.03,-12.38,0.0,,8,,20260606
+CMSQF,Computershare Limited,Financial Services,Capital Markets,PNK,25.3,7090,14633192448,1.9859,22.17,22.97,1.5762,6.36,-3.83,-36.13,-14.2,0.0,80.0,3,27.4,17.87,-7.66,0.0,,8,,20260606
+FPS,"Forgent Power Solutions, Inc.",Industrials,Electrical Equipment & Parts,NYSE,59.13,5234615,18938228736,4.299,40.19,59.13,4.4057,76.83,94.76,94.76,90.27,0.0,91.25,3,63.0,25.95,-6.14,0.0,,8,,20260606
+AAOI,"Applied Optoelectronics, Inc.",Technology,Communication Equipment,NASDAQ,177.0,12310404,14202970112,24.3784,156.74,70.13,0.8309,75.19,581.6,909.3,586.08,0.0,87.5,2,233.67,15.29,-24.25,0.0,,8,,20260606
+CPT,Camden Property Trust,Real Estate,REIT - Residential,NYSE,112.6,1158161,11157600256,2.1612,103.71,103.93,4.1154,-3.14,0.46,-25.5,-10.82,0.0,90.0,3,119.0,96.53,-5.38,0.0,,8,,20260606
+YRAIF,Yara International ASA,Basic Materials,Agricultural Inputs,OID,54.3,744,13831601152,0.4312,57.79,43.92,-8.0831,1.32,34.84,36.33,27.06,0.0,51.25,3,59.85,32.95,-9.27,0.0,,8,,20260606
+YARIY,Yara International ASA,Basic Materials,Agricultural Inputs,OID,26.93,42768,13719522304,0.6874,27.83,21.82,-1.3082,-0.07,39.69,26.54,24.49,0.0,72.0,3,31.28,17.48,-13.91,0.0,,8,,20260606
+REGCP,Regency Centers Corporation,Real Estate,REIT - Retail,NASDAQ,22.95,4471,0,0.2106,23.09,22.99,-0.6813,-9.33,-8.91,-18.69,-12.93,0.0,57.75,3,24.75,22.35,-7.27,0.0,,8,,20260606
+REGCO,Regency Centers Corporation,Real Estate,REIT - Retail,NASDAQ,22.0,5092,0,0.2745,22.15,22.12,-0.55,-10.54,-7.82,-19.07,-13.0,0.0,61.5,3,24.24,21.35,-9.26,0.0,,8,,20260606
+REG,Regency Centers Corporation,Real Estate,REIT - Retail,NASDAQ,77.72,1409861,14528586752,1.1273,77.99,72.73,-0.2397,-10.22,5.01,-12.26,-5.71,0.0,70.75,3,81.66,66.86,-4.82,0.0,,8,,20260606
+LECO,"Lincoln Electric Holdings, Inc.",Industrials,Tools & Accessories,NASDAQ,262.13,353885,14361346048,6.6869,258.98,250.9,0.4705,-9.66,1.03,10.78,2.26,0.0,57.5,2,310.0,194.88,-15.44,0.0,,8,,20260606
+CRRFY,Carrefour SA,Consumer Defensive,Grocery Stores,PNK,3.67,357882,12984702976,0.0891,3.68,3.21,-0.1375,-2.25,12.8,-0.68,3.64,0.0,70.75,3,4.13,2.73,-11.14,0.0,,8,,20260606
+BMBOY,"Grupo Bimbo, S.A.B. de C.V.",Consumer Defensive,Packaged Foods,OQX,12.75,2117,13718688768,0.3201,13.23,13.38,-1.5029,-15.96,-10.23,-8.19,-10.84,0.0,56.5,3,15.82,10.6,-19.41,0.0,,8,,20260606
+COVTY,Covestro AG,Basic Materials,Specialty Chemicals,PNK,33.87,3226,14394867712,0.8984,34.36,34.57,-0.5401,-12.65,-12.28,-29.29,-19.17,0.0,56.5,4,36.6,31.62,-7.46,0.0,,8,,20260606
+SUN,Sunoco LP,Energy,Oil & Gas Refining & Marketing,NYSE,66.25,527804,12482291712,1.7654,66.38,56.73,-0.076,-4.98,15.99,7.68,7.42,0.0,73.25,3,72.88,47.98,-9.1,0.0,,8,,20260606
+TKGSF,"Tokyo Gas Co.,Ltd.",Utilities,Utilities - Regulated Gas,PNK,43.16,57,14390367232,0.0651,41.06,39.31,32.1959,-1.99,-2.91,10.39,2.64,0.0,75.0,2,43.16,31.1,-0.0,0.0,,8,,20260606
+GRAB,Grab Holdings Limited,Technology,Software - Application,NASDAQ,3.34,50192722,13660599296,0.1413,3.7,4.72,-2.5172,-26.07,-45.08,-58.65,-45.76,0.0,10.0,4,6.62,3.33,-49.55,0.0,,8,,20260606
+TIGO,Millicom International Cellular S.A.,Communication Services,Telecom Services,NASDAQ,82.66,1638030,13848976384,3.7779,81.73,60.32,0.247,12.33,55.8,124.58,72.44,0.0,88.75,2,89.49,35.62,-7.63,0.0,,8,,20260606
+LTM,LATAM Airlines Group S.A.,Industrials,Airlines,NYSE,48.32,1038526,14145386496,2.051,50.15,50.82,-0.894,-9.22,-11.69,-0.52,-6.6,0.0,57.75,3,70.42,36.64,-31.38,0.0,,8,,20260606
+SHTLF,South32 Limited,Basic Materials,Other Industrial Metals & Mining,PNK,3.52,676,16176374784,0.0469,3.12,2.54,8.4028,-4.82,49.17,74.93,45.97,0.0,76.25,2,3.6,1.6,-2.28,0.0,,8,,20260606
+CRERF,Carrefour SA,Consumer Defensive,Grocery Stores,PNK,18.32,4709,12963474432,0.2191,18.27,15.86,0.2491,1.9,12.39,0.33,4.94,0.0,75.0,2,20.72,13.6,-11.58,0.0,,8,,20260606
+AMIGY,Admiral Group plc,Financial Services,Insurance - Property & Casualty,PNK,44.44,90442,13283205120,1.3947,44.49,42.4,-0.0385,-1.76,-4.12,-25.48,-12.08,0.0,78.25,3,52.08,36.05,-14.67,0.0,,8,,20260606
+SKM,"SK Telecom Co., Ltd.",Communication Services,Telecom Services,NYSE,37.44,2059869,14372770816,2.4215,36.75,26.75,0.2829,20.42,75.97,51.59,52.33,0.0,91.25,2,47.18,19.66,-20.64,0.0,,8,,20260606
+RPGRY,REA Group Limited,Communication Services,Internet Content & Information,PNK,27.54,85224,14444283904,1.3159,29.18,32.69,-1.2468,-20.26,-24.26,-56.79,-36.27,0.0,10.0,4,55.54,25.68,-50.41,0.0,,8,,20260606
+LFCBY,Lifco AB (publ),Industrials,Conglomerates,PNK,15.72,647,14279651328,0.3186,15.7,16.95,0.074,-15.3,-25.99,-47.5,-31.92,0.0,42.0,3,22.6,14.51,-30.45,0.0,,8,,20260606
+KPCPY,Kasikornbank Public Company Limited,Financial Services,Banks - Regional,PNK,26.0,33630,15400629248,0.9422,24.13,22.35,1.98,3.28,4.39,21.17,10.82,0.0,92.5,2,28.14,17.73,-7.6,0.0,,8,,20260606
+ARXS,"Arxis, Inc.",Industrials,Aerospace & Defense,NASDAQ,39.41,1755423,16171291648,2.6295,39.41,39.41,0.0,-3.41,-3.41,-3.41,-3.41,0.0,74.5,3,48.68,33.15,-19.04,0.0,,8,,20260606
+PS,Pershing Square Inc.,Financial Services,Asset Management,NYSE,35.75,864492,14300000256,4.514,35.75,35.75,0.0,44.08,44.08,44.08,44.08,0.0,72.0,3,54.94,22.01,-34.93,0.0,,8,,20260606
+OHI,"Omega Healthcare Investors, Inc.",Real Estate,REIT - Healthcare Facilities,NYSE,44.47,2128615,13865585664,1.0389,45.93,43.41,-1.4094,-15.39,-8.22,1.32,-6.2,0.0,72.0,3,49.33,35.7,-9.85,0.0,,8,,20260606
+CJEWY,Chow Tai Fook Jewellery Group Limited,Consumer Cyclical,Luxury Goods,PNK,14.45,115,14254844928,0.121,14.2,17.38,2.0673,-33.53,-35.67,-32.29,-33.78,0.0,25.0,3,21.0,12.6,-31.19,0.0,,8,,20260606
+GIB,CGI Inc.,Technology,Information Technology Services,NYSE,67.28,478965,14089780224,2.3049,69.51,82.2,-0.9679,-21.35,-33.02,-62.45,-41.87,0.0,27.0,4,110.07,60.8,-38.88,0.0,,8,,20260606
+CLPBF,Coloplast A/S,Healthcare,Medical Instruments & Supplies,PNK,57.64,974,13359541248,1.0185,64.28,80.82,-6.5219,-31.68,-46.14,-65.99,-50.47,0.0,2.5,4,100.0,57.28,-42.36,0.0,,8,,20260606
+CDW,CDW Corporation,Technology,Information Technology Services,NASDAQ,133.04,1913974,16996318208,5.8483,122.7,136.53,1.7677,-1.56,-14.85,-48.48,-24.98,0.0,48.25,3,183.91,97.12,-27.66,0.0,,8,,20260606
+CJEWF,Chow Tai Fook Jewellery Group Limited,Consumer Cyclical,Luxury Goods,PNK,1.46,685,18743394304,0.0042,1.5,1.78,-10.5631,-34.58,-30.16,-26.69,-29.88,0.0,12.0,4,2.17,1.4,-32.72,0.0,,8,,20260606
+GRBMF,"Grupo Bimbo, S.A.B. de C.V.",Consumer Defensive,Packaged Foods,OQX,3.36,2568,14461111296,0.074,3.35,3.4,0.1134,-18.09,-4.71,-6.28,-8.69,0.0,37.0,3,4.0,2.54,-16.0,0.0,,8,,20260606
+JBS,JBS N.V.,Consumer Defensive,Packaged Foods,NYSE,12.24,6262777,13107532800,0.5081,14.74,13.93,-4.9279,-24.81,-18.89,-29.64,-24.67,0.0,11.25,4,18.65,11.79,-34.37,0.0,,8,,20260606
+SNMYF,Suncorp Group Limited,Financial Services,Insurance - Property & Casualty,PNK,13.03,274,14176045056,0.0758,12.02,12.31,13.2751,-0.06,-6.89,-20.42,-10.6,0.0,76.25,3,16.1,10.83,-19.07,0.0,,8,,20260606
+OSGSY,"Osaka Gas Co., Ltd.",Utilities,Utilities - Regulated Gas,PNK,69.7,594,13484613632,1.3413,76.62,71.2,-5.1563,-27.31,-8.35,92.19,27.13,0.0,17.0,4,91.5,32.81,-23.83,0.0,,8,,20260606
+CLPBY,Coloplast A/S,Healthcare,Medical Instruments & Supplies,PNK,6.0,689942,13522007040,0.1625,6.4,8.02,-2.4653,-26.26,-43.34,-63.8,-47.25,0.0,11.25,4,10.03,5.88,-40.18,0.0,,8,,20260606
+SGI,Somnigroup International Inc.,Consumer Cyclical,"Furnishings, Fixtures & Appliances",NYSE,68.01,3085319,14305266688,3.0064,72.76,83.05,-1.5789,-24.76,-33.22,-20.01,-25.82,0.0,7.5,4,98.56,60.39,-31.0,0.0,,8,,20260606
+RGA,"Reinsurance Group of America, Incorporated",Financial Services,Insurance - Reinsurance,NYSE,204.96,337561,13427578880,5.0578,207.21,199.07,-0.4452,-10.63,0.73,-20.59,-10.64,0.0,69.5,3,229.21,165.52,-10.58,0.0,,8,,20260606
+CPAMF,CapitaLand Integrated Commercial Trust,Real Estate,REIT - Retail,PNK,1.84,3419,14498737152,0.0146,1.82,1.82,1.1087,-9.2,-6.58,-14.89,-10.56,0.0,50.0,2,2.1,1.6,-12.38,0.0,,8,,20260606
+EDVMF,Endeavour Mining plc,Basic Materials,Gold,OQX,57.0,40460,13750111232,2.5315,60.94,51.3,-1.5558,-16.7,15.13,49.32,20.85,0.0,57.5,3,72.18,29.0,-21.03,0.0,,8,,20260606
+GJNSY,Gjensidige Forsikring ASA,Financial Services,Insurance - Property & Casualty,PNK,27.25,1111,13621523456,1.095,27.48,26.78,-0.2174,-7.14,-7.09,-14.08,-9.9,0.0,65.75,3,31.05,23.73,-12.25,0.0,,8,,20260606
+NPCPF,"Nippon Paint Holdings Co., Ltd.",Basic Materials,Specialty Chemicals,PNK,6.73,864,15609956352,0.0632,6.33,2.77,6.354,-9.47,-529.09,7150.49,2672.65,0.0,51.25,2,8.12,6.0,-17.12,0.0,,8,,20260606
+MMLTF,MMG Limited,Basic Materials,Copper,PNK,1.15,17452,14690042880,0.0597,1.14,1.04,0.2504,-17.99,13.88,204.9,82.32,0.0,77.5,2,1.43,0.35,-19.58,0.0,,8,,20260606
+EG,"Everest Group, Ltd.",Financial Services,Insurance - Reinsurance,NYSE,334.41,342142,13233138688,8.579,341.03,333.0,-0.7718,-9.28,-1.31,-27.59,-13.81,0.0,70.75,3,368.29,302.44,-9.2,0.0,,8,,20260606
+OBYCF,Obayashi Corporation,Industrials,Engineering & Construction,PNK,19.7,729,13542204416,1.0726,21.08,-4.56,-1.2834,-186.33,-204.77,-37.9,-133.41,0.0,55.0,3,29.57,13.83,-33.37,0.0,,8,,20260606
+CMSQY,Computershare Limited,Financial Services,Capital Markets,PNK,24.76,100336,14320864256,0.4995,21.98,22.46,5.5621,5.04,-3.05,-29.93,-11.78,0.0,87.5,3,28.06,18.82,-11.76,0.0,,8,,20260606
+DOC,"Healthpeak Properties, Inc.",Real Estate,REIT - Healthcare Facilities,NYSE,19.79,9082649,13643616256,0.4915,17.8,17.18,4.059,6.51,10.13,-1.09,4.74,0.0,85.0,2,20.27,15.7,-2.37,0.0,,8,,20260606
+CHKP,Check Point Software Technologies Ltd.,Technology,Software - Infrastructure,NASDAQ,135.82,1448596,14129057792,4.9404,132.57,171.64,0.6587,-27.79,-37.39,-66.36,-46.58,0.0,43.75,3,233.78,112.23,-41.9,0.0,,8,,20260606
+SOUHY,South32 Limited,Basic Materials,Other Industrial Metals & Mining,PNK,17.03,66544,15386444800,0.505,15.7,12.79,2.625,-4.29,45.0,52.05,35.5,0.0,91.25,2,17.5,8.07,-2.71,0.0,,8,,20260606
+AUR,"Aurora Innovation, Inc.",Consumer Cyclical,Auto Parts,NASDAQ,6.31,24876003,12375191552,0.5357,5.9,5.04,0.7687,30.54,31.45,-16.58,12.01,0.0,86.25,2,8.56,3.6,-26.33,0.0,,8,,20260606
+CSGP,"CoStar Group, Inc.",Real Estate,Real Estate Services,NASDAQ,33.89,7064977,13839174656,1.5406,35.95,59.42,-1.3356,-39.94,-59.36,-81.2,-63.24,0.0,11.25,4,97.43,31.36,-65.22,0.0,,8,,20260606
+IFJPY,Informa plc,Communication Services,Publishing,PNK,22.39,58865,14082487296,0.5932,21.57,23.25,1.378,-7.2,-21.4,-22.52,-18.3,0.0,75.75,3,26.82,19.45,-16.52,0.0,,8,,20260606
+BVVBY,Bureau Veritas SA,Industrials,Consulting Services,PNK,59.73,25276,13262617600,1.2788,59.97,61.09,-0.1899,-19.31,-11.06,-34.65,-22.56,0.0,37.75,4,69.93,57.92,-14.59,0.0,,8,,20260606
+KNBWY,"Kirin Holdings Company, Limited",Consumer Defensive,Beverages - Brewers,PNK,16.52,38187,13295925248,0.3481,16.32,15.57,0.5889,-9.95,-6.76,-11.34,-9.39,0.0,86.25,2,17.87,13.15,-7.55,0.0,,8,,20260606
+HTHT,H World Group Limited,Consumer Cyclical,Lodging,NASDAQ,45.0,2093088,13838571520,1.4316,48.54,45.03,-2.4746,-18.57,-10.79,8.13,-5.17,0.0,25.75,4,56.64,30.41,-20.55,0.0,,8,,20260606
+KRYAY,Kerry Group plc,Consumer Defensive,Packaged Foods,OID,83.55,51163,13353475072,1.9634,82.02,86.26,0.7788,-7.24,-18.44,-51.14,-28.72,0.0,77.0,3,113.38,74.48,-26.31,0.0,,8,,20260606
+STGPF,Scentre Group,Real Estate,REIT - Retail,PNK,2.85,6493,15837626368,0.0304,2.56,2.57,9.6636,-2.44,-4.17,-8.72,-5.56,0.0,75.0,3,2.98,2.0,-4.36,0.0,,8,,20260606
+AKESF,"Akeso, Inc.",Healthcare,Biotechnology,PNK,12.1,1223,11145832448,0.7182,16.45,15.74,-6.0629,-17.91,-29.38,-9.12,-18.41,0.0,31.25,4,23.15,10.22,-47.73,0.0,,8,,20260606
+XJNGF,"Goldwind Science&Technology Co., Ltd.",Industrials,Specialty Industrial Machinery,PNK,1.72,507,7264916480,0.0327,1.91,1.75,-5.83,-19.45,4.5,88.65,32.17,0.0,37.0,3,2.33,0.81,-26.18,0.0,,8,,20260606
+FELTF,"Fuji Electric Co., Ltd.",Industrials,Electrical Equipment & Parts,PNK,72.28,0,10669358080,0.2391,67.92,-3.55,18.2323,-306.83,-305.3,646.67,75.11,0.0,75.0,2,72.28,44.53,-0.0,0.0,,8,,20260606
+MOD,Modine Manufacturing Company,Consumer Cyclical,Auto Parts,NYSE,276.51,1118303,14604093440,22.2984,255.38,185.38,0.9478,37.65,67.15,176.49,103.51,0.0,85.0,2,323.25,86.48,-14.46,0.0,,8,,20260606
+PTAIF,PT Astra International Tbk,Industrials,Conglomerates,PNK,0.27,3779,10660980736,0.0069,0.34,0.34,-10.2266,-31.52,-33.8,-37.96,-34.89,0.0,0.0,4,0.52,0.23,-49.05,0.0,,8,,20260606
+IFPJF,Informa plc,Communication Services,Publishing,PNK,10.78,244,15095117824,0.0062,10.71,11.54,11.4104,-11.58,-26.22,-24.29,-21.79,0.0,37.0,3,12.85,10.63,-16.08,0.0,,8,,20260606
+APA,APA Corporation,Energy,Oil & Gas E&P,NASDAQ,36.57,8099574,12926406656,1.5278,38.82,28.85,-1.4738,2.66,29.44,87.39,45.93,0.0,63.75,3,45.66,17.74,-19.91,0.0,,8,,20260606
+TISCY,Taisei Corporation,Industrials,Engineering & Construction,PNK,19.89,2123,12969005056,1.8901,24.89,22.33,-2.6436,-43.54,-12.12,-0.72,-15.42,0.0,6.25,4,33.0,12.36,-39.73,0.0,,8,,20260606
+RBRK,"Rubrik, Inc.",Technology,Software - Infrastructure,NYSE,73.41,3906146,15108501504,4.3471,58.69,67.97,3.3853,18.41,-5.66,-50.69,-17.65,0.0,91.25,3,103.0,42.25,-28.73,0.0,,8,,20260606
+MTRAF,Metro Inc.,Consumer Defensive,Grocery Stores,PNK,63.82,868,13461743616,0.3624,65.88,68.6,-5.6949,-14.63,-22.21,-46.47,-30.02,0.0,24.0,4,83.02,63.26,-23.13,0.0,,8,,20260606
+TKGSY,"Tokyo Gas Co.,Ltd.",Utilities,Utilities - Regulated Gas,PNK,20.85,4865,13903576064,1.0747,21.24,20.51,-0.3601,-22.82,-5.88,-0.63,-8.01,0.0,42.0,3,25.42,15.38,-17.98,0.0,,8,,20260606
+JRONY,"Jerónimo Martins, SGPS, S.A.",Consumer Defensive,Food Distribution,PNK,41.52,23528,13046294528,0.7204,45.03,46.72,-4.8789,-24.52,-21.46,-41.93,-30.41,0.0,7.5,4,54.5,40.87,-23.82,0.0,,8,,20260606
+PILBF,PLS Group Limited,Basic Materials,Other Industrial Metals & Mining,PNK,4.33,29703,14080234496,0.1941,4.14,2.89,0.9895,18.18,56.4,455.75,206.58,0.0,90.0,2,4.8,0.73,-9.81,0.0,,8,,20260606
+KRYAF,Kerry Group plc,Consumer Defensive,Packaged Foods,OID,81.42,111,13013044224,0.4798,80.08,87.64,2.7936,-15.47,-20.53,-47.39,-30.01,0.0,38.25,3,105.32,75.59,-22.69,0.0,,8,,20260606
+NPNYY,Nippon Yusen Kabushiki Kaisha,Industrials,Marine Shipping,PNK,6.78,93200,13680567296,0.1611,7.21,6.88,-2.6414,-14.43,-4.1,-35.08,-19.07,0.0,24.5,4,8.01,6.05,-15.36,0.0,,8,,20260606
+TRU,TransUnion,Financial Services,Financial Data & Stock Exchanges,NYSE,70.66,2279939,13623248896,2.8973,70.57,78.58,0.032,-18.51,-23.43,-43.64,-30.28,0.0,37.5,3,99.39,64.51,-28.91,0.0,,8,,20260606
+EFGSY,Eiffage SA,Industrials,Engineering & Construction,PNK,27.92,2540,13818000384,1.2211,30.58,28.04,-2.18,-19.0,-5.51,-18.51,-14.08,0.0,24.5,4,35.58,23.65,-21.53,0.0,,8,,20260606
+NIOIF,NIO Inc.,Consumer Cyclical,Auto Manufacturers,PNK,5.47,327,13705998336,0.1173,6.09,5.93,-5.3111,2.79,-2.25,27.69,10.99,0.0,38.25,3,7.8,3.45,-29.87,0.0,,8,,20260606
+LYSCF,Lynas Rare Earths Limited,Basic Materials,Other Industrial Metals & Mining,OQX,13.44,39687,13637426176,0.735,13.91,11.48,-0.6381,-9.38,23.63,130.49,58.12,0.0,75.75,3,16.2,5.21,-17.04,0.0,,8,,20260606
+WHGRF,WH Group Limited,Consumer Defensive,Packaged Foods,PNK,1.06,60,14030552064,0.0144,0.9,0.74,11.1515,8.52,39.68,197.99,95.21,0.0,75.0,2,1.35,0.87,-21.48,0.0,,8,,20260606
+OGFGF,Origin Energy Limited,Utilities,Utilities - Diversified,PNK,7.92,19,14325442560,0.0232,8.54,7.85,-26.8067,-18.25,-2.91,-12.76,-10.69,0.0,25.0,3,9.07,6.92,-12.68,0.0,,8,,20260606
+MAS,Masco Corporation,Industrials,Building Products & Equipment,NYSE,69.41,2902968,14002387968,2.0449,66.98,67.01,1.1869,-0.44,-0.07,-13.59,-5.57,0.0,83.75,3,79.19,58.16,-12.35,0.0,,8,,20260606
+BAWAY,BAWAG Group AG,Unknown,Unknown,PNK,43.58,64439,14071387136,1.9497,42.18,34.14,0.7205,16.97,24.85,38.0,28.14,0.0,90.0,2,47.23,27.87,-7.72,0.0,,8,,20260606
+UUGRY,United Utilities Group PLC,Utilities,Utilities - Regulated Water,PNK,35.5,34552,13185836032,0.8188,36.41,33.42,-1.116,-13.71,-0.93,-9.86,-7.7,0.0,73.25,3,40.43,29.2,-12.19,0.0,,8,,20260606
+LYSDY,Lynas Rare Earths Limited,Basic Materials,Other Industrial Metals & Mining,OQX,13.33,280514,13416684544,0.5335,13.9,11.49,-1.0744,-8.41,21.58,124.96,55.43,0.0,72.0,3,16.18,5.26,-17.61,0.0,,8,,20260606
+SNMCY,Suncorp Group Limited,Financial Services,Insurance - Property & Casualty,PNK,12.55,168538,13591242752,0.5713,12.16,12.29,0.676,17.42,-8.93,-31.7,-11.45,0.0,83.75,3,15.25,9.43,-17.7,0.0,,8,,20260606
+J,Jacobs Solutions Inc.,Industrials,Engineering & Construction,NYSE,122.55,1113798,14470812672,4.0934,122.86,137.18,-0.0754,-20.12,-19.61,-26.6,-22.53,0.0,27.0,4,168.44,105.68,-27.24,0.0,,8,,20260606
+BBIO,"BridgeBio Pharma, Inc.",Healthcare,Biotechnology,NASDAQ,67.61,2550639,13242179584,3.0913,70.6,66.77,-0.9674,-6.55,-17.28,52.64,13.37,0.0,50.75,3,84.94,37.69,-20.4,0.0,,8,,20260606
+JLL,Jones Lang LaSalle Incorporated,Real Estate,Real Estate Services,NYSE,295.71,429226,13719044096,10.2873,312.66,315.53,-1.6478,-11.17,-18.74,3.8,-7.83,0.0,19.5,4,363.06,228.4,-18.55,0.0,,8,,20260606
+GLPI,"Gaming and Leisure Properties, Inc.",Real Estate,REIT - Specialty,NASDAQ,47.17,2090076,13359574016,0.7507,46.82,45.14,0.4725,-11.97,3.24,-15.69,-8.14,0.0,60.0,2,49.95,41.17,-5.57,0.0,,8,,20260606
+TLTZY,Tele2 AB (publ),Communication Services,Telecom Services,PNK,9.23,63712,12803046400,0.3306,9.86,8.88,-1.9063,-21.06,9.31,0.28,-1.9,0.0,35.0,3,11.61,6.88,-20.5,0.0,,8,,20260606
+CSL,Carlisle Companies Incorporated,Industrials,Building Products & Equipment,NYSE,345.98,412626,14000107520,10.3556,345.42,345.61,0.0542,-12.09,-0.09,-33.45,-16.43,0.0,61.25,3,435.92,293.43,-20.63,0.0,,8,,20260606
+UNM,Unum Group,Financial Services,Insurance - Life,NYSE,86.84,1488307,13874968576,1.6627,79.55,75.63,4.3848,8.83,11.03,-14.96,0.09,0.0,92.5,2,86.88,68.28,-0.05,0.0,,8,,20260606
+BWA,BorgWarner Inc.,Consumer Cyclical,Auto Parts,NYSE,72.63,2827131,14897498112,3.0833,59.95,50.07,4.112,30.55,60.52,104.31,70.55,0.0,96.25,2,78.82,31.83,-7.85,0.0,,8,,20260606
+ARMK,Aramark,Industrials,Specialty Business Services,NYSE,53.41,2853825,14044350464,1.2948,46.95,40.64,4.99,23.01,34.81,8.85,21.48,0.0,86.25,2,54.57,35.07,-2.13,0.0,,8,,20260606
+GPC,Genuine Parts Company,Consumer Cyclical,Auto Parts,NYSE,98.15,1893960,13654835200,2.7115,103.55,121.82,-1.9915,-25.03,-31.35,-44.89,-35.18,0.0,11.25,4,151.57,90.78,-35.24,0.0,,8,,20260606
+SKHSY,"Sekisui House, Ltd.",Consumer Cyclical,Residential Construction,OID,20.66,115325,13392601088,0.5422,21.73,22.35,-1.9721,-19.81,-18.74,-37.45,-26.49,0.0,36.5,4,25.61,19.9,-19.33,0.0,,8,,20260606
+TOST,"Toast, Inc.",Technology,Software - Infrastructure,NYSE,24.64,11320285,14291200000,1.2607,26.31,32.63,-1.327,-28.65,-38.4,-66.29,-47.12,0.0,11.25,4,49.66,22.26,-50.38,0.0,,8,,20260606
+EVR,Evercore Inc.,Financial Services,Capital Markets,NYSE,339.43,598433,13129995264,11.854,332.74,326.88,0.5641,7.75,-4.25,20.59,8.69,0.0,85.0,2,388.71,232.29,-12.68,0.0,,8,,20260606
+RRX,Regal Rexnord Corporation,Industrials,Specialty Industrial Machinery,NYSE,204.4,1145109,13606819840,9.6929,203.6,170.04,0.0827,-0.18,40.32,26.17,24.54,0.0,87.5,2,236.35,127.96,-13.52,0.0,,8,,20260606
+OGFGY,Origin Energy Limited,Utilities,Utilities - Diversified,PNK,7.78,27841,13394363392,0.4066,8.59,7.98,-2.0064,-19.35,-0.99,-6.18,-7.66,0.0,29.5,4,9.7,6.52,-19.85,0.0,,8,,20260606
+BVRDF,Bureau Veritas SA,Industrials,Consulting Services,PNK,30.1,31,13366977536,0.1245,29.85,30.63,2.0085,-18.23,-14.64,-29.08,-21.31,0.0,37.0,3,34.15,29.78,-11.86,0.0,,8,,20260606
+ARCC,Ares Capital Corporation,Financial Services,Asset Management,NASDAQ,18.79,6629309,13491649536,0.3146,18.67,19.21,0.3973,-6.99,-13.56,-31.08,-18.93,0.0,77.0,3,23.42,17.4,-19.77,0.0,,8,,20260606
+SOLV,Solventum Corporation,Healthcare,Medical Instruments & Supplies,NYSE,81.01,1679322,14028883968,2.2978,70.76,74.13,4.4621,6.72,-13.43,-17.37,-9.97,0.0,92.5,3,88.2,62.38,-8.15,0.0,,8,,20260606
+BBSEY,BB Seguridade Participações S.A.,Financial Services,Insurance - Diversified,PNK,7.29,147477,14151701504,0.2371,7.0,6.33,1.2242,0.73,10.71,-9.39,0.18,0.0,93.75,2,8.58,5.8,-15.03,0.0,,8,,20260606
+SWRAY,Swire Pacific Limited,Industrials,Conglomerates,PNK,10.8,21847,39181541376,0.2749,10.95,9.32,-0.5421,-4.74,16.8,2.63,5.74,0.0,68.25,3,12.09,7.77,-10.67,0.0,,8,,20260606
+LKREF,Link Real Estate Investment Trust,Real Estate,REIT - Retail,PNK,4.78,2506,12519574528,0.1222,4.99,4.93,-1.7187,-9.51,-6.2,-34.73,-18.44,0.0,51.5,4,5.88,4.2,-18.71,0.0,,8,,20260606
+DSECF,Daiwa Securities Group Inc.,Financial Services,Capital Markets,PNK,9.78,26,8992787456,0.0456,8.51,8.02,27.817,13.06,12.77,32.2,20.62,0.0,75.0,2,9.78,6.16,-0.0,0.0,,8,,20260606
+TMTNF,Toromont Industries Ltd.,Industrials,Industrial Distribution,PNK,158.42,5112,12916536320,1.0091,153.56,129.74,4.8175,-8.62,24.11,64.21,31.97,0.0,76.25,2,164.63,87.25,-3.77,0.0,,8,,20260606
+AMIGF,Admiral Group plc,Financial Services,Insurance - Property & Casualty,PNK,43.53,114,13011204096,0.1789,42.68,41.76,4.7583,7.07,-6.07,-27.94,-11.54,0.0,75.0,2,49.53,37.75,-12.11,0.0,,8,,20260606
+TYL,"Tyler Technologies, Inc.",Technology,Software - Application,NYSE,312.07,598787,12838733824,13.0711,325.95,419.86,-1.0619,-26.68,-40.89,-71.19,-49.46,0.0,22.0,4,621.34,283.72,-49.77,0.0,,8,,20260606
+SANM,Sanmina Corporation,Technology,Electronic Components,NASDAQ,252.08,840546,13510917120,14.9387,202.95,157.13,3.2888,94.95,51.63,161.37,106.36,0.0,92.5,2,288.68,85.66,-12.68,0.0,,8,,20260606
+CHUEF,"Chubu Electric Power Company, Incorporated",Utilities,Utilities - Diversified,PNK,17.45,154,13181618176,0.1131,15.16,-3.26,20.2278,-202.77,-213.63,-46.19,-143.94,0.0,75.0,2,17.45,10.17,0.0,0.0,,8,,20260606
+BDWBF,Budweiser Brewing Company APAC Limited,Consumer Defensive,Beverages - Brewers,PNK,0.92,4090,12171387904,0.0125,0.94,1.01,-1.4191,-15.59,-26.06,-37.74,-28.11,0.0,25.25,4,1.23,0.88,-25.2,0.0,,8,,20260606
+ONON,On Holding AG,Consumer Cyclical,Footwear & Accessories,NYSE,37.08,6913165,12359867392,1.4658,35.99,41.9,0.7457,-20.56,-29.68,-61.29,-40.04,0.0,38.75,3,58.25,31.41,-36.34,0.0,,8,,20260606
+TMTNY,Toromont Industries Ltd.,Industrials,Industrial Distribution,PNK,31.91,17244,15784885248,5.1945,31.43,31.91,0.092,-1.29,0.03,0.03,-0.3,0.0,73.25,3,45.85,24.0,-30.4,0.0,,8,,20260606
+IESC,"IES Holdings, Inc.",Industrials,Engineering & Construction,NASDAQ,720.72,211723,14359543808,37.5394,606.11,463.71,3.053,57.36,63.41,141.8,93.26,0.0,91.25,2,739.98,259.3,-2.6,0.0,,8,,20260606
+IAUGY,Insurance Australia Group Limited,Financial Services,Insurance - Property & Casualty,PNK,26.66,731,12465965056,0.4734,26.44,25.86,0.4745,11.89,-0.98,-27.94,-8.55,0.0,77.5,2,29.28,21.58,-8.95,0.0,,8,,20260606
+TRMB,Trimble Inc.,Technology,Scientific & Technical Instruments,NASDAQ,54.19,2123155,12632312832,2.0657,62.25,72.72,-3.9023,-32.67,-42.65,-49.57,-42.92,0.0,11.25,4,87.5,52.8,-38.07,0.0,,8,,20260606
+TME,Tencent Music Entertainment Group,Communication Services,Internet Content & Information,NYSE,9.08,11646000,14866446336,0.3831,9.26,16.35,-0.4704,-41.54,-57.54,-72.51,-59.53,0.0,25.75,4,26.7,8.44,-65.99,0.0,,8,,20260606
+APLD,Applied Digital Corporation,Technology,Information Technology Services,NASDAQ,39.62,21877955,11322188800,4.0699,36.16,29.99,0.8495,47.61,26.49,173.84,90.71,0.0,86.25,2,50.73,9.02,-21.89,0.0,,8,,20260606
+FNF,"Fidelity National Financial, Inc.",Financial Services,Insurance - Specialty,NYSE,47.4,1900317,12758067200,1.1922,48.62,52.41,-1.0231,-14.3,-22.25,-30.84,-23.7,0.0,59.0,4,59.21,42.78,-19.94,0.0,,8,,20260606
+RXLSF,Rexel S.A.,Technology,Electronics & Computer Distribution,PNK,42.66,157,12520720384,0.3099,41.96,38.26,2.2555,-10.93,0.37,26.89,8.15,0.0,75.0,2,46.33,27.46,-7.92,0.0,,8,,20260606
+OLYMY,Olympus Corporation,Healthcare,Medical Devices,PNK,11.81,131660,13004020736,0.4111,10.34,11.54,3.5839,27.68,-21.15,-38.17,-15.75,0.0,90.0,3,13.84,8.08,-14.67,0.0,,8,,20260606
+SWGAY,The Swatch Group AG,Consumer Cyclical,Luxury Goods,PNK,13.26,97009,14008505344,0.3648,11.95,10.73,3.5951,10.62,20.69,32.57,22.93,0.0,88.75,2,13.97,7.89,-5.08,0.0,,8,,20260606
+ERFSF,Eurofins Scientific SE,Healthcare,Diagnostics & Research,PNK,77.22,4261,13490822144,4.4278,73.31,74.36,0.8835,-13.34,1.34,-10.63,-7.12,0.0,60.0,3,86.2,63.96,-10.42,0.0,,8,,20260606
+ONTO,Onto Innovation Inc.,Technology,Semiconductor Equipment & Materials,NYSE,253.24,988693,12597061632,15.6411,264.41,186.56,-0.7139,30.92,51.7,138.39,81.18,0.0,74.5,3,316.0,89.4,-19.86,0.0,,8,,20260606
+SWGAF,The Swatch Group AG,Consumer Cyclical,Luxury Goods,PNK,263.85,39,13719151616,3.2232,233.84,212.73,9.3096,13.27,20.47,35.42,24.65,0.0,80.0,2,285.61,161.0,-7.62,0.0,,8,,20260606
+IAUGF,Insurance Australia Group Limited,Financial Services,Insurance - Property & Casualty,PNK,5.57,643,13010708480,0.0193,5.32,5.36,12.566,-2.77,-5.97,-16.54,-9.4,0.0,75.0,3,5.87,4.2,-5.19,0.0,,8,,20260606
+SNN,Smith & Nephew plc,Healthcare,Medical Devices,NYSE,30.61,1054746,13022737408,0.6238,31.38,33.49,-1.2404,-19.42,-14.18,-18.14,-17.07,0.0,36.5,4,38.79,28.4,-21.09,0.0,,8,,20260606
+NEXOF,"NEXON Co., Ltd.",Communication Services,Electronic Gaming & Multimedia,PNK,15.95,15,20177522688,0.1011,18.05,21.05,-20.7621,-48.88,-47.92,-36.32,-43.52,0.0,0.0,4,27.04,15.95,-41.01,0.0,,8,,20260606
+SYIEY,Symrise AG,Basic Materials,Specialty Chemicals,PNK,21.98,79066,12381123584,0.4619,21.65,21.32,0.7132,-5.06,-0.81,-53.67,-23.02,0.0,88.75,2,30.24,19.31,-27.31,0.0,,8,,20260606
+BBY,"Best Buy Co., Inc.",Consumer Cyclical,Specialty Retail,NYSE,71.54,4369928,15073133568,2.7548,63.09,68.48,3.0688,-1.07,-9.52,-16.71,-10.29,0.0,90.0,3,84.99,55.1,-15.83,0.0,,8,,20260606
+SOLS,"Solstice Advanced Materials, Inc.",Basic Materials,Specialty Chemicals,NASDAQ,81.02,2487504,12866321408,3.9576,81.34,81.02,-0.0818,2.37,62.17,57.21,45.24,0.0,74.5,3,90.8,40.43,-10.77,0.0,,8,,20260606
+ALLY,Ally Financial Inc.,Financial Services,Credit Services,NYSE,42.77,3517671,13109991424,1.1103,42.32,41.1,0.4079,3.12,-4.61,-0.53,-1.05,0.0,88.75,2,47.27,34.73,-9.52,0.0,,8,,20260606
+AEG,Aegon Ltd.,Financial Services,Insurance - Diversified,NYSE,8.24,5387533,12463209472,0.1492,8.08,7.73,1.1019,6.89,-3.63,-6.04,-1.96,0.0,87.5,2,8.81,6.64,-6.47,0.0,,8,,20260606
+OSCUF,"Japan Exchange Group, Inc.",Financial Services,Financial Data & Stock Exchanges,PNK,13.65,12873,14031214592,0.4938,12.38,11.89,2.5758,-3.95,2.7,11.37,4.5,0.0,55.0,2,14.35,9.3,-4.88,0.0,,8,,20260606
+IGIFF,IGM Financial Inc.,Financial Services,Asset Management,PNK,57.97,19726,13475399680,0.8799,53.59,44.81,4.9804,6.17,31.93,53.94,34.29,0.0,83.75,2,58.15,31.16,-0.31,0.0,,8,,20260606
+PEN,"Penumbra, Inc.",Healthcare,Medical Devices,NYSE,320.53,526412,12606901248,2.6228,326.65,305.04,-2.3349,-15.34,3.73,0.35,-2.39,0.0,44.5,3,362.41,221.26,-11.56,0.0,,8,,20260606
+ARXCY,Arc Resources Ltd.,Energy,Oil & Gas E&P,PNK,22.24,554,12577479680,0.2837,21.38,22.24,3.0495,5.2,0.05,0.05,1.34,0.0,76.25,3,24.45,12.58,-9.03,0.0,,8,,20260606
+SMMT,Summit Therapeutics Inc.,Healthcare,Biotechnology,NASDAQ,14.77,4134823,11463922688,1.2723,18.9,18.48,-3.246,-12.24,-28.06,-49.67,-32.75,0.0,37.5,4,30.98,13.83,-52.32,0.0,,8,,20260606
+AETUF,ARC Resources Ltd.,Energy,Oil & Gas E&P,PNK,22.94,181815,12972478464,0.6046,21.36,19.07,2.6211,10.56,14.95,-21.33,-0.66,0.0,88.75,2,23.86,15.5,-3.86,0.0,,8,,20260606
+LFABF,Lifco AB (publ),Industrials,Conglomerates,PNK,28.36,44,12881573888,0.1901,30.12,32.31,-9.2725,-20.58,-23.17,-48.18,-32.52,0.0,0.0,4,43.0,28.36,-34.05,0.0,,8,,20260606
+RPM,RPM International Inc.,Basic Materials,Specialty Chemicals,NYSE,104.96,973811,13442823168,2.9487,102.4,108.31,0.8693,-6.7,-8.38,-32.55,-17.63,0.0,49.5,3,129.12,92.92,-18.71,0.0,,8,,20260606
+MSLOY,"Mitsui O.S.K. Lines, Ltd.",Industrials,Marine Shipping,PNK,17.39,46680,11945921536,0.3996,19.14,16.64,-4.3774,-19.95,10.14,-29.71,-13.32,0.0,37.5,3,22.59,13.71,-23.02,0.0,,8,,20260606
+ENLT,Enlight Renewable Energy Ltd,Utilities,Utilities - Renewable,NASDAQ,90.98,189390,12675407872,5.0109,85.82,55.69,1.0295,7.69,108.47,330.63,172.14,0.0,87.5,2,108.65,18.22,-16.26,0.0,,8,,20260606
+MKC,"McCormick & Company, Incorporated",Consumer Defensive,Packaged Foods,NYSE,47.24,4286761,12700152832,1.402,49.37,61.15,-1.5175,-36.5,-33.61,-58.8,-44.41,0.0,23.25,4,78.16,44.82,-39.56,0.0,,8,,20260606
+SKHSF,"Sekisui House, Ltd.",Consumer Cyclical,Residential Construction,OID,18.95,1406,12286707712,0.9827,21.51,22.28,-2.6012,-31.43,-26.49,-40.63,-33.38,0.0,2.5,4,25.27,19.54,-24.99,0.0,,8,,20260606
+GFL,GFL Environmental Inc.,Industrials,Waste Management,NYSE,35.51,2282422,12818089984,1.0611,38.52,43.11,-2.8399,-30.31,-29.34,-53.16,-39.11,0.0,6.25,4,51.51,33.33,-31.06,0.0,,8,,20260606
+PAYP,PayPay Corporation,Technology,Software - Infrastructure,NASDAQ,15.08,1922410,10207252480,1.0741,20.08,15.08,-4.6562,-28.0,-28.0,-28.0,-28.0,0.0,48.25,3,24.89,14.97,-39.41,0.0,,8,,20260606
+VARRY,Vår Energi ASA,Energy,Oil & Gas E&P,PNK,10.38,12161,12569405440,0.5024,9.7,7.34,1.3491,21.12,64.37,62.48,52.8,0.0,85.0,2,10.92,6.03,-4.95,0.0,,8,,20260606
+RGC,Regencell Bioscience Holdings Limited,Healthcare,Drug Manufacturers - Specialty & Generic,NCM,19.99,131422,9884832768,2.0167,27.42,22.24,-3.6855,-24.38,45.19,-4.63,7.87,0.0,32.5,3,83.6,9.39,-76.09,0.0,,8,,20260606
+SYIEF,Symrise AG,Basic Materials,Specialty Chemicals,PNK,91.31,720,12762585088,1.144,86.76,85.76,3.9783,-7.69,5.05,-53.33,-21.49,0.0,75.0,2,123.57,76.31,-26.11,0.0,,8,,20260606
+NDEKF,Nitto Denko Corporation,Basic Materials,Specialty Chemicals,PNK,17.72,44,11877464064,0.1867,20.08,22.67,-12.6192,-36.15,-35.83,-30.8,-33.9,0.0,1.25,4,25.7,17.72,-31.05,0.0,,8,,20260606
+DVA,DaVita Inc.,Healthcare,Medical Care Facilities,NYSE,192.16,878912,12333790208,6.0075,170.76,139.34,3.5616,17.47,54.04,15.34,29.42,0.0,85.0,2,202.69,101.0,-5.2,0.0,,8,,20260606
+JPXGY,"Japan Exchange Group, Inc.",Financial Services,Financial Data & Stock Exchanges,PNK,12.8,280466,13157477376,0.4191,11.92,11.45,2.0946,-11.11,3.49,-11.99,-6.35,0.0,66.25,2,14.79,9.45,-13.46,0.0,,8,,20260606
+TOL,"Toll Brothers, Inc.",Consumer Cyclical,Residential Construction,NYSE,137.91,1168957,12890586112,4.0522,138.13,140.0,-0.0536,-16.43,-11.47,3.23,-6.83,0.0,32.75,4,168.36,104.09,-18.09,0.0,,8,,20260606
+SEGXF,SEGRO Plc,Real Estate,REIT - Industrial,PNK,10.01,1225,13541648384,0.1801,9.46,9.52,3.0285,-16.81,-7.67,-19.76,-14.79,0.0,50.0,3,11.54,8.18,-13.26,0.0,,8,,20260606
+TIAJF,Telecom Italia S.p.A.,Communication Services,Telecom Services,PNK,0.96,279,20455303168,0.0019,0.91,0.73,29.2475,1.63,32.57,89.94,47.79,0.0,76.25,2,0.96,0.44,0.0,0.0,,8,,20260606
+TIIAY,Telecom Italia S.p.A.,Communication Services,Telecom Services,PNK,8.59,47177,18284189696,0.1836,7.92,6.56,3.6349,12.17,37.41,74.61,45.98,0.0,92.5,2,8.59,4.29,0.0,0.0,,8,,20260606
+MXUBY,MIXUE GROUP,Unknown,Unknown,PNK,8.5,1641,0,0.5198,9.58,8.5,-2.0725,-40.65,-47.45,-79.23,-58.46,0.0,32.5,3,22.0,7.81,-61.36,0.0,,8,,20260606
+NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,NYSE,5.36,42537693,13430375424,0.3206,6.05,5.87,-2.1431,2.14,3.44,17.75,8.84,0.0,44.5,3,8.02,3.34,-33.17,0.0,,8,,20260606
+SNNUF,Smith & Nephew plc,Healthcare,Medical Devices,PNK,14.91,517,12686639104,0.0463,15.52,16.31,-13.069,-26.95,-15.61,-24.21,-21.89,0.0,24.0,4,18.5,14.53,-19.41,0.0,,8,,20260606
+DSEEY,Daiwa Securities Group Inc.,Financial Services,Capital Markets,PNK,9.74,29549,13496110080,0.3883,9.53,8.97,0.5409,-12.74,6.34,16.26,5.54,0.0,65.0,2,11.24,6.48,-13.35,0.0,,8,,20260606
+CRBG,"Corebridge Financial, Inc.",Financial Services,Asset Management,NYSE,26.86,6127280,12267851776,0.9258,26.27,28.99,0.6336,-2.9,-15.93,-39.89,-22.26,0.0,74.5,3,36.57,22.19,-26.55,0.0,,8,,20260606
+CHKIF,China Southern Airlines Company Limited,Industrials,Airlines,PNK,0.44,915,7973225984,0.0057,0.5,0.6,-11.2255,-52.76,-42.97,-38.67,-43.7,0.0,0.0,4,0.82,0.35,-46.34,0.0,,8,,20260606
+DPMAY,Diploma PLC,Industrials,Industrial Distribution,PNK,23.89,43250,12814102528,1.3445,22.52,19.16,1.0208,23.63,23.17,26.28,24.53,0.0,87.5,2,25.97,14.84,-8.01,0.0,,8,,20260606
+STRNY,Severn Trent PLC,Utilities,Utilities - Regulated Water,PNK,40.57,16076,12242021376,0.9621,41.36,38.13,-0.818,-15.33,-2.42,-10.68,-8.95,0.0,50.75,3,45.46,33.73,-10.76,0.0,,8,,20260606
+AEOXF,Aeroports de Paris SA,Industrials,Airports & Air Services,PNK,129.04,36,12709624832,2.2254,123.91,129.34,2.3041,-6.5,-16.25,-25.47,-17.5,0.0,63.25,3,159.48,112.58,-19.09,0.0,,8,,20260606
+HII,"Huntington Ingalls Industries, Inc.",Industrials,Aerospace & Defense,NYSE,293.04,521995,11546956800,9.9189,350.94,342.49,-5.8377,-41.41,-12.99,7.38,-11.95,0.0,10.0,4,460.0,215.05,-36.3,0.0,,8,,20260606
+SCRNY,"SCREEN Holdings Co., Ltd.",Technology,Semiconductor Equipment & Materials,PNK,13.89,347,13129880576,0.2643,13.89,13.89,0.0,-2.84,-2.84,-2.84,-2.84,0.0,62.0,3,16.6,11.38,-16.34,0.0,,8,,20260606
+AIZ,"Assurant, Inc.",Financial Services,Insurance - Property & Casualty,NYSE,257.35,396344,12751084544,5.4471,235.82,225.68,3.9531,5.46,7.76,2.97,5.27,0.0,90.0,2,260.97,183.39,-1.39,0.0,,8,,20260606
+DINRF,"SCREEN Holdings Co., Ltd.",Technology,Semiconductor Equipment & Materials,PNK,67.59,47,12780445696,0.3285,62.04,9.86,16.8839,-595.33,-957.55,1637.38,170.98,0.0,75.0,2,73.31,31.92,-7.81,0.0,,8,,20260606
+EXEL,"Exelixis, Inc.",Healthcare,Biotechnology,NASDAQ,52.7,2646884,13246413824,1.6072,46.83,42.83,3.6496,16.84,11.29,-0.36,8.02,0.0,87.5,2,52.98,33.76,-0.53,0.0,,8,,20260606
+DINO,HF Sinclair Corporation,Energy,Oil & Gas Refining & Marketing,NYSE,71.39,2491644,12869863424,2.5471,65.4,54.79,2.3516,17.85,31.93,82.79,48.76,0.0,87.5,2,74.73,35.29,-4.47,0.0,,8,,20260606
+AEGOF,Aegon Ltd.,Financial Services,Insurance - Diversified,PNK,8.39,193,10663304192,0.031,7.6,7.63,25.5326,1.19,7.29,0.51,3.05,0.0,75.0,3,8.5,6.8,-1.29,0.0,,8,,20260606
+RNR,RenaissanceRe Holdings Ltd.,Financial Services,Insurance - Reinsurance,NYSE,288.48,347195,12298779648,7.4792,299.44,276.8,-1.4655,-13.3,-0.02,-7.78,-6.45,0.0,47.0,3,318.2,231.17,-9.34,0.0,,8,,20260606
+FUTU,Futu Holdings Limited,Financial Services,Capital Markets,NASDAQ,92.33,3332339,12944157696,8.6085,138.14,158.55,-5.322,-44.6,-52.72,-41.53,-46.21,0.0,11.25,4,202.53,80.5,-54.41,0.0,,8,,20260606
+GGG,Graco Inc.,Industrials,Specialty Industrial Machinery,NYSE,74.34,1274093,12338073600,1.416,80.43,83.71,-4.2981,-25.76,-18.28,-35.81,-27.16,0.0,7.5,4,95.69,73.48,-22.31,0.0,,8,,20260606
+RXEEY,Rexel S.A.,Technology,Electronics & Computer Distribution,PNK,43.27,20809,12699756544,1.3391,41.53,37.43,1.3015,-1.17,6.85,31.16,14.57,0.0,83.75,2,47.13,27.94,-8.19,0.0,,8,,20260606
+CNH,CNH Industrial N.V.,Industrials,Farm & Heavy Construction Machinery,NYSE,10.75,15837958,13329468416,0.414,10.58,10.62,0.4109,-12.65,5.79,-37.93,-16.31,0.0,61.25,3,14.27,9.0,-24.67,0.0,,8,,20260606
+NDEKY,Nitto Denko Corporation,Basic Materials,Specialty Chemicals,PNK,19.16,142823,12842676224,0.5812,19.67,22.52,-0.8822,-19.44,-32.38,-24.73,-26.09,0.0,32.0,4,26.48,16.43,-27.64,0.0,,8,,20260606
+NTNX,"Nutanix, Inc.",Technology,Software - Infrastructure,NASDAQ,53.64,3884957,14499992576,2.4933,43.44,53.14,4.0908,24.68,4.58,-55.65,-14.48,0.0,91.25,3,82.42,34.01,-34.92,0.0,,8,,20260606
+IONS,"Ionis Pharmaceuticals, Inc.",Healthcare,Biotechnology,NASDAQ,74.48,1936158,12308756480,2.2378,74.96,73.67,-0.2133,-9.4,-17.45,86.95,26.32,0.0,73.25,3,86.74,34.78,-14.13,0.0,,8,,20260606
+PNW,Pinnacle West Capital Corporation,Utilities,Utilities - Regulated Electric,NYSE,103.06,1176465,12489548800,2.0136,101.0,92.81,1.0246,-8.49,10.02,-5.52,-0.83,0.0,90.0,2,104.92,85.32,-1.77,0.0,,8,,20260606
+HAS,"Hasbro, Inc.",Consumer Cyclical,Leisure,NASDAQ,84.18,1872736,11910685696,2.695,91.29,84.81,-2.6381,-20.17,-4.84,7.8,-3.62,0.0,17.0,4,106.98,65.06,-21.31,0.0,,8,,20260606
+DKNG,DraftKings Inc.,Consumer Cyclical,Gambling,NASDAQ,24.93,12855395,12368491520,1.208,23.77,30.83,0.9623,-10.87,-36.3,-53.63,-36.87,0.0,60.0,3,48.78,20.46,-48.89,0.0,,8,,20260606
+TDHOY,"T&D Holdings, Inc.",Financial Services,Insurance - Life,PNK,13.71,2685,13157920768,0.409,12.42,12.11,3.1628,-2.1,8.02,-13.16,-2.98,0.0,83.75,2,13.92,9.86,-1.51,0.0,,8,,20260606
+SBHGF,"SBI Holdings, Inc.",Financial Services,Financial Conglomerates,PNK,18.0,12314,11634522112,1.2794,19.17,28.99,-0.9112,-16.26,-24.43,-69.97,-40.6,0.0,10.0,4,51.44,16.6,-65.01,0.0,,8,,20260606
+RYKKY,"Ryohin Keikaku Co., Ltd.",Consumer Cyclical,Department Stores,PNK,11.29,4471,12013574144,0.7679,11.46,12.42,-0.2201,-7.66,5.4,-98.48,-39.42,0.0,35.25,4,51.23,8.76,-77.96,0.0,,8,,20260606
+SWKS,"Skyworks Solutions, Inc.",Technology,Semiconductors,NASDAQ,73.57,4042858,11065366528,4.3497,65.27,65.19,1.9073,25.4,-0.2,-17.51,-0.72,0.0,90.0,2,90.9,51.93,-19.06,0.0,,8,,20260606
+SBMFF,Sino Biopharmaceutical Limited,Healthcare,Biotechnology,PNK,0.63,223,13874929664,0.0041,0.72,0.87,-21.6706,-36.07,-39.13,-17.01,-29.52,0.0,0.0,4,1.24,0.55,-48.95,0.0,,8,,20260606
+MEDP,"Medpace Holdings, Inc.",Healthcare,Diagnostics & Research,NASDAQ,454.25,374626,12973238272,16.2237,454.79,512.64,-0.0333,-13.46,-29.66,20.07,-5.72,0.0,28.25,4,628.92,293.2,-27.77,0.0,,8,,20260606
+AEIS,"Advanced Energy Industries, Inc.",Industrials,Electrical Equipment & Parts,NASDAQ,294.81,782965,11795540992,18.7669,345.94,256.67,-2.7242,-8.57,29.75,120.74,56.56,0.0,60.0,3,397.44,118.77,-25.82,0.0,,8,,20260606
+UDR,"UDR, Inc.",Real Estate,REIT - Residential,NYSE,39.2,4159036,14524213248,0.7551,36.01,35.82,4.2255,-3.44,3.88,-25.31,-9.63,0.0,90.0,2,42.22,32.94,-7.15,0.0,,8,,20260606
+DY,"Dycom Industries, Inc.",Industrials,Engineering & Construction,NYSE,466.28,474001,13997072384,27.2572,417.52,351.27,1.7887,20.59,23.71,72.03,42.26,0.0,86.25,2,566.47,229.97,-17.69,0.0,,8,,20260606
+BLMOY,BLMOY,Industrials,Building Products & Equipment,PNK,11.55,548,14206465024,0.2518,9.44,11.55,8.3636,19.32,17.56,17.56,18.0,0.0,68.25,3,11.55,7.68,0.0,0.0,,8,,20260606
+ELS,"Equity LifeStyle Properties, Inc.",Real Estate,REIT - Residential,NYSE,62.43,1445442,12509964288,1.0971,63.04,62.11,-0.5585,-16.46,-6.79,-23.04,-15.71,0.0,52.0,3,69.0,58.15,-9.52,0.0,,8,,20260606
+OCPNF,Olympus Corporation,Healthcare,Medical Devices,PNK,11.18,3690,12310326272,0.0617,9.94,11.4,20.1027,4.43,-25.72,-41.93,-24.67,0.0,62.0,3,14.0,8.0,-20.14,0.0,,8,,20260606
+RICFY,Recordati Industria Chimica e Farmaceutica S.p.A.,Healthcare,Drug Manufacturers - General,PNK,14.98,5287,12191497216,0.6883,13.17,13.82,2.6335,5.99,0.86,-25.55,-8.42,0.0,51.25,3,17.16,9.29,-12.7,0.0,,8,,20260606
+ACCYY,Accor SA,Consumer Cyclical,Lodging,PNK,10.74,133125,12680085504,0.273,9.89,10.1,3.0958,-4.53,-10.4,-21.03,-13.19,0.0,88.75,3,12.05,8.71,-10.87,0.0,,8,,20260606
+PTAIY,PT Astra International Tbk,Industrials,Conglomerates,PNK,5.45,213782,10917389312,0.3447,6.9,7.17,-4.2068,-35.16,-40.5,-29.55,-34.79,0.0,5.0,4,8.79,5.05,-38.0,0.0,,8,,20260606
+ATGFF,AltaGas Ltd.,Energy,Oil & Gas Midstream,OQX,39.83,57719,12409435136,0.4355,37.04,32.35,6.4072,4.95,17.36,14.41,13.08,0.0,85.0,2,40.16,27.32,-0.82,0.0,,8,,20260606
+VICR,Vicor Corporation,Technology,Electronic Components,NASDAQ,271.04,906304,12354384896,26.9144,247.59,143.84,0.8714,56.63,183.55,488.17,273.67,0.0,86.25,2,361.89,41.76,-25.1,0.0,,8,,20260606
+CCRDF,"Yokohama Financial Group, Inc.",Financial Services,Banks - Regional,PNK,10.35,41,11503792128,0.1024,9.17,-2.13,11.5321,-202.4,-221.66,-12.42,-133.15,0.0,75.0,2,11.5,6.21,-10.0,0.0,,8,,20260606
+AVY,Avery Dennison Corporation,Consumer Cyclical,Packaging & Containers,NYSE,155.18,671177,11869776896,3.7105,163.24,171.25,-2.1723,-23.05,-19.08,-36.4,-27.0,0.0,34.0,4,199.54,152.68,-22.23,0.0,,8,,20260606
+SAPIF,Saputo Inc.,Consumer Defensive,Packaged Foods,PNK,30.73,117569,12453463040,0.5535,30.04,28.19,1.2513,-13.72,-1.93,31.07,8.33,0.0,55.0,2,32.49,18.74,-5.42,0.0,,8,,20260606
+PRBKY,PRBKY,Financial Services,Banks - Regional,OID,10.23,28620,13524195328,0.606,9.57,10.23,1.0931,7.29,7.29,7.29,7.29,0.0,70.75,3,11.6,7.83,-11.81,0.0,,8,,20260606
+COO,"The Cooper Companies, Inc.",Healthcare,Medical Instruments & Supplies,NASDAQ,67.34,2358882,13139003392,1.8956,64.91,72.84,1.2811,-22.02,-19.83,-25.3,-22.57,0.0,53.25,3,89.83,58.89,-25.04,0.0,,8,,20260606
+OROVY,Orient Overseas (International) Limited,Industrials,Marine Shipping,PNK,89.71,174,11848417280,0.1762,88.55,84.38,6.5759,-17.61,-3.81,-22.89,-14.89,0.0,50.0,3,98.7,76.25,-9.11,0.0,,8,,20260606
+ACRFF,Accor SA,Consumer Cyclical,Lodging,PNK,51.65,112,12196024320,0.2898,49.9,51.6,6.0326,-14.97,-12.6,-29.92,-20.12,0.0,50.0,3,59.55,45.05,-13.27,0.0,,8,,20260606
+CPYYY,Centrica plc,Utilities,Utilities - Independent Power Producers,PNK,10.35,94004,11718767616,0.2804,11.18,9.83,-2.9483,-10.53,5.73,-9.35,-4.36,0.0,41.25,3,12.15,7.97,-14.81,0.0,,8,,20260606
+HKTTY,HKT Trust and HKT Limited,Communication Services,Telecom Services,PNK,14.19,198,10756259840,0.4003,14.47,14.16,-0.6997,-17.35,-0.97,-28.25,-15.98,0.0,64.5,3,18.06,12.61,-21.43,0.0,,8,,20260606
+ZBRA,Zebra Technologies Corporation,Technology,Communication Equipment,NASDAQ,232.11,927441,11056186368,10.2472,231.4,256.32,0.0694,-4.32,-18.96,-45.43,-25.89,0.0,69.5,3,352.66,199.05,-34.18,0.0,,8,,20260606
+TFII,TFI International Inc.,Industrials,Trucking,NYSE,159.5,374847,13108672512,4.0457,135.38,108.8,5.9609,34.88,63.63,59.13,54.65,0.0,93.75,2,161.04,80.63,-0.96,0.0,,8,,20260606
+SAIA,"Saia, Inc.",Industrials,Trucking,NASDAQ,466.51,485328,12410062848,19.1478,428.26,352.39,1.9978,19.67,34.54,50.81,37.33,0.0,85.0,2,485.0,248.37,-3.81,0.0,,8,,20260606
+IMPUF,Impala Platinum Holdings Limited,Basic Materials,Other Precious Metals & Mining,OQX,13.15,307,11810783232,0.209,14.5,14.14,-6.4429,-34.07,3.63,54.17,14.42,0.0,13.25,4,23.71,7.2,-44.54,0.0,,8,,20260606
+PAC,"Grupo Aeroportuario del Pacífico, S.A.B. de C.V.",Industrials,Airports & Air Services,NYSE,228.8,129819,13614016512,8.0613,246.33,247.11,-2.1745,-13.59,-9.61,-24.79,-16.68,0.0,47.0,3,300.41,206.91,-23.84,0.0,,8,,20260606
+BLHWF,BELIMO Holding AG,Industrials,Building Products & Equipment,PNK,1049.22,1,12905372672,6.7215,889.05,978.99,23.8296,-9.14,-9.95,-14.91,-11.73,0.0,75.0,3,1102.0,600.0,-4.79,0.0,,8,,20260606
+DLVHF,Delivery Hero SE,Consumer Cyclical,Internet Retail,PNK,42.3,3119,12848588800,1.3465,27.18,26.17,11.2293,57.71,78.56,35.36,56.07,0.0,77.5,2,46.49,17.48,-9.01,0.0,,8,,20260606
+AXSM,"Axsome Therapeutics, Inc.",Healthcare,Biotechnology,NASDAQ,232.32,701007,11955133440,8.7341,203.18,162.3,3.3359,33.12,48.71,89.65,61.19,0.0,86.25,2,242.41,96.09,-4.16,0.0,,8,,20260606
+APTV,Aptiv PLC,Consumer Cyclical,Auto Parts,NYSE,68.6,3310534,14517168128,3.1833,60.81,74.91,2.4464,-15.63,-20.61,-21.05,-19.54,0.0,53.25,3,88.93,51.68,-22.86,0.0,,8,,20260606
+FIVE,"Five Below, Inc.",Consumer Cyclical,Specialty Retail,NASDAQ,190.46,1200455,10531747840,10.1874,224.14,188.94,-3.3058,-21.52,8.28,31.91,10.28,0.0,35.0,3,251.63,121.11,-24.31,0.0,,8,,20260606
+GL,Globe Life Inc.,Financial Services,Insurance - Life,NYSE,159.18,533112,12359492608,3.356,150.52,141.43,2.5795,2.23,13.74,8.28,8.68,0.0,90.0,2,159.36,116.73,-0.11,0.0,,8,,20260606
+NYT,The New York Times Company,Communication Services,Publishing,NYSE,76.88,2078666,12444004352,2.084,79.05,69.28,-1.0414,-14.15,11.93,14.15,6.3,0.0,49.5,3,87.1,51.03,-11.73,0.0,,8,,20260606
+VIAV,Viavi Solutions Inc.,Technology,Communication Equipment,NASDAQ,47.56,6483760,11732369408,4.0674,46.27,25.84,0.3183,60.6,163.16,386.77,226.96,0.0,88.75,2,60.43,9.08,-21.3,0.0,,8,,20260606
+YSHLF,Yangzijiang Shipbuilding (Holdings) Ltd.,Industrials,Aerospace & Defense,PNK,2.63,4950,10364806144,0.0816,3.15,2.78,-6.3789,-28.46,-6.52,32.88,3.76,0.0,15.75,4,3.64,1.62,-27.75,0.0,,8,,20260606
+RCDTF,Recordati Industria Chimica e Farmaceutica S.p.A.,Healthcare,Drug Manufacturers - General,PNK,60.0,12,12207774720,0.1867,56.61,61.52,18.1453,-3.28,-15.59,-15.69,-12.55,0.0,62.0,3,65.44,55.88,-8.31,0.0,,8,,20260606
+NRDXF,Nordex SE,Industrials,Specialty Industrial Machinery,PNK,51.18,123,12123113472,0.2552,53.28,38.35,-8.2225,-6.23,55.97,219.7,105.91,0.0,63.25,3,56.8,14.7,-9.89,0.0,,8,,20260606
+GPAEF,"Grupo Aeroportuario del Pacífico, S.A.B. de C.V.",Industrials,Airports & Air Services,PNK,23.22,180,13816322048,0.1666,24.64,24.81,-8.5218,-12.63,-12.98,29.1,3.94,0.0,12.0,4,29.55,21.14,-21.42,0.0,,8,,20260606
+IMPUY,Impala Platinum Holdings Limited,Basic Materials,Other Precious Metals & Mining,OQX,13.31,197796,11954489344,0.7484,14.78,14.11,-1.9704,-28.65,-2.72,60.65,16.15,0.0,23.25,4,23.5,7.58,-43.36,0.0,,8,,20260606
+PNR,Pentair plc,Industrials,Specialty Industrial Machinery,NYSE,73.15,1909498,11821445120,2.0272,81.06,98.02,-3.9008,-30.39,-39.37,-51.16,-41.84,0.0,11.25,4,113.95,69.93,-35.81,0.0,,8,,20260606
+QXO,"QXO, Inc.",Industrials,Industrial Distribution,NYSE,15.76,13221380,11430812672,0.9504,19.22,20.5,-3.6428,-37.7,-29.66,-33.5,-33.21,0.0,10.0,4,27.61,15.45,-42.92,0.0,,8,,20260606
+FSPKF,Fisher & Paykel Healthcare Corporation Limited,Healthcare,Medical Instruments & Supplies,PNK,20.55,188,14241759232,0.0636,22.23,21.65,-26.4102,-26.19,-11.77,-28.1,-21.91,0.0,12.0,4,25.69,19.01,-20.01,0.0,,8,,20260606
+JHX,James Hardie Industries plc,Basic Materials,Building Materials,NYSE,22.66,7252485,13149927424,0.8964,20.8,20.95,2.0753,-2.85,6.33,-36.56,-13.12,0.0,91.25,3,29.83,16.46,-24.04,0.0,,8,,20260606
+JHIUF,James Hardie Industries plc,Basic Materials,Building Materials,PNK,19.93,1926,11565669376,0.2124,20.19,21.13,-1.2402,-32.18,-22.19,-41.81,-32.54,0.0,24.0,4,28.28,17.58,-29.53,0.0,,8,,20260606
+SITIF,SITC International Holdings Company Limited,Industrials,Marine Shipping,PNK,4.32,174,11636963328,0.0338,3.87,2.84,13.4831,35.15,94.35,214.58,127.65,0.0,75.0,2,4.52,3.04,-4.31,0.0,,8,,20260606
+DT,"Dynatrace, Inc.",Technology,Software - Application,NYSE,42.19,6905198,12297361408,1.8771,37.98,42.45,2.2411,-2.58,-13.54,-47.2,-24.27,0.0,75.75,3,57.55,31.64,-26.69,0.0,,8,,20260606
+CPYYF,Centrica plc,Utilities,Utilities - Independent Power Producers,PNK,2.52,8247,11413060608,0.0448,2.72,2.43,-4.4227,-10.63,0.28,-9.98,-6.55,0.0,50.0,3,2.9,2.0,-13.1,0.0,,8,,20260606
+FIG,"Figma, Inc.",Technology,Software - Application,NYSE,21.75,17542319,11492190208,1.8241,20.57,36.29,0.6459,-35.28,-50.26,-98.84,-65.95,0.0,36.25,3,142.92,16.6,-84.78,0.0,,8,,20260606
+IVZ,Invesco Ltd.,Financial Services,Asset Management,NYSE,27.35,5526671,12124163072,0.8843,25.8,24.65,1.7579,6.46,5.46,71.13,31.98,0.0,88.75,2,29.61,14.17,-7.63,0.0,,8,,20260606
+EQH,"Equitable Holdings, Inc.",Financial Services,Asset Management,NYSE,40.8,4359476,11485990912,1.4152,40.44,44.75,0.2523,-5.31,-17.77,-46.11,-25.99,0.0,74.5,3,56.61,35.2,-27.93,0.0,,8,,20260606
+DRS,"Leonardo DRS, Inc.",Industrials,Aerospace & Defense,NASDAQ,46.15,1019195,12311070720,1.5136,44.04,40.72,1.3945,-10.52,28.67,-21.7,-1.27,0.0,65.0,2,49.31,32.43,-6.41,0.0,,8,,20260606
+GDDY,GoDaddy Inc.,Technology,Software - Infrastructure,NYSE,84.38,2379736,11172742144,4.2713,85.74,111.21,-0.3183,-20.18,-43.59,-78.89,-51.86,0.0,45.75,4,183.34,73.06,-53.98,0.0,,8,,20260606
+PRDSY,Prada S.p.A.,Consumer Cyclical,Luxury Goods,PNK,9.46,32450,12167255040,0.2291,9.23,10.44,1.0041,-22.3,-28.05,-52.77,-36.5,0.0,52.0,3,13.3,8.9,-28.87,0.0,,8,,20260606
+CRDIY,"Yokohama Financial Group, Inc.",Financial Services,Banks - Regional,PNK,31.0,9024,11485266944,1.3927,29.29,25.88,1.2281,-14.06,21.03,36.33,18.38,0.0,87.5,2,39.91,18.36,-22.33,0.0,,8,,20260606
+IVPAF,Ivanhoe Mines Ltd.,Basic Materials,Other Industrial Metals & Mining,OQX,9.01,597038,12850752512,0.5034,8.48,9.93,1.0535,-21.06,-24.08,-13.1,-18.93,0.0,50.75,3,15.0,6.5,-39.93,0.0,,8,,20260606
+DPLMF,Diploma PLC,Industrials,Industrial Distribution,PNK,92.8,89,12443532288,0.4682,89.69,77.47,6.6287,15.15,21.14,24.26,20.89,0.0,75.0,2,96.0,62.6,-3.34,0.0,,8,,20260606
+SVTMF,SM Investments Corporation,Consumer Cyclical,Department Stores,PNK,9.81,25,11937241088,0.0416,10.56,11.68,-17.9531,-22.02,-31.65,-65.34,-42.72,0.0,0.0,4,15.54,9.78,-36.87,0.0,,8,,20260606
+HAGHY,Hensoldt AG,Industrials,Aerospace & Defense,PNK,9.01,173858,10406550528,0.4589,9.12,9.72,-0.2449,-8.69,4.58,-46.62,-19.22,0.0,62.75,4,13.74,7.57,-34.43,0.0,,8,,20260606
+BDWBY,Budweiser Brewing Company APAC Limited,Consumer Defensive,Beverages - Brewers,PNK,3.94,779,13031322624,0.1517,3.62,3.76,2.1278,-3.8,-12.18,-26.25,-15.71,0.0,80.0,3,4.79,3.44,-17.75,0.0,,8,,20260606
+SVTRF,Severn Trent PLC,Utilities,Utilities - Regulated Water,PNK,38.66,96,11665678336,0.1509,41.7,38.53,-20.1529,-22.65,-7.49,-23.21,-17.57,0.0,25.0,3,43.55,34.52,-11.23,0.0,,8,,20260606
+MDGL,"Madrigal Pharmaceuticals, Inc.",Healthcare,Biotechnology,NASDAQ,486.98,318119,11227645952,21.5559,516.26,490.44,-1.3584,2.52,-24.48,49.16,11.73,0.0,48.25,3,615.0,271.96,-20.82,0.0,,8,,20260606
+HUT,Hut 8 Corp.,Financial Services,Capital Markets,NASDAQ,112.24,4746815,12637562880,9.9119,86.16,55.61,2.6309,128.46,172.0,534.66,306.18,0.0,90.0,2,140.8,15.26,-20.28,0.0,,8,,20260606
+CNA,CNA Financial Corporation,Financial Services,Insurance - Property & Casualty,NYSE,43.66,469944,11811401728,0.9701,45.01,44.45,-1.3959,-18.33,-7.5,-24.52,-17.02,0.0,35.25,4,50.72,41.53,-13.92,0.0,,8,,20260606
+HKTTF,HKT Trust and HKT Limited,Communication Services,Telecom Services,PNK,1.66,69,12596854784,0.022,1.41,1.44,11.4279,9.2,1.32,42.61,19.81,0.0,75.0,3,2.0,1.0,-16.91,0.0,,8,,20260606
+SWK,"Stanley Black & Decker, Inc.",Industrials,Tools & Accessories,NYSE,78.48,1932295,12200153088,2.4899,75.25,74.56,1.2972,-5.69,0.94,-1.46,-1.68,0.0,88.75,2,93.37,61.9,-15.95,0.0,,8,,20260606
+SITIY,SITC International Holdings Company Limited,Industrials,Marine Shipping,PNK,44.09,1042,11862978560,1.3575,43.64,38.6,0.3321,-5.4,27.17,23.92,17.73,0.0,81.25,2,46.86,28.62,-5.91,0.0,,8,,20260606
+GWRE,"Guidewire Software, Inc.",Technology,Software - Application,NYSE,136.06,1444253,11567709184,10.0496,139.85,183.18,-0.3775,-29.42,-45.4,-71.61,-51.89,0.0,24.5,4,272.6,115.57,-50.09,0.0,,8,,20260606
+PRDSF,Prada S.p.A.,Consumer Cyclical,Luxury Goods,PNK,4.71,4079,12319345664,0.1276,4.65,5.17,0.4476,-16.71,-34.82,-50.83,-36.7,0.0,44.5,3,6.62,4.35,-28.85,0.0,,8,,20260606
+MIUFY,Mitsubishi HC Capital Inc.,Financial Services,Credit Services,PNK,15.8,92,11343781888,0.2853,17.56,16.81,-6.157,-26.83,1.26,-10.01,-10.27,0.0,14.5,4,19.85,13.8,-20.4,0.0,,8,,20260606
+NRXXY,Nordex SE,Industrials,Specialty Industrial Machinery,PNK,23.94,622,11343804416,0.5729,26.92,18.79,-5.195,7.39,52.79,107.29,63.24,0.0,51.25,3,29.54,9.95,-18.94,0.0,,8,,20260606
+DELHY,Delivery Hero SE,Consumer Cyclical,Internet Retail,PNK,4.37,348422,13273837568,0.1694,2.75,2.58,9.581,108.17,88.74,42.3,75.02,0.0,92.5,2,4.64,1.68,-5.82,0.0,,8,,20260606
+TDHOF,"T&D Holdings, Inc.",Financial Services,Insurance - Life,PNK,26.51,18,12721243136,0.3904,19.46,-14.24,18.0483,-166.99,-164.19,-83.5,-132.61,0.0,62.0,3,26.69,21.49,-0.67,0.0,,8,,20260606
+HNSDF,Hensoldt AG,Industrials,Aerospace & Defense,PNK,89.97,138,10391304192,1.5037,92.24,96.45,-1.51,-2.44,8.26,-48.21,-17.0,0.0,50.25,4,131.65,77.5,-31.66,0.0,,8,,20260606
+WSOUF,WHSP Holdings Limited,Financial Services,Capital Markets,PNK,30.84,3,11718622208,0.1443,27.5,24.38,23.1594,8.55,21.46,19.85,17.59,0.0,75.0,2,31.0,21.0,-0.5,0.0,,8,,20260606
+AGRPY,Absa Group Limited,Financial Services,Banks - Regional,PNK,28.08,536,11636058112,0.6039,28.11,25.93,-0.0488,-15.54,4.84,21.5,6.41,0.0,42.0,3,33.99,18.7,-17.39,0.0,,8,,20260606
+AGNCZ,AGNC Investment Corp.,Real Estate,REIT - Mortgage,NASDAQ,25.39,64058,0,0.1116,25.23,25.39,1.419,-8.93,-4.54,-8.27,-7.13,0.0,85.0,3,26.37,24.58,-3.72,0.0,,8,,20260606
+AGNCP,AGNC Investment Corp.,Real Estate,REIT - Mortgage,NASDAQ,25.08,92636,0,0.1076,24.68,24.17,3.7551,-7.15,-3.33,-14.31,-8.68,0.0,87.5,2,25.57,23.62,-1.92,0.0,,8,,20260606
+AGNCN,AGNC Investment Corp.,Real Estate,REIT - Mortgage,NASDAQ,25.82,25974,12337622094,0.1084,25.53,24.81,2.6917,-6.78,-2.46,-14.37,-8.3,0.0,96.25,2,26.11,24.65,-1.11,0.0,,8,,20260606
+AGNCL,AGNC Investment Corp.,Real Estate,REIT - Mortgage,NASDAQ,25.15,15741,0,0.2044,24.72,24.21,2.0941,-8.18,-2.92,-14.5,-8.87,0.0,90.0,2,25.44,23.61,-1.14,0.0,,8,,20260606
+AGNCM,AGNC Investment Corp.,Real Estate,REIT - Mortgage,NASDAQ,25.06,20974,11974039487,0.1311,24.68,24.08,2.913,-7.27,-2.02,-13.78,-8.04,0.0,93.75,2,25.36,23.63,-1.19,0.0,,8,,20260606
+AGNCO,AGNC Investment Corp.,Real Estate,REIT - Mortgage,NASDAQ,25.52,31966,0,0.0912,25.27,24.58,2.8049,-7.24,-3.15,-14.92,-8.88,0.0,92.5,2,25.87,24.39,-1.33,0.0,,8,,20260606
+AGNC,AGNC Investment Corp.,Real Estate,REIT - Mortgage,NASDAQ,10.17,17067223,11674440704,0.1791,10.33,9.96,-0.9081,-11.03,-4.54,4.26,-2.64,0.0,73.25,3,12.19,9.01,-16.57,0.0,,8,,20260606
+ALGN,"Align Technology, Inc.",Healthcare,Medical Instruments & Supplies,NASDAQ,167.74,1150501,12013224960,6.442,172.96,158.66,-0.8099,-13.59,-0.24,-31.99,-16.28,0.0,48.25,3,208.31,122.0,-19.48,0.0,,8,,20260606
+PSKY,Paramount Skydance Corporation,Communication Services,Entertainment,NASDAQ,10.22,11196520,11437949952,0.4664,10.55,13.15,-0.7007,-24.31,-38.17,-38.15,-34.7,0.0,23.25,4,20.86,8.62,-51.01,0.0,,8,,20260606
+ASEKF,Aisin Corporation,Consumer Cyclical,Auto Parts,PNK,16.09,382,11658376192,0.7015,13.18,-5.42,4.1494,-167.27,-188.24,-84.81,-141.63,0.0,67.0,3,21.26,10.08,-24.32,0.0,,8,,20260606
+HRL,Hormel Foods Corporation,Consumer Defensive,Packaged Foods,NYSE,23.62,5426174,12997713920,0.6495,21.39,22.93,3.4259,-11.89,-4.2,-44.4,-22.2,0.0,60.0,3,31.86,19.7,-25.86,0.0,,8,,20260606
+GRPTF,Getlink SE,Industrials,Railroads,PNK,21.6,57,11717441536,0.0089,21.42,19.12,20.4816,-4.97,9.9,-1.18,1.75,0.0,75.0,2,21.6,16.97,0.0,0.0,,8,,20260606
+COKE,"Coca-Cola Consolidated, Inc.",Consumer Defensive,Beverages - Non-Alcoholic,NASDAQ,179.91,550792,11975582720,7.8915,186.49,160.04,-0.8335,-21.85,1.31,43.1,12.23,0.0,52.0,3,219.65,105.21,-18.09,0.0,,8,,20260606
+TXRH,"Texas Roadhouse, Inc.",Consumer Cyclical,Restaurants,NASDAQ,170.46,1113693,11204271104,6.1068,166.84,170.3,0.5931,-9.76,-6.72,-36.35,-19.33,0.0,86.25,3,197.0,153.83,-13.47,0.0,,8,,20260606
+ATZAF,Aritzia Inc.,Consumer Cyclical,Apparel Retail,PNK,115.69,50942,13253057536,4.0173,99.64,81.43,3.9954,22.52,33.57,103.94,58.96,0.0,87.5,2,115.57,48.1,0.1,0.0,,8,,20260606
+LFUS,"Littelfuse, Inc.",Technology,Electronic Components,NASDAQ,457.34,309438,11565627392,18.9931,414.14,314.19,2.2743,41.56,70.1,89.45,70.71,0.0,88.75,2,500.57,213.08,-8.64,0.0,,8,,20260606
+AMH,American Homes 4 Rent,Real Estate,REIT - Residential,NYSE,33.27,3228598,13665073152,0.6401,30.91,31.2,3.6875,2.58,-0.74,-32.28,-12.53,0.0,88.75,3,37.23,27.22,-10.64,0.0,,8,,20260606
+WBS,Webster Financial Corporation,Financial Services,Banks - Regional,NYSE,72.27,3418126,11709654016,0.7595,71.52,64.67,0.9852,-3.91,9.22,17.75,9.35,0.0,81.25,2,74.0,50.66,-2.34,0.0,,8,,20260606
+SKFRY,AB SKF (publ),Industrials,Tools & Accessories,PNK,26.54,24514,12085017600,0.7132,25.08,25.55,2.0519,-6.24,-9.28,-4.28,-6.52,0.0,87.5,3,29.41,21.37,-9.76,0.0,,8,,20260606
+YASKY,YASKAWA Electric Corporation,Industrials,Electrical Equipment & Parts,PNK,86.82,11080,11259163648,3.6052,72.43,59.81,3.9912,36.35,48.84,57.46,49.17,0.0,88.75,2,92.46,37.53,-6.1,0.0,,8,,20260606
+DLAKF,Deutsche Lufthansa AG,Industrials,Airlines,OQX,9.82,4930,11776781312,0.211,8.9,8.92,4.3521,-2.73,-5.06,0.66,-2.19,0.0,76.25,3,11.54,7.44,-14.9,0.0,,8,,20260606
+ROHCY,"ROHM Co., Ltd.",Technology,Semiconductors,PNK,34.3,3077,13241003008,1.1981,24.76,17.89,7.9658,85.36,138.65,182.79,142.98,0.0,86.25,2,34.25,11.18,0.15,0.0,,8,,20260606
+ZHAOF,Zhaojin Mining Industry Company Limited,Basic Materials,Gold,PNK,2.96,166,10485483520,0.08,3.83,3.52,-10.8866,-39.74,-38.26,4.17,-21.66,0.0,1.25,4,4.4,2.25,-32.73,0.0,,8,,20260606
+GMED,"Globus Medical, Inc.",Healthcare,Medical Devices,NYSE,80.0,1379646,10859570176,2.6646,86.45,80.1,-2.4205,-18.14,-17.29,8.91,-7.02,0.0,23.25,4,101.4,51.79,-21.1,0.0,,8,,20260606
+CLX,The Clorox Company,Consumer Defensive,Household & Personal Products,NYSE,94.14,2769825,11383535616,2.9941,96.05,107.02,-0.6363,-26.85,-16.82,-49.3,-32.32,0.0,22.0,4,132.03,84.7,-28.7,0.0,,8,,20260606
+FMS,Fresenius Medical Care AG,Healthcare,Medical Care Facilities,NYSE,22.03,710553,11832957952,0.4769,21.55,22.86,1.0136,-10.13,-11.23,-43.94,-24.04,0.0,45.75,3,29.07,20.02,-24.22,0.0,,8,,20260606
